@@ -5,7 +5,7 @@
 ###################################################################################################
 
 # working directory
-wd="/mnt/shared/Documents/Research/BIOT 499/GEM/"
+wd="/GEM/"
 cd "$wd"
 
 # create mamba envr
