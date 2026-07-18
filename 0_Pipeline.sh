@@ -38,7 +38,12 @@ pip install cameo straindesign
 1_genome/step_1.sh
 
 # Step 2: Annotation with BAKTA (online)
-# Step 3: Validation with BLAST and Domain Analysis
+
+# Step 3: Validation with BLAST and Domain Analysis with ColabFold
+Rscript 3_validation/step_3.1.R
+Jupyter step_3.2 (ColabFold).ipynb
+python3 step_3.3.py 2>&1 | tee step_3.3.log
+
 # Step 4: KBase Model (online)
 
 # Step 5: CarveMe Model
