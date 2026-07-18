@@ -1,9 +1,0 @@
-======================================================================
-STEP 7.2 — FBA: GROWTH AND PHB PRODUCTION
-======================================================================
-Biomass reaction: Growth
-PHB reaction:     PHBS_syn_1
-
-[max_growth] status=optimal growth=0.445370 /h  PHB_flux=0.000000
-[max_PHB] status=optimal growth=0.063958 /h  PHB_flux=10.000000
-[growth_coupled_90pct] status=optimal growth=0.400833 /h  PHB_flux=3.937982
