@@ -25,7 +25,7 @@ Before anything else, a dedicated `mamba` environment is created and activated, 
 | **Output** | Mamba environment `thesis_gem` containing: python=3.10, pillow, tqdm, regex, platformdirs, sniffio, websocket-client, seaborn, networkx, SALib, highspy, ncbi-datasets-cli, carveme, rdkit, memote — plus `cameo` and `straindesign` installed via pip |
 
 ```bash
-wd=""
+wd=".../GEM/"
 cd "$wd"
 
 mamba create -n thesis_gem -c conda-forge -c bioconda \
