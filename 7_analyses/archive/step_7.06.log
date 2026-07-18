@@ -1,0 +1,18 @@
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+Biomass:  Growth
+PHB:      PHBS_syn_1
+Carbon:   EX_glc__D_e
+Nitrogen: EX_nh4_e
+Oxygen:   EX_o2_e
+
+Running dFBA scenario: standard ...
+  final biomass=1740.565 g/L, final PHB=0.000 mM  -> ./step_7.6_dfba_standard.csv
+
+Running dFBA scenario: n_limited ...
+  final biomass=1740.565 g/L, final PHB=0.000 mM  -> ./step_7.6_dfba_n_limited.csv
+
+Running dFBA scenario: two_stage ...
+  final biomass=2.330 g/L, final PHB=313.391 mM  -> ./step_7.6_dfba_two_stage.csv
+
+Combined time-course figure written to: ./step_7.6_dfba_timecourse.png

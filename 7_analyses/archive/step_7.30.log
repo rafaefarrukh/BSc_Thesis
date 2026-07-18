@@ -1,0 +1,21 @@
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+Default uptake caps: glucose lb=-10.0, NH4 lb=-15.0
+======================================================================
+STEP 7.30 — CORRECTED DYNAMIC FBA
+======================================================================
+
+Running corrected dFBA scenario: standard ...
+  [standard] WARNING: biomass exceeded sanity cap (100.0 gDW/L) at t=17.30h — stopping early. This usually means the growth rate is unrealistically high for the timestep; consider revisiting biomass/maintenance terms.
+[standard] final biomass=101.966 g/L, final glucose=20.000 mM, final PHB=0.000 mM  (STOPPED EARLY — see warning)
+
+Running corrected dFBA scenario: n_limited ...
+  [n_limited] WARNING: biomass exceeded sanity cap (100.0 gDW/L) at t=17.30h — stopping early. This usually means the growth rate is unrealistically high for the timestep; consider revisiting biomass/maintenance terms.
+[n_limited] final biomass=101.966 g/L, final glucose=20.000 mM, final PHB=0.000 mM  (STOPPED EARLY — see warning)
+
+Running corrected dFBA scenario: two_stage ...
+[two_stage] final biomass=1.734 g/L, final glucose=20.000 mM, final PHB=276.499 mM
+
+Combined figure written to: ./step_7.30_dfba_timecourse_corrected.png
+
+Summary written to: ./step_7.30_summary.txt

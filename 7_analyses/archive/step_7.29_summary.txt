@@ -1,0 +1,31 @@
+STEP 7.29 (FIXED) — Corrected carbon-source screen summary
+============================================================
+Carbon sources tested: ['Glucose', 'Fructose', 'Glycerol', 'Sucrose', 'Maltose', 'Mannose', 'Mannitol', 'Arabinose', 'Melibiose', 'Acetate', 'Succinate', 'Pyruvate']
+
+Fix applied: biomass is now fixed at the ACHIEVED growth rate
+(not 0.0) before maximizing PHB, so growth_coupled_PHB_flux reflects
+PHB production at that condition's growth optimum rather than the
+model's unconstrained PHB ceiling (which was always 10.0 before).
+
+Growth-rate result (carried over from the exchange-closing fix,
+unaffected by this PHB fix): growth is numerically identical across
+11 of 12 carbon sources, scaling only with the O2 bound and topping
+out at 0.3722 /h -- the same ceiling independently seen in step_7.8's
+O2-uptake sweep. Only maltose reaches the model's true unconstrained
+ceiling (0.4454 /h), pointing to a shared downstream bottleneck that
+every other substrate hits regardless of carbon supply. See step_7.32
+for the bottleneck-identification follow-up.
+
+Distinct growth-rate values per aeration level:
+aeration
+Aerobic         2
+Anaerobic       2
+Hyperaerobic    2
+Microaerobic    2
+
+Distinct growth-coupled PHB values per aeration level:
+aeration
+Aerobic         2
+Anaerobic       2
+Hyperaerobic    2
+Microaerobic    2

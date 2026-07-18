@@ -1,0 +1,14 @@
+
+Wild-type growth rate: 0.429406 /h
+Running single-reaction knockout screen (this can take a while on a ~2000-reaction model)...
+
+Classification counts:
+classification
+non-essential    1867
+essential          88
+critical            8
+
+Computing growth-coupled PHB flux after each non-lethal knockout (this is the slower part)...
+
+Full knockout screen written to: step_7_results/step_7.16_knockout_screen_full.csv
+Bar chart written to: step_7_results/step_7.16_essential_critical_bar_chart.png

@@ -1,0 +1,36 @@
+======================================================================
+STEP 7.02 — pFBA AT PHB OPTIMUM
+======================================================================
+Objective (maximized): PHBS_syn_1
+Status:                optimal
+PHB flux:              30.334582
+Growth rate at optimum: 0.000000 /h
+Sum of |fluxes| (total parsimonious flux): 1213.4988
+Reactions carrying nonzero flux: 181 / 1963
+
+Top 25 reactions by |flux|:
+  AACOAR_syn                30.3346  Acetoacetyl-CoA reductase (R-specific)
+  SK_phb_c                  30.3346  Demand reaction for PHB accumulation
+  PHBS_syn_1                30.3346  PHB synthetase
+  O2tpp                     20.0000  O2 transport via diffusion (periplasm)
+  PYK                       20.0000  Pyruvate kinase
+  EX_co2_e                  20.0000  R_EX_co2_e
+  O2tex                     20.0000  Oxygen transport via diffusion (extracellular to periplasm)
+  EX_o2_e                  -20.0000  R_EX_o2_e
+  H2Otex                    20.0000  H2O transport via diffusion (extracellular to periplasm)
+  ALCD19                    20.0000  Alcohol dehydrogenase (glycerol)
+  ACACT1r                   15.2113  Acetyl-CoA C-acetyltransferase
+  OCOAT1                    10.7767  3-oxoacid CoA-transferase (Succinyl-CoA: acetoacetate)
+  13PPDH                    10.7591  1,3-propanediol dehydrogenase
+  ALATA_L                  -10.0000  L-alanine transaminase
+  EX_succ_e                 10.0000  R_EX_succ_e
+  ENO                       10.0000  Enolase
+  GLYCK                     10.0000  Glycerate kinase
+  EX_nac_e                  10.0000  R_EX_nac_e
+  PGM                      -10.0000  Phosphoglycerate mutase
+  TARTDC                    10.0000  Tartrate decarboxylase
+  NAPRT                    -10.0000  NAPRTase (rev)
+  GALpts                   -10.0000  Galactose transport via PTS
+  3NUCLE4                  -10.0000  3  nucleotidase  guanosine 3  phosphate
+  EX_23cgmp_e              -10.0000  R_EX_23cgmp_e
+  GALUi                     10.0000  UTP-glucose-1-phosphate uridylyltransferase (irreversible)

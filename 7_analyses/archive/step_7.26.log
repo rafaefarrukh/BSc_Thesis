@@ -1,0 +1,18 @@
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+Default EX_glc__D_e bounds (before fix): (-10.0, 10.0)
+======================================================================
+STEP 7.26 (FIXED) — YIELD ANALYSIS
+======================================================================
+
+Yield summary (glucose now explicitly fixed at -10.0 mmol/gDW/h before each optimization):
+            scenario  growth_rate  glc_uptake  phb_flux  mass_yield_g_g  c_yield  pct_theoretical
+      growth_optimal     0.445370         0.0  0.000000             NaN      NaN              NaN
+         PHB_optimal     0.063958         0.0 10.000000             NaN      NaN              NaN
+growth_coupled_90pct     0.400833         0.0  3.937982             NaN      NaN              NaN
+
+WARNING: at least one scenario still shows ~0 glucose uptake even with the exchange forced open. This means the model is meeting its objective via a DIFFERENT carbon source entirely under default bounds -- check which other exchanges are open by default (see step_7.29 findings: most non-maltose sugars share a common downstream bottleneck, so verify the model isn't defaulting to an alternate, unconstrained substrate).
+
+Envelope-yield figure written to: ./step_7.26_yield_vs_growth.png
+
+Summary written to: ./step_7.26_summary.txt

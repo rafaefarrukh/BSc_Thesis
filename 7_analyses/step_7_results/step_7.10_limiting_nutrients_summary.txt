@@ -1,0 +1,32 @@
+STEP 7.10 — Shadow Price & Reduced Cost Summary
+======================================================================
+
+[growth_optimum] objective value = 0.429406
+  Most limiting exchanged metabolites (most negative shadow price):
+    nmn_e                -0.0197  NMN C11H14N2O8P
+  Reactions with a binding (nonzero reduced-cost) bound:
+    EX_nmn_e             -0.0394  R_EX_nmn_e
+    EX_nh4_e              0.0080  R_EX_nh4_e
+
+[PHB_optimum] objective value = 30.334582
+  Most limiting exchanged metabolites (most negative shadow price):
+    23cgmp_e             -0.2321  2',3'-Cyclic GMP
+    o2_e                 -0.2072  O2 O2
+    tartr__L_e           -0.1315  L-tartrate
+    h2o_e                -0.0916  H2O H2O
+    gthrd_e              -0.0916  Reduced glutathione
+    h_e                  -0.0239  H+
+    arab__L_e            -0.0120  L-Arabinose
+    acac_e               -0.0120  Acetoacetate
+    glyald_e             -0.0120  D-Glyceraldehyde
+  Reactions with a binding (nonzero reduced-cost) bound:
+    EX_nh4_e              0.6375  R_EX_nh4_e
+    EX_23cgmp_e          -0.4641  R_EX_23cgmp_e
+    EX_o2_e              -0.4143  R_EX_o2_e
+    EX_tartr__L_e        -0.2629  R_EX_tartr__L_e
+    EX_gthrd_e           -0.1833  R_EX_gthrd_e
+    EX_h2o_e             -0.1833  R_EX_h2o_e
+    EX_h_e               -0.0478  R_EX_h_e
+    EX_arab__L_e         -0.0239  R_EX_arab__L_e
+    EX_acac_e            -0.0239  R_EX_acac_e
+    EX_glyald_e          -0.0239  R_EX_glyald_e

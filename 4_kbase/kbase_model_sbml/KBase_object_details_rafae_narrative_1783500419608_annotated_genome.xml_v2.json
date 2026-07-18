@@ -1,0 +1,127 @@
+{
+    "metadata": [
+        [
+            5,
+            "annotated_genome.xml",
+            "KBaseFBA.FBAModel-15.0",
+            "2026-07-08T09:32:25+0000",
+            2,
+            "rafae",
+            264691,
+            "rafae:narrative_1783500419608",
+            "9277549f1dd26380c7aff7042cd4d63f",
+            477099,
+            {
+                "Genome": "264691/3/1",
+                "Name": "Bacillus marisflavi",
+                "Number biomasses": "1",
+                "Number compartments": "2",
+                "Number compounds": "441",
+                "Number gapfills": "6",
+                "Number gapgens": "0",
+                "Number reactions": "324",
+                "Source": "",
+                "Source ID": "",
+                "Type": ""
+            }
+        ]
+    ],
+    "provenance": [
+        {
+            "copy_source_inaccessible": 0,
+            "created": "2026-07-08T09:32:24+0000",
+            "creator": "rafae",
+            "epoch": 1783503144968,
+            "extracted_ids": {},
+            "info": [
+                5,
+                "annotated_genome.xml",
+                "KBaseFBA.FBAModel-15.0",
+                "2026-07-08T09:32:25+0000",
+                2,
+                "rafae",
+                264691,
+                "rafae:narrative_1783500419608",
+                "9277549f1dd26380c7aff7042cd4d63f",
+                477099,
+                {
+                    "Genome": "264691/3/1",
+                    "Name": "Bacillus marisflavi",
+                    "Number biomasses": "1",
+                    "Number compartments": "2",
+                    "Number compounds": "441",
+                    "Number gapfills": "6",
+                    "Number gapgens": "0",
+                    "Number reactions": "324",
+                    "Source": "",
+                    "Source ID": "",
+                    "Type": ""
+                }
+            ],
+            "orig_wsid": 264691,
+            "path": [
+                "264691/5/2"
+            ],
+            "provenance": [
+                {
+                    "custom": {},
+                    "description": "build_metabolic_models",
+                    "external_data": [],
+                    "input_ws_objects": [
+                        "262/34/1",
+                        "12998/20/6",
+                        "264691/3/1",
+                        "12998/23/3",
+                        "12998/20/6"
+                    ],
+                    "intermediate_incoming": [],
+                    "intermediate_outgoing": [],
+                    "method": "build_metabolic_models",
+                    "method_params": [
+                        {
+                            "atp_safe": 1,
+                            "change_to_complete": 1,
+                            "core_template_ref": null,
+                            "expression_conditions": [],
+                            "expression_refs": [],
+                            "forced_atp_list": [
+                                "Glc.O2"
+                            ],
+                            "gapfilling_media_list": [
+                                null
+                            ],
+                            "gapfilling_mode": "Sequential",
+                            "genome_refs": [
+                                "264691/3/1"
+                            ],
+                            "gs_template": "grampos",
+                            "gs_template_ref": null,
+                            "run_gapfilling": 1,
+                            "suffix": ".xml",
+                            "workspace": "rafae:narrative_1783500419608"
+                        }
+                    ],
+                    "resolved_ws_objects": [
+                        "262/34/1",
+                        "12998/20/6",
+                        "264691/3/1",
+                        "12998/23/3",
+                        "12998/20/6"
+                    ],
+                    "service": "ModelSEEDReconstruction",
+                    "service_ver": "0.1.1.msr",
+                    "subactions": []
+                }
+            ],
+            "refs": [
+                "94026/116/5",
+                "94026/128/5",
+                "264691/3/1",
+                "94026/108/5",
+                "94026/98/5",
+                "94026/118/5",
+                "262/34/1"
+            ]
+        }
+    ]
+}

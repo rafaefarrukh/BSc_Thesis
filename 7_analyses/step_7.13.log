@@ -1,0 +1,32 @@
+  (Capping plot from 1608 to 150 reactions)
+Running FVA on 150 reactions within 6 hops of PHB synthesis (fraction_of_optimum=0.9)...
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.13.py:84: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.
+  cmap = cm.get_cmap("viridis_r")
+Flexibility table written to: step_7_results/step_7.13_pathway_flexibility.csv
+Bar chart written to: step_7_results/step_7.13_pathway_flexibility_bar_chart.png
+
+Most rigid (least flexible) reactions:
+reaction_id  distance_from_PHB  flux_range
+     HACD1i                  2    0.000000
+      HACD1                  2    0.000000
+      ACOXT                  3    0.000000
+    ACACT8r                  3    0.000000
+     ECOAH1                  3    0.000000
+     AACPS5                  4    0.000000
+      KAS17                  3    0.000000
+     HSERTA                  3    0.000000
+   ACALDtpp                  4    0.000000
+      KAS13                  3    0.000052
+
+Most flexible reactions:
+reaction_id  distance_from_PHB  flux_range
+      ACONT                  4   28.429239
+     ACONTa                  4   28.429239
+     ACONTb                  4   28.429239
+      SUCD2                  3   22.001526
+       FRD2                  3   21.965177
+      SHSL2                  3   20.000000
+     SHSL2r                  3   20.000000
+       PTAr                  3   18.413144
+       ACKr                  3   18.413144
+       FRD3                  3   18.410728

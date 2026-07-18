@@ -1,0 +1,34 @@
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+Found 1702 reactions within 4 hops of PHB synthesis.
+NOTE: 1702 reactions in scope found, capping to the first 120 to keep runtime/memory bo3unded. Adjust the relevant MAX_* constant at the top of the script if you need more.
+Scoping flux coupling analysis to 120 reactions.
+
+Drawing 150 random flux samples via 'achr' (this is the slow step)...
+  (dropping 8 reactions with ~zero flux variance in the samples)
+Computing pairwise correlation matrix...
+
+Found 140 reaction pairs with |r| >= 0.9.
+Coupled-pairs table written to: ./step_7.14_flux_coupling_pairs.csv
+       reaction_1    reaction_2  pearson_r             coupling_type
+             KAS4          KAS6        1.0 positive (co-directional)
+FACOAL150_anteiso FACOAL160_ISO        1.0 positive (co-directional)
+FACOAL150_anteiso          KAS3        1.0 positive (co-directional)
+FACOAL150_anteiso          KAS6        1.0 positive (co-directional)
+FACOAL170_anteiso          KAS6        1.0 positive (co-directional)
+FACOAL170_anteiso          KAS3        1.0 positive (co-directional)
+            KAS12          KAS6        1.0 positive (co-directional)
+            KAS12          KAS3        1.0 positive (co-directional)
+       PHBS_syn_1    AACOAR_syn        1.0 positive (co-directional)
+          3OXCOAT       PACCOAL        1.0 positive (co-directional)
+          ACACT4r     ACACT5r_1        1.0 positive (co-directional)
+          ACACT5r FACOAL100t2pp        1.0 positive (co-directional)
+    FACOAL150_ISO         KAS12        1.0 positive (co-directional)
+    FACOAL150_ISO          KAS3        1.0 positive (co-directional)
+FACOAL150_anteiso         KAS12        1.0 positive (co-directional)
+    FACOAL170_ISO         KAS11        1.0 positive (co-directional)
+             KAS3          KAS6        1.0 positive (co-directional)
+             KAS3          KAS4        1.0 positive (co-directional)
+FACOAL170_anteiso          KAS4        1.0 positive (co-directional)
+          ACACT8r         KAS17        1.0 positive (co-directional)
+Heatmap written to: ./step_7.14_flux_coupling_heatmap.png

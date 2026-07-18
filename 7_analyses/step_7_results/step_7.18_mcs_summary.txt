@@ -1,0 +1,6 @@
+STEP 7.18 — Minimal Cut Sets (heuristic search)
+======================================================================
+Candidate pool size: 60
+Cut sets found: 0
+
+No cut sets found within the searched pool/size limit. Consider increasing MAX_CANDIDATE_POOL, testing triples, or installing 'straindesign' for exact enumeration.

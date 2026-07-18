@@ -1,0 +1,4 @@
+scenario,status,growth_rate_1_h,phb_flux
+max_growth,optimal,0.42940554294404154,0.0
+max_PHB,optimal,0.0,30.334581673306783
+growth_coupled_90pct,optimal,0.42940554294403877,4.678907691915781

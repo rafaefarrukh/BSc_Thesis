@@ -1,0 +1,13 @@
+STEP 7.11 — Shadow Price & Reduced Cost Summary
+======================================================================
+
+[growth_optimum] objective value = 0.445370
+  Most limiting exchanged metabolites (most negative shadow price):
+    nmn_e                -0.0274  NMN C11H14N2O8P
+  Reactions with a binding (nonzero reduced-cost) bound:
+    EX_nmn_e             -0.0547  R_EX_nmn_e
+    EX_metsox_S__L_e       0.0173  R_EX_metsox_S__L_e
+
+[PHB_optimum] objective value = 10.000000
+  No metabolites with a meaningfully negative shadow price found.
+  No reactions with a nonzero reduced cost found.

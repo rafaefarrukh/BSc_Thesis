@@ -1,0 +1,16 @@
+Biomass:  Growth
+PHB:      PHBS_syn_1
+Carbon:   EX_malt_e
+Nitrogen: EX_nh4_e
+Oxygen:   EX_o2_e
+
+Running dFBA scenario: standard ...
+  final biomass=4810770696883161.000 g/L, final PHB=0.000 mM  -> step_7_results/step_7.05_dfba_standard__maltose.csv
+
+Running dFBA scenario: n_limited ...
+  final biomass=4810770696883161.000 g/L, final PHB=0.000 mM  -> step_7_results/step_7.05_dfba_n_limited__maltose.csv
+
+Running dFBA scenario: two_stage ...
+  final biomass=4489.717 g/L, final PHB=4748797.586 mM  -> step_7_results/step_7.05_dfba_two_stage__maltose.csv
+
+Combined time-course figure written to: step_7_results/step_7.05_dfba_timecourse_maltose.png

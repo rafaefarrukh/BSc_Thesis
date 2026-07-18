@@ -1,0 +1,6 @@
+STEP 7.17 — Strain Design (heuristic growth/PHB coupling search)
+======================================================================
+Wild-type growth: 0.429406 /h; wild-type min PHB at max growth: 0.000000
+
+Best single knockout: AACOAR_syn -> max growth 0.4294 /h, forced min PHB flux 0.0000
+Best double knockout: 2MAHMP + 2PGLYCt6 -> max growth 0.4294 /h, forced min PHB flux 0.0000

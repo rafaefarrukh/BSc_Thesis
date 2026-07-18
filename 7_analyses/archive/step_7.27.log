@@ -1,0 +1,18 @@
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+Wild-type growth rate: 0.445370 /h
+Genes associated with at least one reaction: 1153 / 1159
+
+Running single-gene knockout screen (this can take a while on a ~1159-gene model)...
+
+Gene classification counts:
+classification
+non-essential    1107
+essential          52
+
+52 essential genes written to: ./step_7.27_essential_genes.csv
+
+Reactions in step_7.20 screen with no GPR (not genetically interpretable): 464
+Gene-essential reactions NOT flagged essential at reaction level (likely isozyme/complex cases): 82
+
+Summary written to: ./step_7.27_summary.txt

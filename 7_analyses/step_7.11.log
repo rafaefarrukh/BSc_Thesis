@@ -1,0 +1,130 @@
+PHB synthesis start (PHBS_syn_1): PHBS_syn_1 | PHB synthetase | bounds=(0.0, 1000.0)
+    3hbcoa__R --> coa_c + phb_c
+
+Building reaction-adjacency graph (excluding currency metabolites)...
+Running BFS from PHB synthesis...
+  1661 / 1963 reactions reached (302 unreachable/boundary reactions excluded)
+
+Full ranking written to: step_7_results/step_7.11_phb_pathway_distances.csv
+
+Reactions at distance 0-3:
+  [0] PHBS_syn_1           PHB synthetase
+  [1] AACOAR_syn           Acetoacetyl-CoA reductase (R-specific)
+  [2] ACACCT               Acetyl-CoA:acetoacetyl-CoA transferase
+  [2] ACACT1r              Acetyl-CoA C-acetyltransferase
+  [2] BUTCT2               
+  [2] HACD1                3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)
+  [2] HACD1_1              3 hydroxyacyl CoA dehydrogenase  acetoacetyl CoA
+  [2] HACD1i               3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)
+  [2] OCOAT1               3-oxoacid CoA-transferase (Succinyl-CoA: acetoacetate)
+  [3] 3OXCOAT              3-oxoadipyl-CoA thiolase
+  [3] AABTN                4 acetamidobutyrate deacetylase
+  [3] AACLAM               Acetyl adenylate CoA ligase AMP-forming
+  [3] ACACT2r              Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r)
+  [3] ACACT3r              Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r)
+  [3] ACACT4r              Acetyl-CoA C-acyltransferase (octanoyl-CoA) (r)
+  [3] ACACT5r              Acetyl-CoA C-acyltransferase (decanoyl-CoA) (r)
+  [3] ACACT5r_1            Acetyl CoA C acyltransferase  decanoyl CoA
+  [3] ACACT6r_1            Acetyl CoA C acyltransferase  dodecanoyl CoA
+  [3] ACACT7r              Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r)
+  [3] ACACT8r              Acetyl-CoA acyltransferase (hexadecanoyl-CoA), (r)
+  [3] ACACt2pp             Acetoacetate transport via proton symport  (periplasm)
+  [3] ACCOAC               Acetyl-CoA carboxylase
+  [3] ACGS                 N-acetylglutamate synthase
+  [3] ACKr                 Acetate kinase
+  [3] ACOAD1               Acyl-CoA dehydrogenase (butanoyl-CoA)
+  [3] ACOAD1fr             Acyl-CoA dehydrogenase (butanoyl-CoA)
+  [3] ACOAM                Acetate CoA ligase AMP-forming
+  [3] ACODA                Acetylornithine deacetylase
+  [3] ACOXT                Acetyl-CoA:oxalate CoA-transferase
+  [3] ACS                  Acetyl-CoA synthetase
+  [3] ACSERHS              O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)
+  [3] ACS_1                Acetyl-CoA synthetase
+  [3] ACTD2                Acetoin dehydrogenase
+  [3] ACt2rpp              Acetate reversible transport via proton symport (periplasm)
+  [3] ACt4pp               Na+/Acetate symport (periplasm)
+  [3] ADPDA                N6 acetyl LL 2 6 diaminoheptanedioate amidohydrolase
+  [3] AGDC                 N-acetylglucosamine-6-phosphate deacetylase
+  [3] AHSERL2              O acetylhomoserine  thiol  lyase
+  [3] AHSERL4              Cysteine synthase  Thiosulfate
+  [3] AKGDH                2-Oxogluterate dehydrogenase
+  [3] ALDD2x               Aldehyde dehydrogenase (acetaldehyde, NAD)
+  [3] ALDD2y               Aldehyde dehydrogenase (acetaldehyde, NADP)
+  [3] ALDD4                Aldehyde dehydrogenase (butanal, NAD)
+  [3] AMID4                Amidase
+  [3] AMID_1               Acetamidase
+  [3] APATi                Tetrahydrodipicolinate acetyltransferase
+  [3] BDH                  3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN
+  [3] BSCT                 Benzoylsuccinyl-CoA thiolase
+  [3] BUTCT                Acetyl-CoA:butyrate-CoA transferase
+  [3] BUTKr                Butyrate kinase
+  [3] BUTt2rpp             Butyrate transport via proton symport, reversible (periplasm)
+  [3] BUTt4pp              Butyrate transport via sodium symport (periplasm)
+  [3] CS                   Citrate synthase
+  [3] CYSGL                Cystathionine gamma-lyase
+  [3] CYSS                 Cysteine synthase
+  [3] CYSS_2               Cysteine synthase
+  [3] DAPDA                N-acetyl-L,L-diaminopimelate deacetylase
+  [3] DHPACCOAHIT          1,2-Dihydroxy-1,2-dihydrophenylacetyl-CoA Hydratase/Isomerase/Ketothiolase complex
+  [3] ECOAH1               3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)
+  [3] ECOAH1_1             3 hydroxyacyl CoA dehydratase  3 hydroxybutanoyl CoA
+  [3] FRD2                 Fumarate reductase
+  [3] FRD3                 Fumarate reductase
+  [3] FRDx                 Fumarate reductase NADH
+  [3] FUMAC                Fumarylacetoacetase
+  [3] G1PACT               Glucosamine-1-phosphate N-acetyltransferase
+  [3] GLUTARH              Glutarate hydroxylase
+  [3] GLYAT                Glycine C-acetyltransferase
+  [3] HMGL                 Hydroxymethylglutaryl-CoA lyase
+  [3] HMGL_2               
+  [3] HMR_9610             Na+/succinate symporter
+  [3] HSERTA               Homoserine O trans acetylase
+  [3] HXCT                 Acetyl-CoA:hexanoate-CoA transferase
+  [3] IBTMr                Isobutyryl-CoA mutase
+  [3] ICL                  Isocitrate lyase
+  [3] IPPS                 2-isopropylmalate synthase
+  [3] KAS13                B-ketoacyl synthetase (octadecanoate)
+  [3] KAS17                B-ketoacyl synthetase (n-C18:1)
+  [3] KAS2                 B-ketoacyl synthetase (n-C14:0)
+  [3] KAS7                 B-ketoacyl synthetase (n-C16:1)
+  [3] KAS8                 B-ketoacyl synthetase (palmitate, n-C16:0)
+  [3] MACCOAT              2-Methylacetyl-CoA thiolase
+  [3] MALS                 Malate synthase
+  [3] MCITL2               Methylisocitrate lyase
+  [3] METB1                Metb1 (rev)
+  [3] MMM                  Methylmalonyl-CoA mutase
+  [3] MMM2                 Methylmalonyl-CoA mutase
+  [3] MMSAD3               Methylmalonate-semialdehyde dehydrogenase (malonic semialdehyde)
+  [3] OCOAT2r              3-oxoacid CoA-transferase (Succinyl-CoA: 3-methylbutanoate)
+  [3] OXDHCOAT             3-oxo-5,6-dehydrosuberyl-CoA thiolase
+  [3] PBUTT                Phosphate butyryltransferase
+  [3] PDH                  Pyruvate dehydrogenase
+  [3] PDHbr                Pyruvate dehydrogenase (dihydrolipoamide) reversible
+  [3] PHHL                 
+  [3] POR_syn              Pyruvate-ferredoxin oxidoreductase
+  [3] PROAKGOX1            Prolyl 4-hydroxylase
+  [3] PTAr                 Phosphotransacetylase
+  [3] PTRCAT1              Putrescine acetyltransferase
+  [3] SDPDS                Succinyl-diaminopimelate desuccinylase
+  [3] SERAT                Serine O-acetyltransferase
+  [3] SHSL1                O-succinylhomoserine lyase (L-cysteine)
+  [3] SHSL2                O succinylhomoserine lyase  H2S
+  [3] SHSL2r               O-succinylhomoserine lyase (H2S)
+  [3] SHSL3                O succinylhomoserine lyase  methanethiol
+  [3] SHSL4r               O succinylhomoserine lyase  elimination   reversible
+  [3] SLCYSS               O-acetyl-L-serine sulfhydrylase
+  [3] SSALx                Succinate-semialdehyde dehydrogenase (NAD)
+  [3] SSALy                Succinate-semialdehyde dehydrogenase (NADP)
+  [3] SSCOARy              Succinyl-coA reductase (NADPH)
+  [3] SUCBZT1              Succinyl:benzoate CoA transferase
+  [3] SUCCt2_2pp           Succinate transport via proton symport (2 H) (periplasm)
+  [3] SUCD1                Succinate dehydrogenase
+  [3] SUCD2                Succinate dehydrogenase dehydrogenase (menaquinone 8 as acceptor)
+  [3] SUCOAS               Succinyl-CoA synthetase (ADP-forming)
+  [3] TARTRt7              Tartrate/succinate antiporter
+  [3] TARTRt7pp            Tartrate/succinate antiporter (periplasm)
+  [3] THDPS                Tetrahydrodipicolinate succinylase
+  [3] THPAT                L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase
+
+Building pathway map for 9 reactions within distance 2...
+Pathway map written to: step_7_results/step_7.11_phb_pathway_map.png

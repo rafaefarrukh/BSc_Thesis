@@ -1,0 +1,40 @@
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+Biomass reaction: Growth | Biomass reaction | bounds=(0.0, 1000.0)
+    0.000223 10fthf_c + 0.513689 ala__L_c + 0.000223 amet_c + 0.295792 arg__L_c + 0.241055 asn__L_c + 0.241055 asp__L_c + 54.124831 atp_c + 0.005205 ca2_c + 0.005205 cl_c + 0.000576 coa_c + 0.0001 cobalt2_c + 0.133508 ctp_c + 0.000709 cu2_c + 0.09158 cys__L_c + 0.026166 datp_c + 0.027017 dctp_c + 0.027017 dgtp_c + 0.026166 dttp_c + 0.000223 fad_c + 0.006715 fe2_c + 0.007808 fe3_c + 0.26316 gln__L_c + 0.26316 glu__L_c + 0.612638 gly_c + 0.001 gtca1_45_BS_c + 0.001 gtca2_45_BS_c + 0.001 gtca3_45_BS_c + 0.215096 gtp_c + 48.601527 h2o_c + 0.094738 his__L_c + 0.290529 ile__L_c + 0.195193 k_c + 0.450531 leu__L_c + 5e-05 lipo1_24_BS_c + 5e-05 lipo2_24_BS_c + 5e-05 lipo3_24_BS_c + 5e-05 lipo4_24_BS_c + 0.343161 lys__L_c + 0.153686 met__L_c + 0.008675 mg2_c + 0.000223 mlthf_c + 0.000691 mn2_c + 0.0001 mql8_c + 0.001831 nad_c + 0.000447 nadp_c + 0.01 peptido_BS_c + 0.185265 phe__L_c + 0.221055 pro__L_c + 0.000223 pydx5p_c + 0.000223 ribflv_c + 0.215792 ser__L_c + 0.004338 so4_c + 0.000223 thf_c + 0.000223 thmpp_c + 0.253687 thr__L_c + 0.056843 trp__L_c + 0.137896 tyr__L_c + 0.144104 utp_c + 0.423162 val__L_c + 0.000341 zn2_c --> 53.95 adp_c + 53.95 h_c + 53.945662 pi_c + 0.773903 ppi_c
+PHB reaction: PHBS_syn_1 | Polyhydroxybutyrate synthase | bounds=(0.0, 10.0)
+    3hbcoa__R --> coa_c + phb_c
+Computing flux control coefficients for 1694 reactions within 3 hops of PHB synthesis...
+Baseline (growth-coupled) PHB flux J0 = 3.937982
+
+Flux control coefficient table written to: ./step_7.23_flux_control_coefficients.csv
+
+Top 25 reactions by |flux control coefficient| on PHB flux:
+reaction_id  distance_from_PHB  flux_control_coefficient
+     ALAtex                  3              1.777560e+00
+        PGM                  3             -6.948063e-01
+        PGK                  2              6.718666e-01
+       NACt                  3             -3.222151e-01
+      NAPRT                  2              1.938100e-01
+       PGMT                  3              1.044036e-01
+     GALpts                  2              8.958468e-02
+       GALT                  2              8.958468e-02
+      GALKr                  2              8.958468e-02
+      RU5PS                  2              1.616449e-02
+      AH6PI                  2              1.616449e-02
+      NAabc                  2              3.038608e-11
+    3NUCLE4                  2             -9.653178e-12
+ BALAGLYtex                  3             -7.256799e-12
+ PHBS_syn_1                  0             -6.890294e-12
+   G3PAT181                  2             -5.909188e-12
+   G3PAT161                  2             -5.909188e-12
+    FE2t4pp                  2             -5.909188e-12
+     FTHFCL                  2             -5.909188e-12
+     FRUpts                  2             -5.909188e-12
+       FRDx                  2             -5.909188e-12
+        FUM                  2             -5.909188e-12
+        FDH                  2             -5.909188e-12
+        FBP                  2             -5.909188e-12
+       G1PP                  2             -5.909188e-12
+
+Bar chart written to: ./step_7.23_control_coefficients_bar_chart.png

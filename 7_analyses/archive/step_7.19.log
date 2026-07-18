@@ -1,0 +1,19 @@
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.19.py:96: DeprecationWarning: Passing a boolean value to the `loopless` argument is deprecated. Please pass either None, 'fastSNP' or 'cycleFreeFlux'.
+  fva = flux_variability_analysis(
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+PHB reaction (FVA objective): PHBS_syn_1 | Polyhydroxybutyrate synthase | bounds=(0.0, 10.0)
+    3hbcoa__R --> coa_c + phb_c
+Running FVA (loopless=False, fraction_of_optimum=1.0) on 1707 reactions (this is the slow step)...
+
+Classification table written to: ./step_7.19_flux_span_classification.csv
+
+Direction classification counts:
+direction_class
+forward_only     1372
+bidirectional     175
+blocked            93
+backward_only      65
+fixed               2
+
+Figure written to: ./step_7.19_flux_span_and_direction.png

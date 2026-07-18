@@ -1,0 +1,7 @@
+"proposed_gene","Gene","protein_name","query_id","subject_id","identity","alignment_length","mismatches","gap_openings","query_start","query_end","subject_start","subject_end","evalue","bit_score","databases"
+"phaA","paaJ","acetyl-CoA C-acetyltransferase","MPDKNC_03513","iYO844.BSU32830",82.1,390,70,0,1,390,1,390,9.56e-229,629,"KEGG:K08152
+SO:0001217,UniRef:UniRef50_A0A6F8TSG2,UniRef:UniRef90_A0A0M0G371"
+"phaB","fabG","3-hydroxybutyrate dehydrogenase","MPDKNC_04271","iCN900.CD630_26790",66.7,258,86,0,1,258,1,258,2.97e-126,358,"COG:COG1131
+COG:JV,RefSeq:WP_238283298.1,SO:0001217,UniParc:UPI001EE1B9A2,UniRef:UniRef100_UPI001EE1B9A2,UniRef:UniRef50_A0A0M0G130,UniRef:UniRef90_A0A0M0G130"
+"phaC","phaC","Alpha/beta fold hydrolase","MPDKNC_03777","iSynCJ816.SGL_RS06270",28.8,320,216,6,28,336,58,376,5.41e-38,139,"COG:COG1609
+COG:K,RefSeq:WP_056540132.1,SO:0001217,UniParc:UPI0006F76A45,UniRef:UniRef100_A0A5D4S0M1,UniRef:UniRef50_D9SM92,UniRef:UniRef90_A0A0M0G1G4"

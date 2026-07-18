@@ -1,0 +1,46 @@
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.15.py:117: DeprecationWarning: Passing a boolean value to the `loopless` argument is deprecated. Please pass either None, 'fastSNP' or 'cycleFreeFlux'.
+  fva = flux_variability_analysis(
+PHB reaction (FVA objective): PHBS_syn_1 | PHB synthetase | bounds=(0.0, 1000.0)
+    3hbcoa__R --> coa_c + phb_c
+  (Capping pathway reactions from 1608 to 150)
+FVA scope: 150 reactions (pathway neighborhood)
+
+Running FVA: fraction_of_optimum=1.0, loopless=False ...
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.15.py:117: DeprecationWarning: Passing a boolean value to the `loopless` argument is deprecated. Please pass either None, 'fastSNP' or 'cycleFreeFlux'.
+  fva = flux_variability_analysis(
+  written to step_7_results/step_7.15_fva_frac100_standard.csv
+
+Running FVA: fraction_of_optimum=1.0, loopless=True ...
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.15.py:117: DeprecationWarning: Passing a boolean value to the `loopless` argument is deprecated. Please pass either None, 'fastSNP' or 'cycleFreeFlux'.
+  fva = flux_variability_analysis(
+  written to step_7_results/step_7.15_fva_frac100_loopless.csv
+
+Running FVA: fraction_of_optimum=0.9, loopless=False ...
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.15.py:117: DeprecationWarning: Passing a boolean value to the `loopless` argument is deprecated. Please pass either None, 'fastSNP' or 'cycleFreeFlux'.
+  fva = flux_variability_analysis(
+  written to step_7_results/step_7.15_fva_frac90_standard.csv
+
+Running FVA: fraction_of_optimum=0.9, loopless=True ...
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.15.py:117: DeprecationWarning: Passing a boolean value to the `loopless` argument is deprecated. Please pass either None, 'fastSNP' or 'cycleFreeFlux'.
+  fva = flux_variability_analysis(
+  written to step_7_results/step_7.15_fva_frac90_loopless.csv
+
+Running FVA: fraction_of_optimum=0.5, loopless=False ...
+/mnt/shared/Documents/Research/BIOT 499/GEM/7_analyses/step_7.15.py:117: DeprecationWarning: Passing a boolean value to the `loopless` argument is deprecated. Please pass either None, 'fastSNP' or 'cycleFreeFlux'.
+  fva = flux_variability_analysis(
+  written to step_7_results/step_7.15_fva_frac50_standard.csv
+
+Running FVA: fraction_of_optimum=0.5, loopless=True ...
+  written to step_7_results/step_7.15_fva_frac50_loopless.csv
+
+FVA summary statistics (all fraction x loopless combinations):
+ fraction_of_optimum  loopless  n_reactions  n_blocked  pct_blocked  mean_range  median_range  total_range  max_range
+                 1.0     False          150         92    61.333333    2.952814  5.417642e-14   442.922174  25.123324
+                 1.0      True          150        103    68.666667    1.415948  4.573459e-15   212.392156  24.346658
+                 0.9     False          150          9     6.000000    7.563320  5.041578e+00  1134.498060  30.814496
+                 0.9      True          150         13     8.666667    6.142994  3.760760e+00   921.449146  22.077803
+                 0.5     False          150          9     6.000000   12.886680  1.000000e+01  1933.001996  37.292953
+                 0.5      True          150         13     8.666667   11.349317  1.000000e+01  1702.397552  37.292953
+
+Summary stats written to: step_7_results/step_7.15_fva_summary_stats.csv
+Pathway-ranges-across-fractions figure written to: step_7_results/step_7.15_pathway_ranges_across_fractions.png

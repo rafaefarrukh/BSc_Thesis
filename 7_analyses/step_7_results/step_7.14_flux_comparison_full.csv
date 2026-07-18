@@ -1,0 +1,1964 @@
+growth_optimal_flux,PHB_optimal_flux,reaction_id,reaction_name,is_exchange,flux_shift
+0.0,0.0,12PPDRDH,R Propane 1 2 diol dehydratase,False,0.0
+0.0,0.0,13PPDH,"1,3-propanediol dehydrogenase",False,0.0
+0.0,-2.2476721989556086e-15,13PPDH2,"1,3-propanediol dehydrogenase",False,-2.2476721989556086e-15
+0.0,1.4203488134518021e-14,13PPDH2_1,"1,3-propanediol dehydrogenase",False,1.4203488134518021e-14
+0.0877262642068351,0.0789536377861512,23CAMPtex,23cAMP transport via diffusion (extracellular to periplasm),False,-0.008772626420683896
+0.0,0.0,23CCMPtex,23cCMP transport via diffusion (extracellular to periplasm),False,0.0
+9.501039347209895,9.550935412488888,23CGMPtex,23cGMP transport via diffusion (extracellular to periplasm),False,0.04989606527899326
+0.0,0.0,23CUMPtex,23cUMP transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,23PDE2pp,"2',3'-cyclic-nucleotide phosphodiesterase (UMP) (periplasm)",False,0.0
+0.0,0.0,23PDE4pp,"2',3'-cyclic-nucleotide phosphodiesterase (CMP) (periplasm)",False,0.0
+0.0877262642068351,0.0789536377861512,23PDE7pp,"2',3'-cyclic-nucleotide phosphodiesterase (AMP) (periplasm)",False,-0.008772626420683896
+9.501039347209897,9.55093541248889,23PDE9pp,"2',3'-cyclic-nucleotide phosphodiesterase (GMP) (periplasm)",False,0.04989606527899326
+0.0,0.0,2AACLPGT160,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AACLPGT161,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AACLPGT180,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AACLPGT181,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AACLPPEAT160,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AACLPPEAT161,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AACLPPEAT180,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AACLPPEAT181,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,False,0.0
+0.0,0.0,2AGPE160tipp,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2AGPE161tipp,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2AGPE180tipp,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2AGPE181tipp,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2AGPG160tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2AGPG161tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2AGPG180tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2AGPG181tipp,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1) transporter via facilitated diffusion (periplasm),False,0.0
+0.0,0.0,2HXMPt6,2  hydroxymethyl phenol transport inout via proton symport,False,0.0
+0.0,0.0,2INSD,2-Inosose dehydratase,False,0.0
+0.0,0.0,2MAHMP,2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphatase,False,0.0
+0.0,0.0,2PGLYCt6,2 Phosphoglycolate transport inout via proton symport,False,0.0
+0.0,0.0,2S6HCCi,2 succinyl 6 hydroxy 2 4 cyclohexadiene 1 carboxylate synthase,False,0.0
+0.0,0.0,34HPPOR,4 Hydroxyphenylpyruvateoxygen oxidoreductase,False,0.0
+0.0,0.0,3AMPt6,3  AMP transport inout via proton symport,False,0.0
+0.0,0.0,3CMPt6,3  CMP transport in via proton symport,False,0.0
+-9.39707468299108,-9.457367214691958,3GMPtex_1,3GMP transport via diffusion (extracellular to cytoplasm),False,-0.06029253170087756
+0.0,0.0,3MBt2pp,H+/Isovalerate symport (periplasm),False,0.0
+0.0,0.0,3MBt4pp,Na+/Isovalerate symport (periplasm),False,0.0
+0.0,0.0,3MBtex,3-methylbutanoic acid transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,3NTD2pp,3'-nucleotidase (UMP) (periplasm),False,0.0
+0.0,0.0,3NTD4pp,3'-nucleotidase (CMP) (periplasm),False,0.0
+0.0877262642068351,0.07895363778615119,3NTD7pp,3'-nucleotidase (AMP) (periplasm),False,-0.00877262642068391
+9.501039347209895,9.550935412488888,3NTD9pp,3'-nucleotidase (GMP) (periplasm),False,0.04989606527899326
+1.3554964893499005e-18,0.0,3NUCLE1,3  nucleotidase  3  AMP,False,-1.3554964893499005e-18
+0.0,0.0,3NUCLE2,3  nucleotidase  3  UMP,False,0.0
+0.0,0.0,3NUCLE3,3  nucleotidase  3  cMP,False,0.0
+-9.397074682991082,-9.45736721469196,3NUCLE4,3  nucleotidase  guanosine 3  phosphate,False,-0.06029253170087756
+1.5049923161657848,3.47930846837934,3OXCOAT,3-oxoadipyl-CoA thiolase,False,1.974316152213555
+0.0,0.0,3PEPTabcpp,Tripeptide (LalaDgluMdap) transport via ABC system (periplasm),False,0.0
+0.0,0.0,3UMPt6,3  UMP transport in via proton symport,False,0.0
+0.0,0.0,4ABUTD,4-Aminobutyraldehyde:NAD+ oxidoreductase,False,0.0
+0.0,0.0,4HALDD,Aldehyde dehydrogenase  4 hydroxyphenylacetaldehyde  NAD,False,0.0
+7.54348727735514e-30,0.0,4HBAt,MNXR68734,False,-7.54348727735514e-30
+0.0,0.0,4HPRODCabcpp,Cis 4 Hydroxy D proline transport via ABC system,False,0.0
+0.0,0.0,4HPRODCtex,Cis 4 hydroxy L proline transport  extracellular,False,0.0
+0.0,0.0,4HPROE,4 hydroxyproline epimerase,False,0.0
+0.0,0.0,4HPROLTabcpp,Trans 4 Hydroxy D proline transport via ABC system,False,0.0
+0.0,0.0,4HPROLTtex,Trans 4 hydroxy L proline transport  extracellular,False,0.0
+0.0,0.0,4HPRO_LT_Et,Trans-4-Hydroxy-L-proline transport (transport mechanism unknown - evidence from biolog data),False,0.0
+0.0,0.0,4HTHRA,4-hydroxy-L-threonine aldolase,False,0.0
+0.0,0.0,4HTHRS_1,4-Hydroxy-L-threonine synthase,False,0.0
+0.0,0.0,4PCP,"Tetrapeptide L,D-carboxypeptidase",False,0.0
+0.0,0.0,4PEPTabcpp,Tetrapeptide (LalaDgluMdapDala) transport via ABC system (periplasm),False,0.0
+0.0,0.0,5DGLCNR,5-dehydro-D-gluconate reductase,False,0.0
+0.0,0.0,5DKGR,5-keto-D-gluconate 5-reductase,False,0.0
+0.0,0.0,6PHBG_2,,False,0.0
+9.911971863696474,9.920774677326829,A6PAG,,False,0.008802813630355288
+0.0,-1.6562308505150366e-15,A6PAG2,,False,-1.6562308505150366e-15
+0.0,0.0,AABTN,4 acetamidobutyrate deacetylase,False,0.0
+0.0,0.0,AACLAM,Acetyl adenylate CoA ligase AMP-forming,False,0.0
+0.0,0.0,AACPS3,Acyl-[acyl-carrier-protein] synthetase  (n-C16:0),False,0.0
+0.0,0.0,AACPS4,Acyl-[acyl-carrier-protein] synthetase  (n-C16:1),False,0.0
+0.0,0.0,AACPS5,Acyl-[acyl-carrier-protein] synthetase  (n-C18:1),False,0.0
+0.0,0.0,AACPS6,Acyl-[acyl-carrier-protein] synthetase  (n-C18:0),False,0.0
+0.0,0.0,AACPS9,Acyl-[acyl-carrier-protein] synthetase  (n-C8:0),False,0.0
+0.0,0.0,AB6PGH,Arbutin 6-phosphate glucohydrolase,False,0.0
+0.0,0.0,ABG4t2,,False,0.0
+10.0,10.0,ABTA,4-aminobutyrate transaminase,False,0.0
+0.0,0.0,ABTt_1,L arabinitol transport via passive diffusion,False,0.0
+0.0,0.0,ABUTD,Aminobutyraldehyde dehydrogenase,False,0.0
+10.000000000000002,10.000000000000002,ABUTt2r,4 aminobutyrate reversible transport in via proton symport,False,0.0
+0.0,0.0,ACACCT,Acetyl-CoA:acetoacetyl-CoA transferase,False,0.0
+0.0,4.678907691915214,ACACT1r,Acetyl-CoA C-acetyltransferase,False,4.678907691915214
+-0.0010305733030656992,-0.0009275159727641784,ACACT2r,Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r),False,0.00010305733030152077
+-0.0010305733030656992,-0.0009275159727641783,ACACT3r,Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r),False,0.00010305733030152088
+-0.001030573303065699,-0.0009275159727641781,ACACT4r,Acetyl-CoA C-acyltransferase (octanoyl-CoA) (r),False,0.00010305733030152088
+0.0,0.0,ACACT5r,Acetyl-CoA C-acyltransferase (decanoyl-CoA) (r),False,0.0
+-0.001030573303065699,-0.000927515972764178,ACACT5r_1,Acetyl CoA C acyltransferase  decanoyl CoA,False,0.00010305733030152098
+-0.001030573303065699,-0.0009275159727641778,ACACT6r_1,Acetyl CoA C acyltransferase  dodecanoyl CoA,False,0.0001030573303015212
+0.001717622171776166,0.0015458599545985414,ACACT7r,Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r),False,-0.00017176221717762463
+0.0,0.0,ACACT8r,"Acetyl-CoA acyltransferase (hexadecanoyl-CoA), (r)",False,0.0
+0.0,0.0,ACACt2pp,Acetoacetate transport via proton symport  (periplasm),False,0.0
+0.0,0.0,ACACtex,Acetoacetate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,ACALDt,Acetaldehyde reversible transport,False,0.0
+0.0,0.0,ACALDtpp,Acetaldehyde reversible transport (periplasm),False,0.0
+0.08124352872501263,0.07311917585251099,ACCOAC,Acetyl-CoA carboxylase,False,-0.008124352872501642
+0.0,0.0,ACGAMK,N-acetylglucosamine kinase,False,0.0
+0.0,0.0,ACGApts,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,ACGAptspp,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS  (periplasm),False,0.0
+0.0,0.0,ACGAtex,N-Acetyl-D-glucosamine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,ACGK,Acetylglutamate kinase,False,0.0
+0.0,0.0,ACGS,N-acetylglutamate synthase,False,0.0
+0.0,0.0,ACHBS,2-aceto-2-hydroxybutanoate synthase,False,0.0
+-10.0,-5.069322085416444,ACKr,Acetate kinase,False,4.930677914583556
+0.0,0.0,ACLDC,Acetolactate decarboxylase,False,0.0
+0.42742821807099074,1.3973792266691671,ACLS,Acetolactate synthase,False,0.9699510085981764
+0.0,0.0,ACLS_a,Acetolactate synthase,False,0.0
+0.0,0.0,ACLS_d,2-alpha-Hydroxyethylthiamine diphosphate lipoamide,False,0.0
+0.0,0.0,ACM6PH,N-acetylmuramate 6-phosphate hydrolase,False,0.0
+0.0,0.0,ACMANApts,N-acetyl-D-mannosamine transport via PTS,False,0.0
+0.0,0.0,ACOAD1,Acyl-CoA dehydrogenase (butanoyl-CoA),False,0.0
+0.0,0.0,ACOAD1fr,Acyl-CoA dehydrogenase (butanoyl-CoA),False,0.0
+-0.001030573303065699,-0.0009275159727641784,ACOAD2,Acyl-CoA dehydrogenase (hexanoyl-CoA),False,0.00010305733030152055
+0.0,0.0,ACOAD20,Acyl CoA dehydrogenase  2 methylbutnoyl CoA,False,0.0
+0.0010305733030656992,0.0009275159727641781,ACOAD3,Acyl-CoA dehydrogenase (octanoyl-CoA),False,-0.00010305733030152109
+0.0010305733030656992,0.000927515972764178,ACOAD4_1,Acyl CoA dehydrogenase  decanoyl CoA,False,-0.0001030573303015212
+0.0,0.0,ACOAD5,Acyl-CoA dehydrogenase (dodecanoyl-CoA),False,0.0
+0.001030573303065699,0.0009275159727641778,ACOAD5_1,Acyl CoA dehydrogenase  dodecanoyl CoA,False,-0.0001030573303015212
+-0.002232908823309016,0.0009275159727641778,ACOAD6,Acyl-CoA dehydrogenase (tetradecanoyl-CoA),False,0.0031604247960731937
+-0.0017176221717761658,-0.001545859954598541,ACOAD7,Acyl-CoA dehydrogenase (hexadecanoyl-CoA),False,0.00017176221717762484
+0.0,2.5268900138076244e-15,ACOADH2,Acyl CoA dehydrogenase  isobutyryl CoA,False,2.5268900138076244e-15
+0.0,0.0,ACOAM,Acetate CoA ligase AMP-forming,False,0.0
+0.0,0.0,ACODA,Acetylornithine deacetylase,False,0.0
+0.0,0.0,ACONCt4pp,Citrate transport via sodium symport  periplasm,False,0.0
+0.0,0.0,ACONCtex,Cisaconitat transport via diffusion extracellular to periplasm,False,0.0
+0.0,0.0,ACONCtupp,Cisaconitate transport periplasm,False,0.0
+4.309879032557721,0.002011550265921351,ACONT,Aconitate hydratase,False,-4.3078674822918
+0.0,0.0,ACONTa,"Aconitase (half-reaction A, Citrate hydro-lyase)",False,0.0
+0.0,0.0,ACONTb,"Aconitase (half-reaction B, Isocitrate hydro-lyase)",False,0.0
+0.0,0.0,ACOTA,Acetylornithine transaminase,False,0.0
+0.0,0.0,ACOXT,Acetyl-CoA:oxalate CoA-transferase,False,0.0
+0.0,0.0,ACP1_FMN,Acid phosphatase (FMN),False,0.0
+0.0,0.0,ACPPAT160,Acyl-(acyl carrier protein):phosphate acyltransferase (C16:0),False,0.0
+0.0,0.0,ACPPAT161,Acyl-(acyl carrier protein):phosphate acyltransferase (C16:1),False,0.0
+0.0,0.0,ACPPAT180,Acyl-(acyl carrier protein):phosphate acyltransferase (C18:0),False,0.0
+0.0,0.0,ACPPAT181,Acyl-(acyl carrier protein):phosphate acyltransferase (C18:1),False,0.0
+0.0,0.0,ACPS,Acyl Carrier Protein Synthase,False,0.0
+0.0,0.0,ACPS1,Acyl-carrier protein synthase,False,0.0
+0.0,0.0,ACPS1_1,"CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase, cytosol",False,0.0
+0.0,0.0,ACPpds,[acyl-carrier-protein] phosphodiesterase,False,0.0
+4.419807368607703,0.0,ACS,Acetyl-CoA synthetase,False,-4.419807368607703
+2.9832576601798793,5.537943142078681,ACS2,Acetyl-CoA synthase (propionate),False,2.5546854818988014
+0.0,0.0,ACSERHS,O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide),False,0.0
+0.0,0.0,ACS_1,Acetyl-CoA synthetase,False,0.0
+0.0,0.0,ACTD,Acetoin dehydrogenase,False,0.0
+0.0,0.0,ACTD2,Acetoin dehydrogenase,False,0.0
+0.0,0.0,ACTD_1,,False,0.0
+0.0,0.0,ACTDa,Acetoin dehydrogenase,False,0.0
+0.0,0.0,ACTNabc,Acetoin transport via ABC system,False,0.0
+0.0,0.0,ACTNabc1,Acetoin efflux  via ABC system,False,0.0
+0.0,0.0,ACt2rpp,Acetate reversible transport via proton symport (periplasm),False,0.0
+0.0,0.0,ACt4pp,Na+/Acetate symport (periplasm),False,0.0
+0.0,0.0,ACtex,Acetate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,ADADir,Deoxycytidine kinase,False,0.0
+-5.580192631392295,-5.069322085416445,ADAPAT,"E N-acetyl-L,L-diaminopimelate aminotransferase",False,0.51087054597585
+0.0,0.0,ADCL,4-aminobenzoate synthase,False,0.0
+0.0,0.0,ADCS,4-amino-4-deoxychorismate synthase,False,0.0
+0.0,0.0,ADD,Adenine deaminase,False,0.0
+-0.661406057902478,-0.5952654521122417,ADK1,Adenylate kinase,False,0.06614060579023628
+0.0,0.0,ADK2,Adenylate kinase (Inorganic triphosphate),False,0.0
+0.0,0.0,ADMDC,Adenosylmethionine decarboxylase,False,0.0
+0.0,0.0,ADNCYC,Adenylate cyclase,False,0.0
+0.0,0.0,ADNK1,Adenosine kinase,False,0.0
+0.0,0.0,ADNUC,Adenosine hydrolase,False,0.0
+0.0877262642068351,0.07895363778615119,ADNt2pp,Adenosine transport in via proton symport (periplasm),False,-0.00877262642068391
+0.0,0.0,ADPDA,N6 acetyl LL 2 6 diaminoheptanedioate amidohydrolase,False,0.0
+0.0,0.0,ADPGLC,ADPglucose diphosphatase,False,0.0
+0.0,0.0,ADPRDP,ADPribose diphosphatase,False,0.0
+0.0,0.0,ADPRDP_1,ADPribose diphosphatase,False,0.0
+0.08776920476112934,0.07899228428501615,ADPT,Adenine phosphoribosyltransferase,False,-0.008776920476113198
+0.0,0.0,ADSK,Adenylyl-sulfate kinase,False,0.0
+0.0,0.0,ADSL1r,Adenylsuccinate lyase,False,0.0
+0.0,0.0,ADSL2r,Adenylosuccinate lyase,False,0.0
+0.0,0.0,ADSS,Adenylosuccinate synthase,False,0.0
+0.0,0.0,ADtr,"Acetamide transport, extracellular",False,0.0
+0.0,0.0,AEPPYRTA,2 aminoethylphosphonate pyruvate transaminase,False,0.0
+0.0,0.0,AEPabcpp,AEP transport via ABC system periplasm,False,0.0
+0.0,0.0,AEPtex,AEP transport via diffusion extracellular to periplasm,False,0.0
+0.0,0.0,AGDC,N-acetylglucosamine-6-phosphate deacetylase,False,0.0
+0.0,0.0,AGM3PApp,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase (periplasm),False,0.0
+0.0,0.0,AGM3PH,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide beta -1,4-N-acetylglucosaminidase",False,0.0
+0.0,0.0,AGM4PApp,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide amidase (periplasm),False,0.0
+0.0,0.0,AGM4PCP,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide L,D-carboxypeptidase",False,0.0
+0.0,0.0,AGM4PH,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide beta -1,4-N-acetylglucosaminidase",False,0.0
+0.0,0.0,AGM4Pt2pp,GlcNAc-anhMurNAc tetrapeptide transport in via proton symport (periplasm),False,0.0
+0.0,0.0,AGMH,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl beta -1,4-N-acetylglucosaminidase",False,0.0
+0.0,0.0,AGMPTRCtpp,Agmatine/putrescine antiporter (periplasm),False,0.0
+0.0,0.0,AGMT,Agmatinase,False,0.0
+0.0,0.0,AGMt2pp,GlcNAc-anhMurNAc transport in via proton symport (periplasm),False,0.0
+0.0,0.0,AGMtex,Agmatine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,AGPAT160,1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0),False,0.0
+0.0,0.0,AGPAT161,1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1),False,0.0
+0.0,0.0,AGPAT180,1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0),False,0.0
+0.0,0.0,AGPAT181,1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1),False,0.0
+0.008588110858880829,0.007729299772992705,AGPATr_BS,1 acylglycerol 3 phosphate O acyltransferase,False,-0.000858811085888124
+0.0,0.0,AGPR,N-acetyl-g-glutamyl-phosphate reductase,False,0.0
+0.0,0.0,AH6PI,Arabino-3-hexulose-6-P Isomerase,False,0.0
+0.0,0.0,AHCYSNS,S-adenosylhomocysteine nucleosidase,False,0.0
+4.294055429424595e-05,3.864649886496352e-05,AHCi,Adenosylhomocysteinase,False,-4.2940554292824305e-06
+-1.1869463705047508e-30,0.0,AHMMPS_1,4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase,False,1.1869463705047508e-30
+0.0,0.0,AHSERL2,O acetylhomoserine  thiol  lyase,False,0.0
+0.0,0.0,AHSERL4,Cysteine synthase  Thiosulfate,False,0.0
+0.0,0.0,AI2tex,"Ai2 transport, outer membrane",False,0.0
+0.0,0.0,AI2tpp,Quorum signal AI-2 exporter,False,0.0
+0.0,0.0,AICART,Phosphoribosylaminoimidazolecarboxamide formyltransferase,False,0.0
+0.0,0.0,AIRC1,Phosphoribosylaminoimidazole carboxylase  ATP dependent,False,0.0
+0.0,0.0,AIRCr,Phosphoribosylaminoimidazole carboxylase,False,0.0
+4.079580251764538,1.5939555599213286,AKGDH,2-Oxogluterate dehydrogenase,False,-2.4856246918432094
+0.0,0.0,AKP1,Alkaline phosphatase  Dihydroneopterin,False,0.0
+0.0,0.0,ALAALAabcpp,D-alanyl-D-alanine (DalaDala) transport via ABC system (periplasm),False,0.0
+0.004294055429440415,0.0038646498864963524,ALAALAr,D-alanine-D-alanine ligase (reversible),False,-0.00042940554294406286
+0.0,0.0,ALAD_L,L-alanine dehydrogenase,False,0.0
+0.0,0.0,ALAGLNtr,Dipeptide transport via ABC system ala-gln,False,0.0
+0.0,0.0,ALAGLUabcpp,L Alaninylglutamate  LalaLglu  transport via ABC system  periplasm,False,0.0
+0.0,0.0,ALAGLYtr,Dipeptide transport via ABC system ala-gly,False,0.0
+0.0,0.0,ALAHISabcpp,L Alaninylhistidine  Ala His  transport via ABC system  periplasm,False,0.0
+0.0,0.0,ALAHIStex,L Alaninylhistidine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,ALAHIStr,Dipeptide transport via ABC system ala-his,False,0.0
+0.0,0.0,ALALEUabcpp,L Alaninylleucine  Ala Leu  transport via ABC system  periplasm,False,0.0
+0.0,0.0,ALALEUt,Dipeptide transport via ABC system ala-leu,False,0.0
+0.0,0.0,ALALEUtex,L Alaninylleucine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,ALAR,Alanine racemase,False,0.0
+-0.07944002544464765,-0.0714960229001825,ALATA_D,D-alanine transaminase,False,0.007944002544465145
+0.0,0.0,ALATA_D2,D-alanine transaminase,False,0.0
+-10.0,-10.0,ALATA_L,L-alanine transaminase,False,0.0
+0.0,0.0,ALATA_L2,Alanine transaminase,False,0.0
+0.0,0.0,ALATHRabcpp,L Alaninylthreonine  Ala thr  transport via ABC system  periplasm,False,0.0
+0.0,0.0,ALATHRtex,L Alaninylthreonine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,ALATHRtr,Dipeptide transport via ABC system ala-thr,False,0.0
+0.0,0.0,ALATRPabcpp,L Alaninyltryptophan  Ala Trp  transport via ABC system  periplasm,False,0.0
+0.0,0.0,ALATRPtex,L Alaninyltryptophan transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,ALAabc,L-alanine transport via ABC system,False,0.0
+0.0,0.0,ALAabcpp,L-alanine transport via ABC system (periplasm),False,0.0
+0.0,0.0,ALAt2pp,L-alanine transport in via proton symport (periplasm),False,0.0
+0.0,0.0,ALAt2r,L alanine reversible transport via proton symport,False,0.0
+0.0,0.0,ALAt4,Alanine-Sodium symporter,False,0.0
+-10.0,-10.0,ALAtex,L-alanine transport via diffusion (extracellular to periplasm),False,0.0
+10.0,10.0,ALAtpp,L-alanine export via facilited diffusion,False,0.0
+0.0,-2.669050521144167,ALCD19,Alcohol dehydrogenase (glycerol),False,-2.669050521144167
+1.4270935936680327,0.0,ALCD19y,Alcohol dehydrogenase  glycerol  NADP,False,-1.4270935936680327
+0.0,0.0,ALCD2ir,Alcohol dehydrogenase  reverse rxn  acetaldehyde   ethanol,False,0.0
+0.0,0.0,ALCD2x,Alcohol dehydrogenase (ethanol),False,0.0
+0.0,0.0,ALCD2y,"Alcohol dehydrogenase (ethanol, NADP)",False,0.0
+0.0,0.0,ALDD1,Aldehyde dehydrogenase  formaldehyde  NAD,False,0.0
+1.5049923161657845,3.47930846837934,ALDD19xr,"Aldehyde dehydrogenase (phenylacetaldehyde, NAD)",False,1.9743161522135553
+0.0,0.0,ALDD20x,"Aldehyde dehydrogenase (indole-3-acetaldehyde, NAD)",False,0.0
+0.0,0.0,ALDD20y,Aldehyde dehydrogenase  indole 3 acetaldehyde  NADP,False,0.0
+0.0,0.0,ALDD2x,"Aldehyde dehydrogenase (acetaldehyde, NAD)",False,0.0
+0.0,0.0,ALDD2y,"Aldehyde dehydrogenase (acetaldehyde, NADP)",False,0.0
+0.0,0.0,ALDD3,Aldehyde dehydrogenase  propanal  NAD,False,0.0
+0.0,0.0,ALDD31_1,Aldehyde dehydrogenase  aminoacetaldehyde  NAD,False,0.0
+0.0,0.0,ALDD3y,"Aldehyde dehydrogenase (propanal, NADP)",False,0.0
+0.0,0.0,ALDD4,"Aldehyde dehydrogenase (butanal, NAD)",False,0.0
+0.0,0.0,ALDD6,Aldehyde dehydrogenase  hexanal  NAD,False,0.0
+0.0,0.0,ALKP,Alkaline phosphatase,False,0.0
+0.0,0.0,ALLTAMH,Allantoate amidohydrolase,False,0.0
+0.0,0.0,ALLTN,Allantoinase,False,0.0
+0.0,0.0,ALPHNH,Allophanate hydrolase,False,0.0
+0.0,0.0,ALR2,Aldose reductase (methylglyoxal),False,0.0
+0.0,0.0,ALR3,Aldose reductase (acetol),False,0.0
+0.0,0.0,ALR4x,Aldose reductase (acetol),False,0.0
+0.0,0.0,ALTRH,Altronate hydrolase,False,0.0
+0.0,0.0,AM3PA,Anhydrous-N-Acetylmuramyl-tripeptide amidase,False,0.0
+0.0,0.0,AM4PA,Anhydrous-N-Acetylmuramyl-tetrapeptide amidase,False,0.0
+0.0,0.0,AMANAPEr,N-acetylmannosamine 6-phosphate epimerase,False,0.0
+0.0,0.0,AMANK,N-acetyl-D-mannosamine kinase,False,0.0
+0.0,0.0,AMANK_1,N-acetyl-D-mannosamine kinase,False,0.0
+0.0,0.0,AMID4,Amidase,False,0.0
+0.0,0.0,AMID_1,Acetamidase,False,0.0
+0.0,0.0,AMMQLT8,S-adenosylmethione:2-demthylmenaquinole methyltransferase (menaquinone 8),False,0.0
+4.294055429424596e-05,3.8646498864963515e-05,AMMQT8_2,S-adenosylmethione:2-demethylmenaquinone methyltransferase,False,-4.294055429282444e-06
+0.0,0.0,AMPD2,AMP deaminase,False,0.0
+0.0,0.0,AMPEP1,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP10,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP11,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP12,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP13,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP14,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP15,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP16,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP17,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP18,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP2,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP3,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP4,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP5,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP6,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP7,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP8,Aminopeptidase,False,0.0
+0.0,0.0,AMPEP9,Aminopeptidase,False,0.0
+0.0,0.0,AMPTASEAH,Aminopeptidase  Ala His,False,0.0
+0.0,0.0,AMPTASEAL,Aminopeptidase  Ala Leu,False,0.0
+0.0,0.0,AMPTASEAT,Aminopeptidase  Ala Thr,False,0.0
+0.0,0.0,AMPTASEATRP,Aminopeptidase  Ala Trp,False,0.0
+0.0,0.0,AMPTASECG,Alanyl aminopeptidase (cys-gly),False,0.0
+0.0,0.0,AMPTASEGGLN,Aminopeptidase  Gly Gln,False,0.0
+0.0,0.0,AMPTASEGGLU,Aminopeptidase  Gly Glu,False,0.0
+0.0,0.0,AMPTASEGM,Aminopeptidase  Gly Met,False,0.0
+0.0,0.0,AMPTASEGS,Aminopeptidase  Gly Ser,False,0.0
+0.0,0.0,AMPTASEHG,Aminopeptidase  His Gly,False,0.0
+0.0,0.0,AMPTASEHH,Aminopeptidase  His His,False,0.0
+0.0,0.0,AMPTASEPG,Aminopeptidase (pro-gly),False,0.0
+0.0,0.0,ANHMK,"1,6-anhydrous-N-Acetylmuramate kinase",False,0.0
+0.0,0.0,ANPRT,Anthranilate phosphoribosyltransferase,False,0.0
+0.0,0.0,ANS,Anthranilate synthase,False,0.0
+0.0,0.0,ANS2,Anthranilate synthase 2,False,0.0
+0.0,0.0,ANSN,Anthranilate synthase (NH3),False,0.0
+0.0,0.0,AP4AH,Ap4A hydrolase,False,0.0
+0.0,0.0,AP4AS,Ap4A synthetase,False,0.0
+0.0,0.0,APATi,Tetrahydrodipicolinate acetyltransferase,False,0.0
+0.0,0.0,APG3PAT160,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C16:0),False,0.0
+0.0,0.0,APG3PAT161,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C16:1),False,0.0
+0.0,0.0,APG3PAT180,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C18:0),False,0.0
+0.0,0.0,APG3PAT181,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C18:1),False,0.0
+0.0,0.0,APRAUR,5-amino-6-(5-phosphoribosylamino)uracil reductase,False,0.0
+0.0,0.0,APRTO2,N acetylputrescine oxygen oxireductase  deaminating,False,0.0
+0.0,0.0,APSR,Adenosine 5'-phosphosulfate reductase;,False,0.0
+0.0,0.0,APTA1i,Acetyl L L diaminopimelate aminotransferase,False,0.0
+0.0,0.0,APTNAT,5-aminopentanoate:2-oxoglutarate aminotransferase,False,0.0
+0.0,0.0,ARABRr,Arabinose reductase,False,0.0
+0.0,0.0,ARBTpts,Arbutin transport via PEPPyr PTS,False,0.0
+0.0,0.0,ARBabc,L-arabinose transport via ABC system,False,0.0
+0.0,0.0,ARBt2r,L-arabinose transport via proton symport,False,0.0
+0.0,0.0,ARGDC,Arginine decarboxylase,False,0.0
+0.0,0.0,ARGDI_1,Arginine deiminase,False,0.0
+0.0,0.0,ARGDr,Arginine deiminase,False,0.0
+0.0,0.0,ARGN_1,Arginase,False,0.0
+0.0,0.0,ARGSL,Argininosuccinate lyase,False,0.0
+0.0,0.0,ARGSS,Argininosuccinate synthase,False,0.0
+0.0,0.0,ARGabc,L-arginine transport via ABC system,False,0.0
+0.1270147243585039,0.11431325192266133,ARGt2r,L arganine reversible transport via proton symport,False,-0.012701472435842562
+-0.004294055429439502,-0.0038646498864940673,ASAD,Aspartate-semialdehyde dehydrogenase,False,0.0004294055429454346
+0.0,0.0,ASNN,L-asparaginase,False,0.0
+0.0,0.0,ASNS1,Asparagine synthase (glutamine-hydrolysing),False,0.0
+0.0,0.0,ASNabc,L-asparagine transport via ABC system,False,0.0
+0.10351035315437591,0.09315931783893781,ASNt4,L-asparagine transport in via sodium symport,False,-0.0103510353154381
+0.0,0.0,ASP1DC,Aspartate 1-decarboxylase,False,0.0
+0.0,8.429234093628925e-15,ASPCT,Aspartate carbamoyltransferase,False,8.429234093628925e-15
+0.0,0.0,ASPCT_2,Aspartate carbamoyltransferase,False,0.0
+0.004294055429439502,0.0038646498864940673,ASPK,Aspartate kinase,False,-0.0004294055429454346
+0.0,0.0,ASPO1,L-aspartate oxidase,False,0.0
+0.000978185826834574,0.0008803672441618996,ASPO6,L-aspartate oxidase,False,-9.781858267267438e-05
+-0.135429618330295,-0.0979043349696078,ASPTA,Aspartate transaminase,False,0.03752528336068718
+-0.026647023919645,0.0,ASPTA6,E L-alanine-alpha-keto acid aminotransferase,False,0.026647023919645
+0.0,0.0,ASPabc,L-aspartate transport via ABC system,False,0.0
+0.0,0.0,ASPt2_2pp,Aspartate transport via proton symport (2 H) (periplasm),False,0.0
+0.0,0.0,ASPt2pp,L-aspartate transport in via proton symport (periplasm),False,0.0
+0.0,0.0,ASPt2r,L aspartate reversible transport via proton symport,False,0.0
+0.0,0.0,ASPtpp,L-aspartate uptake via facillitated diffusion,False,0.0
+0.0,0.0,ATAH_1,,False,0.0
+0.0,0.0,ATHRDHr,L-allo-threonine dehydrogenase,False,0.0
+0.0,0.0,ATPHs,ATP amine hydrolysis (spontaneous),False,0.0
+0.0,0.0,ATPPRT,ATP phosphoribosyltransferase,False,0.0
+0.0,0.0,ATPX5P,ATP pyridoxal 5'-phosphotransferase,False,0.0
+0.0,0.0,BALAALAabcpp,Beta alanyl L alanine transport via ABC system  periplasm,False,0.0
+0.0,0.0,BALAALAtex,Beta alanyl L alanine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,BALABALAabcpp,Beta alanyl beta alanine transport via ABC system  periplasm,False,0.0
+0.0,0.0,BALABALAtex,Beta alanyl beta alanine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,BALAGLYabcpp,Beta alanyl L glycine transport via ABC system  periplasm,False,0.0
+0.0,0.0,BALAGLYtex,Beta alanyl L glycine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,BALALEUabcpp,Beta alanyl L leucine transport via ABC system  periplasm,False,0.0
+0.0,0.0,BALALEUtex,L Histidinylglycine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,BALAMDAH,Beta Alaninamide amidohydrolase,False,0.0
+0.0,0.0,BALAt2pp,Beta-alanine transport in via proton symport (periplasm),False,0.0
+0.0,0.0,BALAt2r,Beta Alanine transport in via proton symport,False,0.0
+0.0,0.0,BALAtex,Beta-alanine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,BDH,3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN,False,0.0
+0.0,0.0,BETALDHx,Betaine-aldehyde dehydrogenase,False,0.0
+0.0,0.0,BETALDHy,Betaine-aldehyde dehydrogenase,False,0.0
+0.0,0.0,BGLA,Beta-glucosidase,False,0.0
+0.0,0.0,BGLA1,6-phospho-beta-glucosidase,False,0.0
+0.0,0.0,BGLK,Beta-glucoside kinase,False,0.0
+0.0,0.0,BG_CELLB,Beta glucosidase  cellobiose,False,0.0
+0.0,0.0,BG_MADG,Beta glucosidase  methyl alpha D glucoside,False,0.0
+0.0,0.0,BG_MBDG,Beta glucosidase,False,0.0
+0.0,0.0,BHBtpp,Transport of (r)-3-hydroxybutanoate [extraorganism-cytosol](passive),False,0.0
+0.0,0.0,BLAMDabcpp,Beta alanyl L alanine transport via ABC system  periplasm,False,0.0
+0.0,0.0,BLAMDtex,Beta Alaninamide transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,BPNT_1,"3',5'-bisphosphate nucleotidase",False,0.0
+-4.294055429440415e-05,-3.864649886496353e-05,BSCT,Benzoylsuccinyl-CoA thiolase,False,4.294055429440622e-06
+0.0,0.0,BTDD_RR,R R  butanediol dehydrogenase,False,0.0
+0.0,0.0,BTNTe,Release of biotin across the basolatral membrane,False,0.0
+0.0,0.0,BTNt,Biotin ABC transporter,False,0.0
+0.0,0.0,BTNt2i,Biotin uptake,False,0.0
+0.0,0.0,BTS3r,Biotin synthase,False,0.0
+0.0,0.0,BUTCT,Acetyl-CoA:butyrate-CoA transferase,False,0.0
+0.0,0.0,BUTCT2,,False,0.0
+0.0,0.0,BUTKr,Butyrate kinase,False,0.0
+0.0,0.0,BUTSO3abcpp,Butanesulfonate transport via ABC system (periplasm),False,0.0
+0.0,0.0,BUTSO3tex,Butanesulfonate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,BUTt2rpp,"Butyrate transport via proton symport, reversible (periplasm)",False,0.0
+0.0,0.0,BUTt4pp,Butyrate transport via sodium symport (periplasm),False,0.0
+0.0,0.0,BUTtex,Butyrate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,BZDH,Benzaldehyde dehydrogenase,False,0.0
+4.2940554294404144e-05,3.8646498864963535e-05,BZt,Benzoate transport (diffusion),False,-4.294055429440609e-06
+0.0,0.0,C4HP,,False,0.0
+0.0,0.0,CA2abc1,Calcium efflux  via ABC system,False,0.0
+0.0,0.0,CA2tex,Calcium (Ca+2) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,CARNabcpp,Carnosine transport via ABC system  periplasm,False,0.0
+0.0,0.0,CARNtex,L Carnosine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,CAT,Catalase,False,0.0
+0.0,0.0,CAt4,Calcium transport inout via proton antiporter,False,0.0
+0.0,0.0,CBPS,Carbamoyl-phosphate synthase (glutamine-hydrolysing),False,0.0
+0.0,0.0,CBPS_1,Carbamoyl-phosphate synthase (glutamine-hydrolysing),False,0.0
+0.0,0.0,CD2abc1,Cadmium transport out via ABC system,False,0.0
+0.0,0.0,CD2abcpp,Cadmium (Cd+2) ABC transporter (periplasm),False,0.0
+0.0,0.0,CD2t3pp,Cadmium (Cd+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,CD2t4,Cadminum transport out via antiport,False,0.0
+0.0,0.0,CD2t4pp,Cadmium (Cd+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,CD2t5,Cadmium  Cd2  transport out via proton antiport  cytosolexternal,False,0.0
+0.0,0.0,CD2t6,Cadmium  Cd2  transport out via proton antiport  periplasmexternal,False,0.0
+0.0,0.0,CD2tex,Cadmium (Cd+2) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,CD2tpp,Cadmium (+2) transport in via permease (no H+),False,0.0
+0.0,0.0,CDGUNPD,"3,5-cyclic-nucleotide phosphodiesterase",False,0.0
+0.0003435244343552332,0.0003091719909197083,CDPMEK,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,False,-3.4352443435524925e-05
+0.0,0.0,CDPPH,CDP phosphohydrolase,False,0.0
+0.0,0.0,CDPPT160,CDPPT160,False,0.0
+0.0,0.0,CELBpts,Cellobiose transport via PEPPyr PTS,False,0.0
+0.0,0.0,CELBt2,,False,0.0
+0.0,0.0,CELLBabc,Cellobiose transport via ATP transporter,False,0.0
+0.0,0.0,CELLBpts_2,,False,0.0
+0.0,0.0,CGLYabcpp,L-Cysteinylglycine (Cys-Gly) transport via ABC system (periplasm),False,0.0
+0.0,0.0,CHLabc,Choline transport via ABC system,False,0.0
+0.0,0.0,CHOLD,Choline dehydrogenase,False,0.0
+0.0,0.0,CHORM,Chorismate mutase,False,0.0
+0.0,0.0,CHORS,Chorismate synthase,False,0.0
+0.0022350558510237355,0.002011550265921351,CITt14,Citrate transport in via Ca complex,False,-0.00022350558510238466
+0.0,0.0,CITt3pp,Citrate transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,CITt4pp_1,Citrate transport via sodium symport  periplasm,False,0.0
+0.0,0.0,CITtupp,Citrate transport periplasm,False,0.0
+0.0,0.0,CLtex,Chloride (Cl-1) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,CMCBTFexs,Carboxymycobactin Fe loading reaction  spontaneous,False,0.0
+0.0,0.0,CMPDAi,CMP deaminase,False,0.0
+-10.0,-10.0,CO2t,CO2 transporter via diffusion,False,0.0
+-10.0,-10.0,CO2tex,CO2 transport via diffusion (extracellular to periplasm),False,0.0
+-10.0,-10.0,CO2tpp,CO2 transporter via diffusion (periplasm),False,0.0
+0.0,0.0,COBALT2abcpp,Cobalt (Co+2) ABC transporter (periplasm),False,0.0
+0.0,0.0,COBALT2t3pp,Cobalt (Co+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,COBALT2tex,Cobalt (Co+2) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,COBALTt4pp,Cobalt transport out via proton antiporter (periplasm),False,0.0
+-4.294055429440415e-05,-3.864649886496353e-05,COBALTt5,Cobalt (Co+2) transport via diffusion (extracellular to cytoplasm),False,4.294055429440622e-06
+0.0,0.0,COabc,Cobalt transport via ABC system,False,0.0
+0.0,0.0,COt_1,Co transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,CPGNexs,Coprogen Fe-loading reaction (spontaneaous),False,0.0
+0.0,0.0,CPPPGO,Coproporphyrinogen oxidase (O2 required),False,0.0
+0.0,0.0,CRO4abcpp,Chromate transport via ABC system (periplasm),False,0.0
+0.0,0.0,CRO4t3,Chromate transport out via proton antiport,False,0.0
+0.0,0.0,CRO4t3pp,Chromate transport out via proton antiport (cytoplasm to periplasm),False,0.0
+0.0,0.0,CRO4tex,Cromate transport via diffusion (extracellular to periplasm),False,0.0
+4.307643976706698,0.0,CS,Citrate synthase,False,-4.307643976706698
+0.003263482126374715,0.0,CTECOAI6,3-cis-2-trans-enoyl-CoA isomerase,False,-0.003263482126374715
+0.0,0.0,CTECOAI7,3-cis-2-trans-enoyl-CoA isomerase,False,0.0
+0.0,0.0,CTECOAI8,3-cis-2-trans-enoyl-CoA isomerase,False,0.0
+0.0,0.0,CTPS1,CTP synthase  NH3,False,0.0
+0.0,0.0,CTPS2,CTP synthase (glutamine),False,0.0
+0.0,0.0,CU2abcpp,Copper (Cu+2) ABC transporter (periplasm),False,0.0
+0.0003044485299473254,0.0002740036769525913,CU2tex,Copper (Cu+2) transport via diffusion (extracellular to periplasm),False,-3.0444852994734113e-05
+0.0003044485299473254,0.0002740036769525913,CU2tpp,Copper transport in via permease (no H+),False,-3.0444852994734113e-05
+0.0395722972155503,0.03561506749399597,CYS,L-cysteine,False,-0.00395722972155433
+0.0,0.0,CYSDS,Cysteine Desulfhydrase,False,0.0
+0.0,0.0,CYSGL,Cystathionine gamma-lyase,False,0.0
+0.0,0.0,CYSK2_I,O-Phospho-L-Serine-dependent S-Suflocysteine Synthase,False,0.0
+0.0,0.0,CYSS,Cysteine synthase,False,0.0
+0.0,0.0,CYSS_2,Cysteine synthase,False,0.0
+0.0,0.0,CYSTGL,Cystathionine g lyase,False,0.0
+0.0,0.0,CYSTL,Cystathionine b-lyase,False,0.0
+0.0,-7.769239409434608e-18,CYSTS,Cystathionine beta synthase,False,-7.769239409434608e-18
+0.0,0.0,CYST_II,,False,0.0
+0.0,0.0,CYSabc,L-cysteine transport via ABC system,False,0.0
+0.0,0.0,CYSabc2pp,L-cysteine export via ABC system (cytoplasm to periplasm),False,0.0
+0.0,0.0,CYSabcpp,L-cysteine uptake via ABC system (periplasm),False,0.0
+0.0,0.0,CYStpp,L-cysteine export via facilitated transport,False,0.0
+0.712412009460164,0.0,CYTBD2pp,Cytochrome oxidase bd (menaquinol-8: 2 protons) (periplasm),False,-0.712412009460164
+8.801557657332326,13.994693221327484,CYTB_B2,Menaquinol oxidase  71 protons,False,5.193135563995158
+1.6550466474052745,0.0,CYTB_B3,Menauinol oxidase  72 protons,False,-1.6550466474052745
+0.0,0.0,CYTD,Cytidine deaminase,False,0.0
+0.0,0.0,CYTDH,Cytidine hydrolase,False,0.0
+0.06893032478109218,0.06203729230298262,CYTDK1,ATP:cytidine 5'-phosphotransferase,False,-0.006893032478109559
+0.0,0.0,CYTDK2,Cytidine kinase (GTP),False,0.0
+0.06893032478109218,0.062037292302982626,CYTDt2,Cytidine transport in via proton symport,False,-0.006893032478109552
+0.0,0.0,CYTDtex,Cytidine transport via diffusion (extracellular to periplasm),False,0.0
+0.3333582581260329,0.30002243231342807,CYTK1,Cytidylate kinase (CMP),False,-0.03333582581260486
+0.0,0.0,CYTK2,Cytidylate kinase (dCMP),False,0.0
+0.0,0.0,CYTOM,Cytosine 5 methyltransferase,False,0.0
+0.002235055851023736,0.0020115502659213513,Clt,Major Facilitator(MFS) TCDB:2.A.1.14.6,False,-0.00022350558510238466
+0.0,0.0,Cobalt2abcppI,Cobalt II transport via ABC system periplasm I,False,0.0
+0.0,0.0,Cotpp,Co transport via diffusion (periplasm to cytosol),False,0.0
+0.0,0.0,Cut1,Copper export via ATPase,False,0.0
+0.0,0.0,D5KGK,2-Deoxy-5-Keto-D-gluconate kinase,False,0.0
+0.0,0.0,D5KGPA,2-Deoxy-5-keto-D-gluconate 6-phosphate aldolase,False,0.0
+0.0,0.0,DAAOP,D alanyl aminopeptidase,False,0.0
+0.0,0.0,DABAAT2,DABA aminotransferase,False,0.0
+0.0,0.0,DACL,,False,0.0
+0.0,0.0,DADK,Deoxyadenylate kinase,False,0.0
+0.0,0.0,DADNK,Deoxyadenosine kinase,False,0.0
+0.0,0.0,DADNK_1,Deoxyadenosine kinase,False,0.0
+0.0,0.0,DAGK,Diacylglycerol kinase,False,0.0
+0.0,0.0,DAGK160,Diacylglycerol kinase (n-C16:0),False,0.0
+0.0,0.0,DAGK_BS,Diacylglycerol kinase,False,0.0
+0.0,0.0,DALAALAD,Beta alanine L alanine dipeptidase,False,0.0
+0.0,0.0,DALADALAD,Beta alanine beta alanine dipeptidase,False,0.0
+0.0,0.0,DALAGLYD,Beta alanine L glycine dipeptidase,False,0.0
+0.0,0.0,DALALEUD,Beta alanine L leucine dipeptidase,False,0.0
+0.0,0.0,DALAOX,D amino acid oxidase,False,0.0
+0.0,0.0,DALAt2pp,D-alanine transport in via proton symport (periplasm),False,0.0
+0.0,0.0,DALAt2r,D-alanine transport via proton symport,False,0.0
+0.0,0.0,DAPAT,Cadaverine aminotranferase,False,0.0
+-5.580192631392295,-5.069322085416445,DAPDA,"N-acetyl-L,L-diaminopimelate deacetylase",False,0.51087054597585
+0.0,0.0,DAPDC,Diaminopimelate decarboxylase,False,0.0
+0.004294055429440415,0.003864649886496352,DAPE,Diaminopimelate epimerase,False,-0.0004294055429440633
+0.0,0.0,DASYN160,CDP-diacylglycerol synthetase (n-C16:0),False,0.0
+0.0,0.0,DASYN161,CDP-diacylglycerol synthetase (n-C16:1),False,0.0
+0.0,0.0,DASYN180,CDP-diacylglycerol synthetase (n-C18:0),False,0.0
+0.0,0.0,DASYN181,CDP-diacylglycerol synthetase (n-C18:1),False,0.0
+0.0,0.0,DATPHs,DATP amine hydrolysis (spontaneous),False,0.0
+0.0,0.0,DB4PS,"3,4-Dihydroxy-2-butanone-4-phosphate synthase",False,0.0
+0.0,0.0,DCAtex,Decanoate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,DCMPDA,DCMP deaminase,False,0.0
+0.0,0.0,DCYTD,Deoxycytidine deaminase,False,0.0
+0.0,0.0,DCYTt2,Deoxycytidine transport in via proton symport,False,0.0
+0.0,0.0,DDCAtexi,Fatty acid (dodecanoate) transport via facilitated irreversible diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,DDGLCNt2r,"2-dehydro-3-deoxy-D-gluconate transport via proton symport, reversible",False,0.0
+0.0,0.0,DDGLK,2-dehydro-3-deoxygluconokinase,False,0.0
+0.0,0.0,DDPA,3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase,False,0.0
+0.0,0.0,DGK1,Deoxyguanylate kinase (dGMP:ATP),False,0.0
+0.0,0.0,DGNSK,Deoxyguanosine kinase,False,0.0
+0.0,0.0,DGNSK_1,ATP deoxyguanosine 5'-phosphotransferase,False,0.0
+0.0,0.0,DGUNC,Diguanylate cyclase,False,0.0
+0.0,0.0,DH23t,,False,0.0
+0.0,-1.5668415528977054e-15,DHACOAH,"2,3-dehydroadipyl-CoA hydratase",False,-1.5668415528977054e-15
+0.4274282180709907,1.3973792266691671,DHAD1,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)",False,0.9699510085981764
+0.0,0.0,DHAD2,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)",False,0.0
+0.0,0.0,DHAD3,Dihydroxy acid dehydratase  2 3 dihydroxy 3 methylpentanoate,False,0.0
+0.0,0.0,DHAK,Dihydroxyacetone kinase,False,0.0
+0.0,0.0,DHAPT,Dihydroxyacetone phosphotransferase,False,0.0
+0.0,0.0,DHBD,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",False,0.0
+0.0,0.0,DHBSZ3FEexs,23dhbsz3 Fe III sequestration,False,0.0
+0.004294055429439502,0.0038646498864940673,DHDPRy,Dihydrodipicolinate reductase (NADPH),False,-0.0004294055429454346
+0.004294055429439503,0.0038646498864940678,DHDPS,Dihydrodipicolinate synthase,False,-0.00042940554294543503
+0.0002872723082295637,0.0002585450774066317,DHFR,Dihydrofolate reductase,False,-2.8727230822931987e-05
+0.0,0.0,DHFS,Dihydrofolate synthase,False,0.0
+4.2940554294404144e-05,3.864649886496353e-05,DHNAOT_1,1 4 dihydroxy 2 naphthoate octaprenyltransferase,False,-4.294055429440616e-06
+0.0,0.0,DHNCOAS,"1,4-dihydroxy-2-napthoyl-CoA synthase",False,0.0
+0.0,0.0,DHNCOAT,"1,4-dihydroxy-2-napthoyl-CoA thioesterase",False,0.0
+0.0,0.0,DHNPA_1,Dihydroneopterin aldolase,False,0.0
+0.0,8.429234093628925e-15,DHORDi,Dihydoorotic acid dehydrogenase  irreversible,False,8.429234093628925e-15
+0.0,-8.429234093628925e-15,DHORTS,Dihydroorotase,False,-8.429234093628925e-15
+1.5049923161657848,3.4793084683793416,DHPACCOAHIT,"1,2-Dihydroxy-1,2-dihydrophenylacetyl-CoA Hydratase/Isomerase/Ketothiolase complex",False,1.9743161522135568
+0.0,0.0,DHPPDA,Diaminohydroxyphosphoribosylaminopyrimidine deaminase,False,0.0
+0.0,0.0,DHPS,Dihydropteroate synthase,False,0.0
+0.0,0.0,DHPTDCs2,"4,5-dihydroxy-2,3-pentanedione cyclization (spontaneous)",False,0.0
+0.0,0.0,DHQS,3-dehydroquinate synthase,False,0.0
+0.0,0.0,DHQTi,"3-dehydroquinate dehydratase, irreversible",False,0.0
+0.0,0.0,DINSK,Deoxyinosine kinase,False,0.0
+0.0,0.0,DIPEPabc1,Dipeptide transport via ABC system  ala asp,False,0.0
+0.0,0.0,DIPEPabc10,Dipeptide transport via ABC system  gly glu,False,0.0
+0.0,0.0,DIPEPabc12,Dipeptide transport via ABC system  met ala,False,0.0
+0.0,0.0,DIPEPabc13,Dipeptide transport via ABC system  gly asp,False,0.0
+0.0,0.0,DIPEPabc14,Dipeptide transport via ABC system  gly pro L,False,0.0
+0.0,0.0,DIPEPabc15,Dipeptide transport via ABC system  cgly,False,0.0
+0.0,0.0,DIPEPabc3,Dipeptide transport via ABC system  ala glu,False,0.0
+0.0,0.0,DIPEPabc8,Dipeptide transport via ABC system  gly asn,False,0.0
+0.0,0.0,DKDID,"D-2,3-Diketo 4-deoxy-epi-inositol dehydratase",False,0.0
+0.0,0.0,DKMD2K,1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  2 keto 4 methylthiobutyrate,False,0.0
+0.0,0.0,DM1PE,2 3 diketo 5 methylthiopentyl 1 phosphate enolase,False,0.0
+4.294055429440415e-05,3.8646498864963535e-05,DMATT,Dimethylallyltranstransferase,False,-4.294055429440616e-06
+4.2940554294404144e-05,3.864649886496353e-05,DMPPS,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp),False,-4.294055429440616e-06
+0.0,0.0,DNADDP,Deamino-NAD+ nucleotidohydrolase,False,0.0
+0.0,0.0,DNMPPA,Dihydroneopterin monophosphate dephosphorylase,False,0.0
+0.0,0.0,DNTAep,N N bis 3 5 dinitrotolyl  amine extrusion pump,False,0.0
+0.0,0.0,DNTPPA,Dihydroneopterin triphosphate pyrophosphatase,False,0.0
+0.00024733759273499014,0.00022260383346239042,DPCOAK,Dephospho-CoA kinase,False,-2.4733759272599717e-05
+0.0,0.0,DPR,2-dehydropantoate 2-reductase,False,0.0
+0.0,0.0,DRBK,Deoxyribokinase,False,0.0
+0.0,0.0,DRIBabc,Deoxyribose transport via ABC system,False,0.0
+0.0,0.0,DRPA,Deoxyribose-phosphate aldolase,False,0.0
+0.0,0.0,DSERDHr,D-serine dehydrogenase,False,0.0
+0.0,0.0,DSERt2,D-serine transport via proton symport,False,0.0
+0.0,0.0,DSERt2pp,D-serine transport in via proton symport (periplasm),False,0.0
+0.0,0.0,DSERtex,D-serine transport via diffusion (extracellular to periplasm),False,0.0
+0.011235825436673789,0.010112242893006355,DTMPK,DTMP kinase,False,-0.0011235825436674337
+0.0,0.0,DURIK1,Deoxyuridine kinase (ATP:Deoxyuridine),False,0.0
+0.0,0.0,DURIPP,Deoxyuridine phosphorylase,False,0.0
+0.0,0.0,DURIPP_1,Deoxyuridine phosphorylase,False,0.0
+0.0,0.0,DUTPDP,DUTP diphosphatase,False,0.0
+0.0003435244343552332,0.0003091719909197082,DXPRIi,1-deoxy-D-xylulose reductoisomerase,False,-3.435244343552498e-05
+0.0003435244343552332,0.00030917199091970833,DXPS,1-deoxy-D-xylulose 5-phosphate synthase,False,-3.435244343552487e-05
+0.0,0.0,E4PD,Erythrose 4-phosphate dehydrogenase,False,0.0
+0.0,0.0,ECOAH1,3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA),False,0.0
+0.0,0.0,ECOAH1_1,3 hydroxyacyl CoA dehydratase  3 hydroxybutanoyl CoA,False,0.0
+-0.001030573303065699,-0.0009275159727641783,ECOAH2,3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA),False,0.00010305733030152066
+0.0,5.053780027615249e-15,ECOAH2c,Enoyl CoA hydratase  bacterial,False,5.053780027615249e-15
+-0.001030573303065699,-0.0009275159727641781,ECOAH3,3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA),False,0.00010305733030152088
+-0.001030573303065699,-0.000927515972764178,ECOAH4,3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA),False,0.00010305733030152098
+0.0,0.0,ECOAH5,3-hydroxyacyl-CoA dehydratase (3-hydroxydodecanoyl-CoA),False,0.0
+-0.001030573303065699,-0.0009275159727641778,ECOAH5_1,3 hydroxyacyl CoA dehydratase  3 hydroxydodecanoyl CoA,False,0.0001030573303015212
+-0.0010305733030656987,-0.0009275159727641778,ECOAH6,3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA),False,0.00010305733030152098
+0.001717622171776166,0.0015458599545985412,ECOAH7,3-hydroxyacyl-CoA dehydratase (3-hydroxyhexadecanoyl-CoA),False,-0.00017176221717762484
+0.0,0.0,ECOAH8,3-hydroxyacyl-CoA dehydratase (3-hydroxyoctadecanoyl-CoA),False,0.0
+0.0,0.0,ECOAH9ir,2 Methylprop 2 enoyl CoA  2 Methylbut 2 enoyl CoA,False,0.0
+0.0,0.0,EDA,2-dehydro-3-deoxy-phosphogluconate aldolase,False,0.0
+10.000000000000002,10.000000000000002,ENO,Enolase,False,0.0
+0.0,0.0,ETHSO3abcpp,Ethanesulfonate transport via ABC system (periplasm),False,0.0
+0.0,0.0,ETHSO3tex,Ethanesulfonate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,ETOHtex,Ethanol transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,ETOHtrpp,Ethanol reversible transport via diffusion (periplasm),False,0.0
+0.0,0.0,F1PP,D-fructose 1-phosphate phosphatase,False,0.0
+0.0,0.0,F6PP,D-fructose 6-phosphate phosphatase,False,0.0
+0.0,0.0,FA80ACPHi,Fatty-acyl-ACP hydrolase,False,0.0
+0.0,0.0,FACOAE120,Fatty-acid-CoA thioesterase (dodecanoate),False,0.0
+0.0,0.0,FACOAE140,Fatty-acid-CoA thioesterase (tetradecanoate),False,0.0
+0.0,0.0,FACOAE160,Fatty-acid-CoA thioesterase (hexadecanoate),False,0.0
+0.0,0.0,FACOAE161,Fatty-acid-CoA thioesterase (hexadecenoate),False,0.0
+0.0,0.0,FACOAE180,Fatty-acid-CoA thioesterase (octadecanoate),False,0.0
+0.0,0.0,FACOAL100t2pp,Fatty-acid-CoA ligase (decanoate transport via vectoral Co-A coupling),False,0.0
+0.0,0.0,FACOAL120t2pp,Fatty-acid-CoA ligase (dodecanoate transport via vectoral Co-A coupling),False,0.0
+0.0,0.0,FACOAL140,Fatty acid  CoA ligase  tetradecanoate,False,0.0
+0.00017176221717761655,0.0001545859954598541,FACOAL140_ISO,Fatty acid  CoA ligase  Iso C140,False,-1.7176221717762435e-05
+0.0,0.0029371339137422812,FACOAL140t2pp,Fatty-acid-CoA ligase (tetradecanoate transport via vectoral Co-A coupling),False,0.0029371339137422812
+0.003263482126374715,0.0,FACOAL141t2pp,Fatty-acid-CoA ligase (tetradecenoate transport via vectoral Co-A coupling),False,-0.003263482126374715
+0.003435244343552331,0.0030917199091970824,FACOAL150_ISO,Fatty acid  CoA ligase  Iso C150,False,-0.0003435244343552488
+0.005839915384038962,0.00525592384563504,FACOAL150_anteiso,Fatty acid  CoA ligase  anteiso C150,False,-0.000583991538403922
+0.0,0.0,FACOAL160,Fatty acid  CoA ligase  hexadecanoate,False,0.0
+0.0008588110858880828,0.0007729299772992706,FACOAL160_ISO,Fatty acid  CoA ligase  Iso C160,False,-8.58811085888122e-05
+0.0,0.0,FACOAL160t2pp,Fatty-acid-CoA ligase (hexadecanoate transport via vectoral Co-A coupling),False,0.0
+0.0,0.0,FACOAL161,Fatty acid  CoA ligase  hexadecenoate,False,0.0
+0.0,0.0,FACOAL161t2pp,Fatty-acid-CoA ligase (hexadecenoate transport via vectoral Co-A coupling),False,0.0
+0.0012023355202433162,0.001082101968218979,FACOAL170_ISO,Fatty acid  CoA ligase  Iso C170,False,-0.00012023355202433724
+0.0029199576920194816,0.00262796192281752,FACOAL170_anteiso,Fatty acid  CoA ligase  anteiso C170,False,-0.00029199576920196143
+0.0005152866515328496,0.0004637579863795622,FACOAL180_2,Fatty acid  CoA ligase  octadecanoate,False,-5.152866515328739e-05
+0.0,0.0,FACOAL180t2pp,Fatty-acid-CoA ligase (octadecanoate transport via vectoral Co-A coupling),False,0.0
+0.0,0.0,FACOAL181,Fatty acid  CoA ligase  octadecenoate,False,0.0
+0.0,0.0,FACOAL181t2pp,Fatty-acid-CoA ligase (octadecenoate transport via vectoral Co-A coupling),False,0.0
+0.0,0.0,FACOAL60t2pp,Fatty-acid-CoA ligase (hexanoate transport via vectoral Co-A coupling),False,0.0
+0.0,0.0,FACOAL80t2pp,Fatty-acid-CoA ligase (octanoate transport via vectoral Co-A coupling),False,0.0
+4.87207467736157,0.0,FADH2D,FADH2 dehydrogenase (menaquinone 7 as acceptor),False,-4.87207467736157
+0.7124549500144582,3.8646498864963515e-05,FADMQOR,Menaquinone:FAD oxidoreductase,False,-0.7124163035155933
+0.0,0.0,FALDep,Formaldehyde extrusion pump,False,0.0
+0.0,0.0,FAS140,Fatty acid synthase  n C140,False,0.0
+-1.5294426823894824,-1.5431650808171924,FBA,Fructose-bisphosphate aldolase,False,-0.013722398427709948
+0.0,0.0,FBA2,D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase,False,0.0
+0.0,0.0,FBA3,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase",False,0.0
+1.5294426823894827,1.5431650808171926,FBP,Fructose-bisphosphatase,False,0.013722398427709948
+0.0,0.0,FCLT_2,Heme B synthesis reaction,False,0.0
+-3.1945180971049783e-15,0.0,FDH,Formate dehydrogenase,False,3.1945180971049783e-15
+0.0,0.0,FDMO,FMNH2-dependent monooxygenase,False,0.0
+0.0,0.0,FDMO3,FMNH2-dependent monooxygenase (ethanesulfonate),False,0.0
+0.0,0.0,FDMO3_1,FMN dependent monooxygenase  hexanesulfonate,False,0.0
+0.0,0.0,FDMO4,FMNH2-dependent monooxygenase (butanesulfonate),False,0.0
+0.0,0.0,FDMO4_1,FMN dependent monooxygenase  taurine,False,0.0
+0.0,0.0,FDMO6,FMNH2-dependent monooxygenase (sulfoacetate),False,0.0
+0.0,0.0,FE2Gabcpp,Iron (II) transport via ABC system (GTP) (periplasm),False,0.0
+0.0,0.0,FE2abc,Iron (II) transport via ABC system,False,0.0
+0.0,0.0,FE2abcpp,Iron (II) transport via ABC system (periplasm),False,0.0
+0.0028834582208692385,0.0025951123987823,FE2t,Iron  II  transport,False,-0.00028834582208693864
+0.0,0.0,FE2t3pp,Iron (Fe+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,FE2t4pp,Iron(II) transport out via antiport (periplasm),False,0.0
+0.0,0.0,FE2tex,Iron (II) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,FE3DCITexs,Dicitrate Fe(III) binding (spontaneous),False,0.0
+0.0,0.0,FE3Gabcpp,Iron (III) transport via ABC system (GTP) (periplasm),False,0.0
+0.0,0.0,FE3PYOVDL2,Ferripyoverdine complex formation  P putida KT2440 specific,False,0.0
+0.0,0.0,FE3abc,Iron (III) transport via ABC system,False,0.0
+0.0,0.0,FE3abcpp,Iron (III) transport via ABC system (periplasm to cytoplasm),False,0.0
+0.0033527984793070755,0.0030175186313763512,FE3t,"Ferric iron uptake, plasma membrane",False,-0.0003352798479307243
+0.0,0.0,FE3tex,Iron (III) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,FEDCabc,Iron  III  dicitrate transport via ABC system,False,0.0
+0.0,0.0,FEENTERexs,Enterobactin Fe(III) binding (spontaneous),False,0.0
+0.0,0.0,FEOXAMexs,Ferroxamine Fe3-loading reaction (spontaneous),False,0.0
+0.0,0.0,FFSD,Beta-fructofuranosidase,False,0.0
+0.0,0.0,FFSD1r,Beta-fructofuranosidase,False,0.0
+-3.1945180971049787e-15,0.0,FGLU_1,Formimidoylglutamase,False,3.1945180971049787e-15
+9.575743607652125e-05,8.618169246886866e-05,FMNAT,FMN adenylyltransferase,False,-9.575743607652588e-06
+0.0,0.0,FMNRx,FMN reductase,False,0.0
+0.0,0.0,FMNRx2,FMN reductase,False,0.0
+0.0,0.0,FMNRy,FMN reductase  NADPH dependent,False,0.0
+0.0,0.0,FOLD3,Dihydropteroate synthase,False,0.0
+0.0002872723082295637,0.0002585450774066317,FOLR2,Folate reductase,False,-2.8727230822931987e-05
+0.0,0.0,FOMETRi,Aminomethyltransferase,False,0.0
+-3.1945180971049787e-15,0.0,FORAMD,FORAMD,False,3.1945180971049787e-15
+0.0,0.0,FORtex,Formate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,FRD2,Fumarate reductase,False,0.0
+0.0,0.0,FRD3,Fumarate reductase,False,0.0
+0.0,0.0,FRDO,FRDO,False,0.0
+0.0,0.0,FRDx,Fumarate reductase NADH,False,0.0
+0.0,0.0,FRUK,Fructose-1-phosphate kinase,False,0.0
+0.0,0.0,FRUpts,D-fructose transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,FRUpts2,Fructose transport via PEP:Pyr PTS (f6p generating),False,0.0
+0.0,0.0,FTHFCL,5 formethyltetrahydrofolate cyclo ligase,False,0.0
+0.0,0.0,FTHFLi,Formate-tetrahydrofolate ligase,False,0.0
+5.584529627376028,5.073225381801808,FUM,Fumarase,False,-0.5113042455742205
+0.0,0.0,FUMAC,Fumarylacetoacetase,False,0.0
+0.06269320926983003,0.05642388834284673,G1PACT,Glucosamine-1-phosphate N-acetyltransferase,False,-0.0062693209269833045
+0.0,0.0,G1PP,Glucose-1-phosphatase,False,0.0
+0.0,0.0,G1SAT,Glutamate-1-semialdehyde aminotransferase,False,0.0
+0.0,0.0,G3PAT160,Glycerol-3-phosphate acyltransferase (C16:0),False,0.0
+0.0,0.0,G3PAT161,Glycerol-3-phosphate acyltransferase (C16:1),False,0.0
+0.0,0.0,G3PAT180,Glycerol-3-phosphate acyltransferase (C18:0),False,0.0
+0.0,0.0,G3PAT181,Glycerol-3-phosphate acyltransferase (C18:1),False,0.0
+0.26408440891058543,0.23767596801952565,G3PCT,Glycerol-3-phosphate cytidylyltransferase,False,-0.026408440891059787
+0.2726725197694663,0.24540526779251834,G3PD1ir,Glycerol 3 phosphate dehydrogenase  NAD,False,-0.027267251976947987
+0.0,0.0,G3PD4,Glycerol 3 phosphate dehydrogenase  menaquinone 7,False,0.0
+0.0,0.0,G3PEabcpp,Sn-glycerol-3-phosphoethanolamine transport via ABC system (periplasm),False,0.0
+0.008588110858880829,0.007729299772992705,G3POA_BS,Glycerol 3 phosphate O acyltransferase,False,-0.000858811085888124
+0.0,0.0,G3PT,Glycerol-3-phosphatase,False,0.0
+0.0,8.429234093628927e-15,G5SADs,L-glutamate 5-semialdehyde dehydratase (spontaneous),False,8.429234093628927e-15
+0.0,0.0,G5SD,Glutamate-5-semialdehyde dehydrogenase,False,0.0
+0.0,0.0,G6PBDH,Beta-D-Glucose-6-phosphate NADP+ 1-oxoreductase,False,0.0
+0.0,0.0,G6PDA,Glucosamine-6-phosphate deaminase,False,0.0
+0.0,0.0,G6PDH2r,Glucose 6-phosphate dehydrogenase,False,0.0
+0.0,0.0,G6PI,Glucose 6 phosphate isomerase,False,0.0
+0.0,0.0,G6PP,Glucose-6-phosphate phosphatase,False,0.0
+0.0,0.0,GALK2,Galactokinase,False,0.0
+-9.911971863696474,-9.920774677326829,GALKr,Galactokinase,False,-0.008802813630355288
+0.0,0.0,GALM,Aldose 1 epimerase,False,0.0
+0.0,0.0,GALM1,Aldose 1-epimerase (glucose),False,0.0
+0.0,0.0,GALM2,Aldose 1-epimerase (galactose),False,0.0
+0.0,0.0,GALS3,A-galactosidase (melibiose),False,0.0
+-9.911971863696474,-9.920774677326827,GALT,Galactose 1 phosphate uridylyltransferase,False,-0.008802813630353512
+0.0,0.0,GALTpts,Galactitol transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,GALURDH,Galacturonate dehydrogenase,False,0.0
+0.0,0.0,GALURt2rpp,"D-galacturonate transport via proton symport, reversible (periplasm)",False,0.0
+0.0,0.0,GALURtex,D-galacturonate transport via diffusion (extracellular to periplasm),False,0.0
+10.000000000000002,10.000000000000002,GALUi,UTP-glucose-1-phosphate uridylyltransferase (irreversible),False,0.0
+0.0,0.0,GALabc,D-galactose transport via ABC system,False,0.0
+0.0,0.0,GALabcpp,D-galactose transport via ABC system (periplasm),False,0.0
+-9.911971863696474,-9.920774677326827,GALpts,Galactose transport via PTS,False,-0.008802813630353512
+0.0,0.0,GALt2_3,,False,0.0
+0.0,0.0,GALt2pp,D-galactose transport in via proton symport (periplasm),False,0.0
+0.06269320926983003,0.056423888342846736,GAMpts,D-glucosamine transport via PEP:Pyr PTS,False,-0.0062693209269832975
+0.0,0.0,GAPD,Glyceraldehyde-3-phosphate dehydrogenase,False,0.0
+0.0,0.0,GAPDi_nadp,Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating),False,0.0
+0.0,0.0,GARFT,Phosphoribosylglycinamide formyltransferase,False,0.0
+-1.186946370504751e-30,0.0,GCALDD,Glycolaldehyde dehydrogenase,False,1.186946370504751e-30
+0.0,0.0,GCCa,Glycine-cleavage complex,False,0.0
+0.0,0.0,GCCa_1,Glycine-cleavage complex,False,0.0
+0.0,0.0,GCCb,Glycine cleavage complex,False,0.0
+0.0,0.0,GCCb_1,Glycine cleavage complex,False,0.0
+0.0,0.0,GCCc,Glycine-cleavage complex,False,0.0
+0.0,0.0,GCCc_1,Glycine-cleavage complex,False,0.0
+0.0,0.0,GDH1,Glutamate dehydrogenase (NAD),False,0.0
+0.0,0.0,GDPTPDP,Guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase,False,0.0
+0.0,0.0,GF6PTA,Glutamine-fructose-6-phosphate transaminase,False,0.0
+0.0001915148721530425,-0.11901112032437082,GHMT2r,"Glycine hydroxymethyltransferase, reversible",False,-0.11920263519652387
+0.10396466421881072,0.09356819779692911,GK1,Guanylate kinase (GMP:ATP),False,-0.010396466421881606
+0.0,0.0,GK2,Guanylate kinase  GMPdATP,False,0.0
+0.0,0.0,GLCADpts,,False,0.0
+0.0,0.0,GLCAt2,,False,0.0
+0.0,0.0,GLCDpp,Glucose dehydrogenase (ubiquinone-8 as acceptor) (periplasm),False,0.0
+0.0,0.0,GLCNt2ir,D gluconate transport via proton symport,False,0.0
+0.0,0.0,GLCNt2r,"D-gluconate transport via proton symport, reversible",False,0.0
+0.0,0.0,GLCNt2rpp,"D-gluconate transport via proton symport, reversible (periplasm)",False,0.0
+0.0,0.0,GLCRt1,Transport by Glut-5 Transporter into Extracellular Space,False,0.0
+0.0,0.0,GLCURDH,Glucoronate dehydrogenase,False,0.0
+0.0,0.0,GLCURt2rpp,"D-glucuronate transport via proton symport, reversible (periplasm)",False,0.0
+0.0,0.0,GLCURtex,D-glucuronat transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,GLCabc,D-glucose transport via ABC system,False,0.0
+0.0,0.0,GLCabcpp,D-glucose transport via ABC system (periplasm),False,0.0
+0.0,0.0,GLCpts,D-glucose transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,GLCptspp,D-glucose transport via PEP:Pyr PTS (periplasm),False,0.0
+0.0,0.0,GLCt2pp,D-glucose transport in via proton symport (periplasm),False,0.0
+0.0,0.0,GLGC,Glucose-1-phosphate adenylyltransferase,False,0.0
+0.11309812011723047,0.10178830810550686,GLNS,Glutamine synthetase,False,-0.01130981201172361
+0.0,0.0,GLNabc,L-glutamine transport via ABC system,False,0.0
+0.0,0.0,GLTPD,Galactitol-1-phosphate dehydrogenase,False,0.0
+0.0,0.0,GLU5K,Glutamate 5-kinase,False,0.0
+0.0,0.0,GLUDC,Glutamate Decarboxylase,False,0.0
+0.0,0.0,GLUDxi,Glutamate dehydrogenase  NAD,False,0.0
+-0.4360650270577167,0.0,GLUDy,Glutamate dehydrogenase (NADP),False,0.4360650270577167
+0.0,0.0,GLUDy_1,Glutamate dehydrogenase (NADP),False,0.0
+0.0,0.0,GLUKA_1,Glucokinase/hexokinase (glc-A),False,0.0
+0.0,0.0,GLUN,Glutaminase,False,0.0
+0.0,0.0,GLUPRT,Glutamine phosphoribosyldiphosphate amidotransferase,False,0.0
+-0.08373408087408807,-0.07536067278667886,GLUR,Glutamate racemase,False,0.008373408087409204
+0.0,0.0,GLUSfx,Glutamate synthase (ferredoxin),False,0.0
+0.0,0.0,GLUSx,Glutamate synthase  NADH2,False,0.0
+0.0,0.0,GLUSy,Glutamate synthase (NADPH),False,0.0
+0.0,0.0,GLUTARH,Glutarate hydroxylase,False,0.0
+0.0,0.0,GLUTRR,Glutamyl-tRNA reductase,False,0.0
+0.0,0.0,GLUTRS,Glutamyl-tRNA synthetase,False,0.0
+0.0,0.0,GLUabc,L-glutamate transport via ABC system,False,0.0
+-1.4363556140347256e-12,1.7992129123679776,GLUt2r,L glutamate transport via proton symport  reversible,False,1.799212912369414
+0.0,0.0,GLUt2rpp,"L-glutamate transport via proton symport, reversible (periplasm)",False,0.0
+0.0,0.0,GLUt4,Na+/glutamate symport,False,0.0
+0.0,0.0,GLUt4pp,Na+/glutamate symport (periplasm),False,0.0
+0.0,0.0,GLUtex,L-glutamate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,GLXCBL,Glyoxalate carboligase,False,0.0
+1.175797486531955,0.1525151722054663,GLXO1,Glyoxylate oxidase,False,-1.0232823143264886
+0.0,0.0,GLYALDDr,D-Glyceraldehyde dehydrogenase,False,0.0
+1.427093593668033,-2.669050521144167,GLYALDt,Glyceraldehyde facilitated diffusion,False,-4.0961441148121995
+-1.4386761246779531,-0.6274729139554819,GLYAT,Glycine C-acetyltransferase,False,0.8112032107224713
+0.0,0.0,GLYBabc,Glycine betaine transport via ABC system,False,0.0
+0.0,0.0,GLYBt2r,"Glycine betaine transport via proton symport, reversible",False,0.0
+0.0,0.0,GLYBt3pp,Glycine betaine transport via proton antiport (periplasm),False,0.0
+0.0,0.0,GLYBtex,Glycine betaine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,GLYC3Pabcpp,Sn-Glycerol 3-phosphate transport via ABC system (periplasm),False,0.0
+0.0,-2.2476721989556082e-15,GLYCDH,Glycerol dehydratase,False,-2.2476721989556082e-15
+10.000000000000002,10.000000000000002,GLYCK,Glycerate kinase,False,0.0
+0.0,0.11918348370930856,GLYCL,Glycine Cleavage System,False,0.11918348370930856
+0.0,3.991950083241146e-21,GLYCLTDx,Glycolate dehydrogenase (NAD),False,3.991950083241146e-21
+-1.186946370504751e-30,0.0,GLYCTO1,Glycolate oxidase,False,1.186946370504751e-30
+0.0,0.0,GLYCTO3,Glycolate oxidase,False,0.0
+0.0,0.0,GLYCYSAP,Gly-Cys aminopeptidase,False,0.0
+0.0,0.0,GLYCYSabc,Gly-Cys ABC transporters,False,0.0
+1.427093593668033,-2.669050521144165,GLYCt,Glycerol transport via channel,False,-4.096144114812198
+0.0,0.0,GLYCtex,Glycerol transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,GLYCtpp,Glycerol transport via channel (periplasm),False,0.0
+0.0,0.0,GLYGLNabcpp,L Glycinylglutamine  Gly Gln  transport via ABC system  periplasm,False,0.0
+0.0,0.0,GLYGLNtex,L Glycinylglutamine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,GLYGLNtr,Dipeptide transport via ABC system gly-gln,False,0.0
+0.0,0.0,GLYGLUabcpp,L Glycinylglutamate  Gly Glu  transport via ABC system  periplasm,False,0.0
+0.0,0.0,GLYGLUtex,L Histidinylglycine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,GLYGLYCNc,Hydrolysis of glycylycine for uptake,False,0.0
+0.0,0.0,GLYGLYGLNtr,Tripeptide transport,False,0.0
+0.0,0.0,GLYGLYabcpp,L Glycinilglycine  Gly Gly  transport via ABC system  periplasm,False,0.0
+0.0,0.0,GLYGLYtex,L Glycinylglycine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,GLYK,Glycerol kinase,False,0.0
+0.0,0.0,GLYLEUAP,Gly-Leu aminopeptidase,False,0.0
+0.0,0.0,GLYLEUtr,Gly-Leu ABC transporters,False,0.0
+0.0,0.0,GLYMETabcpp,L Glycinylmethionine  Gly Met  transport via ABC system  periplasm,False,0.0
+0.0,0.0,GLYMETtex,L Glycinylmethionine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,GLYMETtr,Dipeptide transport via ABC system gly-met,False,0.0
+1.175797486531955,0.1525151722054661,GLYO1,Glycine oxidase,False,-1.0232823143264889
+0.0,0.0,GLYOX,Hydroxyacylglutathione hydrolase,False,0.0
+0.0,0.0,GLYOX_1,Glyoxalase I; Ni-dependent,False,0.0
+0.0,0.0,GLYPHEAP,Gly-Phe aminopeptidase,False,0.0
+0.0,0.0,GLYPHEHYc,Hydrolysis of glycylphenylalanine,False,0.0
+0.0,0.0,GLYPHEabcpp,L Glycinilphenylalanin  Gly Phe  transport via ABC system  periplasm,False,0.0
+0.0,0.0,GLYPHEtex,L GlyPhe transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,GLYPHEtr,Gly-Phe ABC transporters,False,0.0
+0.0,0.0,GLYSERabcpp,L Glycinylserine  Gly Ser  transport via ABC system  periplasm,False,0.0
+0.0,0.0,GLYSERtex,L Glycinylserine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,GLYTYRAP,Gly-Try aminopeptidase,False,0.0
+0.0,0.0,GLYTYRabc,Gly-Try ABC transporters,False,0.0
+0.0,0.0,GLYabc,Glycine transport via ABC system,False,0.0
+0.0,0.0,GLYt2pp,Glycine transport in via proton symport (periplasm),False,0.0
+0.0,0.0,GLYt2r,Glycine reversible transport via proton symport,False,0.0
+0.0,0.0,GLYt4,Glycine transport via sodium symport,False,0.0
+0.0,0.0,GLYtex,Glycine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,GMPR,GMP reductase,False,0.0
+0.0,0.0,GMPS2,GMP synthase,False,0.0
+0.0,0.0,GND,Phosphogluconate dehydrogenase,False,0.0
+0.0,0.0,GNK_1,Gluconokinase,False,0.0
+0.0,0.0,GNKr,Gluconokinase,False,0.0
+0.0,0.0,GNNUC,Ribosylpyrimidine nucleosidase,False,0.0
+0.0,0.0,GNP,Phosphogluconate phosphatase,False,0.0
+0.0,0.0,GPDDA2,Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine),False,0.0
+0.0,0.0,GPDDA4,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),False,0.0
+4.2940554294404144e-05,3.8646498864963535e-05,GRTT,Geranyltranstransferase,False,-4.294055429440609e-06
+9.501039347209895,9.550935412488888,GSNt2pp,Guanosine transport in via proton symport (periplasm),False,0.04989606527899326
+0.0,0.0,GTHOr,Glutathione oxidoreductase,False,0.0
+4.510213151185502,5.0,GTHPe,Glutathione peroxidase,False,0.4897868488144983
+0.0,0.0,GTHPi,Glutathione peridoxase,False,0.0
+0.0,0.0,GTHRDH_syn,Glutathione hydralase (periplasmic),False,0.0
+0.0,0.0,GTHRDHpp,Glutathione hydralase (periplasmic),False,0.0
+0.0,0.0,GTHRDabc2pp,Glutathione export via ABC system (cytoplasm to periplasm),False,0.0
+0.0,0.0,GTHRDabcpp,Reduced glutathione via ABC system (periplasm),False,0.0
+0.0,0.0,GTHRDt2_1,Glutathione transport,False,0.0
+0.0,0.0,GTPCI,GTP cyclohydrolase I,False,0.0
+0.0,0.0,GTPCII,GTP cyclohydrolase II,False,0.0
+0.0,0.0,GTPDPK,GTP diphosphokinase,False,0.0
+0.0,0.0,GTPDPK_1,ATP:GTP 3'-diphosphotransferase,False,0.0
+0.0,0.0,GTPHs,GTP amine hydrolysis (spontaneous),False,0.0
+0.0,0.0,GUACYC,Guanylate cyclase,False,0.0
+0.10396466421881072,0.09356819779692911,GUAPRT,Guanine phosphoribosyltransferase,False,-0.010396466421881606
+0.0,0.0,GUAt2pp,Guanine transport in via proton symport (periplasm),False,0.0
+0.0,0.0,GUAt2r,Guanine reversible transport via proton symport,False,0.0
+0.0,0.0,GUAtex,Guanine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,GUI2,Glucuronate isomerase (D-galacturonate),False,0.0
+0.0,0.0,GalMr,Aldose 1-epimerase,False,0.0
+0.0,0.0,H2CO3D2,Carboxylic acid dissociation,False,0.0
+0.0,0.740221899449917,H2Ot,H2O transport via diffusion,False,0.740221899449917
+19.020426302371,19.259778100550083,H2Otex,H2O transport via diffusion (extracellular to periplasm),False,0.23935179817908292
+-0.15710492046246252,0.0,H2Otpp,H2O transport via diffusion (periplasm),False,0.15710492046246252
+0.0,0.0,H2SO,Hydrogen sulfide oxidation,False,0.0
+-0.039572297215550306,-0.035615067493995976,H2St1,H2s transport (diffusion),False,0.00395722972155433
+-1.5049923161657845,-3.4793084683793394,H2tex,Hydrogen transport via diffusion (extracellular to periplasm),False,-1.9743161522135548
+-1.5049923161657845,-3.4793084683793394,H2tpp,Hydrogen transport diffusion (periplasm),False,-1.9743161522135548
+0.0,0.0,HACD1,3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA),False,0.0
+0.0,0.0,HACD1_1,3 hydroxyacyl CoA dehydrogenase  acetoacetyl CoA,False,0.0
+0.0,0.0,HACD1i,3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA),False,0.0
+-0.0010305733030656992,-0.0009275159727641784,HACD2,3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA),False,0.00010305733030152077
+-0.0010305733030656992,-0.0009275159727641783,HACD3,3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA),False,0.00010305733030152088
+-0.001030573303065699,-0.0009275159727641781,HACD4,3-hydroxyacyl-CoA dehydrogenase (3-oxodecanoyl-CoA),False,0.00010305733030152088
+-0.001030573303065699,-0.000927515972764178,HACD5,3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA),False,0.00010305733030152098
+-0.0010305733030656987,-0.0009275159727641778,HACD6,3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA),False,0.00010305733030152098
+0.001717622171776166,0.0015458599545985412,HACD7,3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA),False,-0.00017176221717762484
+0.0,0.0,HACD8,"3-hydroxyacyl-CoA dehydrogenase (3-oxooctadecanoyl-CoA), peroxisomal",False,0.0
+0.0,0.0,HACD8i,3-hydroxyacyl-CoA dehydrogenase (3-oxooctadecanoyl-CoA),False,0.0
+0.0,0.0,HACD9,3 hydroxyacyl CoA dehydrogenase  2 Methylacetoacetyl CoA,False,0.0
+0.0,0.0,HACOADr,3 hydroxyacyl CoA dehydrogenase,False,0.0
+1.5049923161657845,3.47930846837934,HADPCOADH,3-hydroxyadipyl-CoA dehydrogenase,False,1.9743161522135553
+0.08124352872501264,0.07311917585251099,HCO3E,HCO3 equilibration reaction,False,-0.008124352872501656
+0.0,0.0,HCYSMT,Homocysteine S-methyltransferase,False,0.0
+4.294055429424596e-05,3.864649886496352e-05,HCYSMT2,Homocysteine Methyltransferase,False,-4.294055429282437e-06
+0.0,0.0,HDECH,,False,0.0
+0.0,0.0,HEMEOS_1,Heme O synthase,False,0.0
+0.0,0.0,HETZK,Hydroxyethylthiazole kinase,False,0.0
+0.9023033065595634,0.8954063092369496,HEX1,Hexokinase (D-glucose:ATP),False,-0.006896997322613729
+0.0,0.0,HEX4,Hexokinase (D-mannose:ATP),False,0.0
+0.0,0.0,HEX7,Hexokinase (D-fructose:ATP),False,0.0
+0.0,0.0,HEXSabc,Hexanesulfonate transport via ABC system,False,0.0
+0.0,0.0,HEXt2rpp,"Hexanoate transport via proton symport, reversible (periplasm)",False,0.0
+0.0,0.0,HG2abcpp,Mercury (Hg+2) ABC transporter (periplasm),False,0.0
+0.0,0.0,HG2t3pp,Mercury (Hg+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,HG2tex,Mercury (Hg+2) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,HGNTOR,Homogentisateoxygen 1 2 oxidoreductase  decyclizing,False,0.0
+0.0,0.0,HGt,Mercury transport,False,0.0
+0.0,5.053780027615249e-15,HIBD,3 hydroxyisobutyrate dehydrogenase,False,5.053780027615249e-15
+0.0,5.053780027615249e-15,HIBHr,3 hydroxyisobutyryl CoA hydrolase,False,5.053780027615249e-15
+0.0,0.0,HISDr,Histidase r,False,0.0
+0.0,0.0,HISGLYabcpp,L Histidinylglycine  His Gly  transport via ABC system  periplasm,False,0.0
+0.0,0.0,HISGLYtex,L Histidinylglycine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,HISHISabcpp,L Histidinylhistidine  His His  transport via ABC system  periplasm,False,0.0
+0.0,0.0,HISHIStex,L Histidinylhistidine transport via diffusion  extracellular to periplasm,False,0.0
+0.0,0.0,HISTD,Histidinol dehydrogenase,False,0.0
+0.0,0.0,HISTP,Histidinol-phosphatase,False,0.0
+0.0,0.0,HISTP_1,Histidinol-phosphatase,False,0.0
+0.0,0.0,HISabc,L-histidine transport via ABC system,False,0.0
+0.0406810223274326,0.036612920094689146,HISt2r,L histidine reversible transport via proton symport,False,-0.0040681022327434535
+0.0,0.0,HKM1PP,2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate phophatase,False,0.0
+0.0,0.0,HMBS,Hydroxymethylbilane synthase,False,0.0
+0.0,0.0,HMGL,Hydroxymethylglutaryl-CoA lyase,False,0.0
+0.0,0.0,HMGL_2,,False,0.0
+-1.1869463705047508e-30,0.0,HMPK1,Hydroxymethylpyrimidine kinase (ATP),False,1.1869463705047508e-30
+0.0,0.0,HMPPtr,Hydroxymethl pyrimidine phosphate ABC transport,False,0.0
+0.0,0.0,HMR_9610,Na+/succinate symporter,False,0.0
+0.0,0.0,HOXPRx,2 hydroxy 3 oxopropionate reductase  NAD,False,0.0
+0.0,0.0,HPHACA,2--hydroxyphenylacetate hydroxylase,False,0.0
+0.0,0.0,HPPK,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,False,0.0
+0.0,0.0,HQNt6,Hydroquinone transport inout via proton symport,False,0.0
+0.0,0.0,HSDxi,Homoserine dehydrogenase  NADH   irreversible,False,0.0
+0.0,0.0,HSDy,Homoserine dehydrogenase (NADPH),False,0.0
+0.0,0.0,HSERTA,Homoserine O trans acetylase,False,0.0
+0.0,0.0,HSK,Homoserine kinase,False,0.0
+0.0,0.0,HSTPT,Histidinol-phosphate transaminase,False,0.0
+0.0,0.0,HSTPTr,Histidinol phosphate transaminase,False,0.0
+0.0,0.0,HXANt2pp,Hypoxanthine transport in via proton symport (periplasm),False,0.0
+0.0,0.0,HXANt2r,Hypoxanthine reversible transport via proton symport,False,0.0
+0.0,0.0,HXAtex,Hexanoate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,HXCT,Acetyl-CoA:hexanoate-CoA transferase,False,0.0
+0.0,0.0,HXPRT,Hypoxanthine phosphoribosyltransferase (Hypoxanthine),False,0.0
+0.0,0.0,HYPOE,Hypothetical enyme,False,0.0
+0.0,0.0,HYXNtex,Hypoxanthine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,1.3893328817602835,Htex,Proton transport via diffusion (extracellular to periplasm),False,1.3893328817602835
+0.0010305733030656992,0.0009275159727641784,IBTMr,Isobutyryl-CoA mutase,False,-0.00010305733030152077
+4.3098790325577205,0.0020115502659213504,ICDHyr,Isocitrate dehydrogenase (NADP),False,-4.307867482291799
+0.0,0.0,ICHORS,Isochorismate synthase,False,0.0
+0.0,0.0,ICHORT,Isochorismatase,False,0.0
+0.0,0.0,ICITt4pp,Citrate transport via sodium symport  periplasm,False,0.0
+0.0,0.0,ICITtex,Citrate transport via diffusion extracellular to periplasm,False,0.0
+0.0,0.0,ICITtupp,Isocitrate transport periplasm,False,0.0
+0.0,0.0,ICL,Isocitrate lyase,False,0.0
+0.0,0.0,ID3ACALDt,Indoleacetaldehyde transport  extracellular,False,0.0
+0.0,0.0,IG3PS_1,Imidazole glycerol 3 phosphate synthase,False,0.0
+0.0,0.0,IGPDH_1,Imidazoleglycerol phosphate dehydratase,False,0.0
+0.0,0.0,IGPS,Indole-3-glycerol-phosphate synthase,False,0.0
+0.0,0.0,ILEDHr,Isoleucine dehydrogenase,False,0.0
+0.008759873076058444,0.00788388576845256,ILETA,Isoleucine transaminase,False,-0.0008759873076058834
+0.0,0.0,ILEabc,L-isoleucine transport via ABC system,False,0.0
+0.0,0.0,ILEabcpp,L-isoleucine transport via ABC system (periplasm),False,0.0
+0.13351463606204783,0.12016317245584245,ILEt2r,L isoleucine reversible transport via proton symport,False,-0.013351463606205385
+0.0,0.0,ILEtex,L-isoleucine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,IMPC,IMP cyclohydrolase,False,0.0
+0.0,0.0,IMPD,IMP dehydrogenase,False,0.0
+0.0,0.0,IND3ACtex,Indole 3 acetate transport  exterior,False,0.0
+0.0,0.0,IND3ACtpp,Indole 3 acetic acid export  periplasm,False,0.0
+0.0,0.0,INOSR,Ketoinositol reductase,False,0.0
+0.0,0.0,INS2D,Inositol 2-dehydrogenase,False,0.0
+0.0,0.0,INSCR,Inositol catabolic reactions  lumped,False,0.0
+0.0,0.0,INSH,Inosine hydrolase,False,0.0
+0.0,0.0,INSTabc,Inositol transport in via ABC transport,False,0.0
+0.0,0.0,INSTt2,Inositol transport in via proton symport,False,0.0
+0.0,0.0,IPDDI,Isopentenyl-diphosphate D-isomerase,False,0.0
+0.000300583880060829,0.0002705254920547447,IPDPS,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp),False,-3.005838800608431e-05
+0.0,0.0,IPMD,3-isopropylmalate dehydrogenase,False,0.0
+0.0,0.0,IPPMIa,3-isopropylmalate dehydratase,False,0.0
+0.0,0.0,IPPMIb,2-isopropylmalate hydratase,False,0.0
+0.0,0.0,IPPS,2-isopropylmalate synthase,False,0.0
+0.0,0.0,ISETACabcpp,Isethionate transport via ABC system (periplasm),False,0.0
+0.0,0.0,ISETACtex,Isethionate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,ITCY,ITP:cytidine 5'-phosphotransferase,False,0.0
+0.0,0.0,IZPN,Imidazolonepropionase,False,0.0
+0.0,0.0,IZPN_1,Imidazolonepropionase,False,0.0
+-0.4274282180709907,-1.3973792266691671,KARA1,"Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)",False,-0.9699510085981764
+0.0,0.0,KARA2,Ketol-acid reductoisomerase (2-Acetolactate),False,0.0
+0.00017176221717761655,0.00015458599545985409,KAS1,B-ketoacyl synthetase (Iso-C14:0),False,-1.7176221717762463e-05
+0.0012023355202433162,0.001082101968218979,KAS11,B-ketoacyl synthetase (Iso-C17:0),False,-0.00012023355202433724
+0.002919957692019482,0.00262796192281752,KAS12,B-ketoacyl synthetase (Anteiso-C17:0),False,-0.00029199576920196186
+0.0005152866515328497,0.00046375798637956226,KAS13,B-ketoacyl synthetase (octadecanoate),False,-5.152866515328744e-05
+0.0,0.0,KAS17,B-ketoacyl synthetase (n-C18:1),False,0.0
+0.0,0.0,KAS2,B-ketoacyl synthetase (n-C14:0),False,0.0
+0.003435244343552331,0.0030917199091970824,KAS3,B-ketoacyl synthetase (Iso-C15:0),False,-0.0003435244343552488
+0.005839915384038962,0.00525592384563504,KAS4,B-ketoacyl synthetase (Anteiso-C15:0),False,-0.000583991538403922
+0.0008588110858880829,0.0007729299772992707,KAS6,B-ketoacyl synthetase (Iso-C16:0),False,-8.58811085888122e-05
+0.0,0.0,KAS7,B-ketoacyl synthetase (n-C16:1),False,0.0
+0.0,0.0,KAS8,"B-ketoacyl synthetase (palmitate, n-C16:0)",False,0.0
+0.0,0.0,Kabc,Potassium ABC transporter,False,0.0
+0.0,0.0,Kabcpp,Potassium ABC transporter (periplasm),False,0.0
+0.0,0.0,Kt1,Potassium transport via uniport (facilitated diffusion),False,0.0
+0.08381695614387628,1.0115770972534825,Kt2r,Potassium reversible transport  via proton symport,False,0.9277601411096063
+0.0,0.9361418367239944,Kt3r,Potassium transport out via proton antiport,False,0.9361418367239944
+0.0,0.0,Ktex,Potassium transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,LALALGLUtex,L-alanyl-L-glutamate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,LALGP,L-alanyl-gamma-L-glutamate peptidase,False,0.0
+0.0,0.0,LCADi,Lactaldehyde dehydrogenase,False,0.0
+0.0,0.0,LDGUNPD,Linear diguanylate phosphodiesterase,False,0.0
+0.0,0.0,LDH_D,D-lactate dehydrogenase,False,0.0
+0.0,-3.135558121370105e-14,LDH_L,L-lactate dehydrogenase,False,-3.135558121370105e-14
+0.0,0.0,LEULEULAPc,Hydrolysis of Leucylleucine in the small intestine for cellular uptake,False,0.0
+0.0,0.0,LEULEUabcpp,L leucylleucine  leuleu  transport via ABC system  periplasm,False,0.0
+0.0,0.0,LEULEUtex,Leucylleucine transport via diffusion  extracellular to periplasm,False,0.0
+0.004637579863795647,0.004173821877416061,LEUTA,Leucine transaminase,False,-0.00046375798637958605
+0.0,0.0,LEUabc,L-leucine transport via ABC system,False,0.0
+0.0,0.0,LEUabcpp,L-leucine transport via ABC system (periplasm),False,0.0
+0.19809808853193664,0.1782882796787249,LEUt2r,L leucine reversible transport via proton symport,False,-0.019809808853211736
+0.0,0.0,LEUt3pp,L-leucine transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,LEUtex,L-leucine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,LGTHL,Lactoylglutathione lyase,False,0.0
+0.0,0.0,LIPAMPL,Lipoyl-adenylate protein ligase,False,0.0
+0.0,0.0,LIPATPT_2,Lipoate-ATP adenylate transferase,False,0.0
+2.1470277147202075e-05,1.932324943248176e-05,LIPO1S24_BS,Lipoteichoic acid synthesis  n24   linked  glucose substituted,False,-2.1470277147203146e-06
+2.1470277147202075e-05,1.932324943248176e-05,LIPO2S24_BS,Lipoteichoic acid synthesis  n24   linked  N acetylglucosamine substituted,False,-2.1470277147203146e-06
+2.1470277147202072e-05,1.9323249432481764e-05,LIPO3S24_BS,Lipoteichoic acid synthesis  n24   unliked  D alanine substituted,False,-2.147027714720308e-06
+2.1470277147202075e-05,1.932324943248176e-05,LIPO4S24_BS,Lipoteichoic acid synthesis  n24   linked  unsubstituted,False,-2.1470277147203146e-06
+0.0,0.0,LIPOPBt,Lipoate transport via proton symport,False,0.0
+0.0,0.0,LLEUDr,L leucine dehydrogenase,False,0.0
+0.0,0.0,LPLIPAL1A160pp,"Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:0) (periplasm)",False,0.0
+0.0,0.0,LPLIPAL1A161pp,"Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:1) (periplasm)",False,0.0
+0.0,0.0,LPLIPAL1E180pp,"Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C18:0) (periplasm)",False,0.0
+0.0,0.0,LPLIPAL2E161,"Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:1)",False,0.0
+0.0,0.0,LPLIPAL2G181,"Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:1)",False,0.0
+0.0,0.0,LSERDHr,L-serine dehydrogenase,False,0.0
+0.0,0.0,LTHRK,L threonine kinase,False,0.0
+0.0,0.0,LYSDC,Lysine decarboxylase,False,0.0
+0.0,0.0,LYSGLUGLYtr,Tripeptide transport,False,0.0
+0.1473552355222202,0.13261971196999747,LYSabc,L-lysine transport via ABC system,False,-0.01473552355222274
+0.0,0.0,LYSabcpp,L-lysine transport via ABC system (periplasm),False,0.0
+0.0,0.0,LYSt3pp,L-lysine transport out via proton antiport (cytoplasm to periplasm),False,0.0
+0.0,0.0,LYSt3r,L lysine transport out via proton antiport reversible,False,0.0
+0.0,0.0,LYStex,L-lysine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,M1PD,Mannitol-1-phosphate 5-dehydrogenase,False,0.0
+0.0,0.0,MACACI,Maleylacetoacetate isomerase,False,0.0
+0.0,0.0,MACCOAT,2-Methylacetyl-CoA thiolase,False,0.0
+0.9023033065595634,0.8954063092369496,MAL6PG,Maltose 6  phosphate glucosidase,False,-0.006896997322613729
+0.0,0.0,MALDDH,Malate decarboxylating oxidoreductase (decarboxylating),False,0.0
+0.0,0.0,MALDt2_2pp,D-Malate transport via proton symport (2 H) (periplasm),False,0.0
+0.0,0.0,MALDtex,D-Malate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MALS,Malate synthase,False,0.0
+0.0,0.0,MALT,Alpha glucosidase,False,0.0
+0.0,0.0,MALTTRabc,Maltotriose transport via ABC system,False,0.0
+0.0,0.0,MALTTTRabc,Maltotetraose transport via ABC system,False,0.0
+0.0,0.0,MALTabc,Maltose transport via ABC system,False,0.0
+0.0,0.0,MALTpts,Maltose transport via PEP:Pyr PTS,False,0.0
+0.9023033065595635,0.8954063092369497,MALTt2,Maltose transport in via proton symport,False,-0.006896997322613729
+0.0,0.0,MALt4,Namalate symporter,False,0.0
+0.0,0.0,MAN6PI,Mannose-6-phosphate isomerase,False,0.0
+0.0,0.0,MANGLYCptspp,2-O-alpha-mannosyl-D-glycerate transport via PEP:Pyr PTS (periplasm),False,0.0
+0.0,0.0,MANGLYCtex,2-O-alpha-mannosyl-D-glycerate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MANPGH,2-O-alpha-mannosyl-6-phosphate-D-glycerate hydrolase,False,0.0
+0.0,0.0,MANpts,D-mannose transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,MANt2,D mannose transport in via proton symport,False,0.0
+0.0,0.0,MBCOAi,"3-Methylbutanoyl-CoA:(acceptor) 2,3-oxidoreductase",False,0.0
+0.0,0.0,MCA,Methyl cis aconitase,False,0.0
+0.0,0.0,MCBTFUexs,Mycobactin Fe loading reaction  spontaneous,False,0.0
+0.0,0.0,MCCC,Methylcrotonoyl-CoA carboxylase,False,0.0
+0.0,0.0,MCITL2,Methylisocitrate lyase,False,0.0
+0.0,0.0,MCITS,2-methylcitrate synthase,False,0.0
+0.0,0.0,MCSNAH,5-Methylcytosine aminohydrolase,False,0.0
+0.0,0.0,MCTC_1,,False,0.0
+0.0,0.0,MCTP1App,Murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm),False,0.0
+0.0,0.0,MCTP1Bpp,Murein crosslinking transpeptidase 1B:(A2pm->A2pm) (periplasm),False,0.0
+0.0,0.0,MCTP2App,Murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm),False,0.0
+0.0,0.0,MDDCP1pp,"Murein D,D-carboxypeptidase (murein5px4p) (periplasm)",False,0.0
+0.0,0.0,MDDCP2pp,"Murein D,D-carboxypeptidase (murein5px4px4p) (periplasm)",False,0.0
+0.0,0.0,MDDCP3pp,"Murein D,D-carboxypeptidase (murein5p5p) (periplasm)",False,0.0
+0.0,0.0,MDDCP4pp,"Murein D,D-carboxypeptidase (murein5p4p) (periplasm)",False,0.0
+0.0,0.0,MDDCP5pp,"Murein D,D-carboxypeptidase (murein5p3p) (periplasm)",False,0.0
+0.0,0.0,MDDEP1pp,"Murein D,D-endopeptidase (murein4px4p) (periplasm)",False,0.0
+0.0,0.0,MDDEP2pp,"Murein D,D-endopeptidase (murein3px4p) (periplasm)",False,0.0
+0.0,0.0,MDDEP3pp,"Murein D,D-endopeptidase (murein5px4p) (periplasm)",False,0.0
+0.0,0.0,MDDEP4pp,"Murein D,D-endopeptidase (murein4px4px4p) (periplasm)",False,0.0
+4.4165502399137155,0.0979043349696078,MDH,Malate dehydrogenase,False,-4.318645904944108
+0.0,0.0,MDNTHAep,N  2 methyl 3 5 dinitrophenyl  4 methyl 3 5 dinitroaniline extrusion pump,False,0.0
+0.0,0.0,MDRPD,5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase,False,0.0
+1.1679793874623117,4.9753210468322,ME2,Malic enzyme (NADP),False,3.8073416593698877
+0.00034352443435523315,0.0003091719909197082,MECDPDH2,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase",False,-3.4352443435524925e-05
+0.00034352443435523315,0.0003091719909197083,MECDPS,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",False,-3.435244343552487e-05
+0.0,0.0,MELIBabc,Melibiose transport via ABC system (import),False,0.0
+0.0,0.0,MEOHtex,Methanol transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MEOHtrpp,Methanol reversible transport via diffusion (periplasm),False,0.0
+0.00034352443435523315,0.0003091719909197083,MEPCT,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,False,-3.435244343552487e-05
+0.0001386979903709254,0.0001248281913338322,METAT,Methionine adenosyltransferase,False,-1.3869799037093204e-05
+0.0,0.0,METB1,Metb1 (rev),False,0.0
+0.0,0.0,METDabc,D-methionine transport via ABC system,False,0.0
+0.0,0.0,METGL,Methionine g lyase,False,0.0
+0.0,0.0,METOX1s,Methionine oxidation (spontaneous),False,0.0
+0.0,0.0,METOX2s,Methionine oxidation 2 (spontaneous),False,0.0
+0.0,0.0,METS,Methionine synthase,False,0.0
+0.0,0.059441793439211736,METSOX1abc,L-Methionine S-oxide transport via ABC system,False,0.059441793439211736
+0.0,0.0,METSOX2abc,L-Methionine R-oxide transport via ABC system,False,0.0
+0.0,0.05944179343921172,METSOXR1,L-methionine-S-oxide reductase,False,0.05944179343921172
+0.0,0.0,METSOXR2,L-methionine-R-sulfoxide reductase,False,0.0
+0.06604643715468005,0.0,METSR_R1,L methionine R oxide reductase  trdrd,False,-0.06604643715468005
+0.0,0.0,METSR_R2,L methionine R oxide  H2O2,False,0.0
+0.0,0.0,METSR_S1,L methionine S oxide reductase  trdrd,False,0.0
+0.0,0.0,METSR_S2,L methionine S oxide reductase  H2O2,False,0.0
+0.06604643715468005,0.0,METSRabc,L methionine R oxide transport via ABC system,False,-0.06604643715468005
+0.0,0.0,METSabc,L methionine S oxide transport via ABC system,False,0.0
+0.0,0.0,METabc,L-methionine transport via ABC system,False,0.0
+0.0,0.0,METabcpp,L-methionine transport via ABC system (periplasm),False,0.0
+0.0,0.0,METt3pp,L-methionine tranport out via proton antiport (periplasm),False,0.0
+0.0,0.0,METte,Methionine antiporter,False,0.0
+0.0,0.0,MFUMt8,Na+/fumarate symporter,False,0.0
+0.0,0.0,MG2tex,Magnesium (Mg+2) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MGCH,Methylglutaconyl-CoA hydratase,False,0.0
+0.0,0.0,MGSA,Methylglyoxal synthase,False,0.0
+-0.0037250930850395592,-0.003352583776535585,MGt5,Magnesium transport in/out via permease (no H+),False,0.00037250930850397414
+0.0,0.0,MHPGLUT,5 methyltetrahydropteroyltriglutamate homocysteine S methyltransferase,False,0.0
+0.0,0.0,MHPGLUT2,5-methyltetrahydropteroyltriglutamate methyltransferase,False,0.0
+0.0,0.0,MI1PP,Myo-inositol 1-phosphatase,False,0.0
+0.0,0.0,MLDCP1App,"Murein L,D-carboxypeptidase (murein5px4p) (periplasm)",False,0.0
+0.0,0.0,MLDCP1Bpp,"Murein L,D-carboxypeptidase (murein4p4p) (periplasm)",False,0.0
+0.0,0.0,MLDCP2App,"Murein L,D-carboxypeptidase (murein5p5p) (periplasm)",False,0.0
+0.0,0.0,MLDCP2Bpp,"Murein L,D-carboxypeptidase (murein4p3p) (periplasm)",False,0.0
+0.0,0.0,MLDCP3App,"Murein L,D-carboxypeptidase (murein5px3p) (periplasm)",False,0.0
+0.0,0.0,MLDEP1pp,"Murein L,D-endopeptidase (murein3px3p) (periplasm)",False,0.0
+0.0,0.0,MLDEP2pp,"Murein L,D-endopeptidase (murein5px3p) (periplasm)",False,0.0
+0.0,0.0,MLTG1,Maltodextrin glucosidase (maltotriose),False,0.0
+0.0,0.0,MLTG2,Maltodextrin glucosidase (maltotetraose),False,0.0
+0.0,0.0,MLTGY1pp,Murein lytic transglycosylase (murein4p4p) (periplasm),False,0.0
+0.0,0.0,MLTGY2pp,Murein lytic transglycosylase (murein4p3p) (periplasm),False,0.0
+0.0,0.0,MLTGY3pp,Murein lytic transglycosylase (murein3p3p) (periplasm),False,0.0
+0.0,0.0,MLTGY4pp,Murein lytic transglycosylase (murein4px4p4p) (periplasm),False,0.0
+0.0,0.0,MMCD,Methylmalonyl-CoA decarboxylase,False,0.0
+0.0,0.0,MME,Methylmalonyl-CoA epimerase,False,0.0
+4.294055429424595e-05,3.864649886496352e-05,MMETt2pp,S-methylmethionine permease (periplasm),False,-4.2940554292824305e-06
+4.294055429424595e-05,3.864649886496352e-05,MMETtex,S-methyl-L-methionine transport via diffusion (extracellular to periplasm),False,-4.2940554292824305e-06
+0.0,0.0,MMM,Methylmalonyl-CoA mutase,False,0.0
+0.0,0.0,MMM2,Methylmalonyl-CoA mutase,False,0.0
+0.0,0.0,MMSAD1,Methylmalonate semialdehyde dehydrogenase,False,0.0
+0.0,-1.7574248229806212e-15,MMSAD2,Methylmalonate-semialdehyde dehydrogenase (propanol),False,-1.7574248229806212e-15
+0.0,0.0,MMSAD3,Methylmalonate-semialdehyde dehydrogenase (malonic semialdehyde),False,0.0
+0.0,0.0,MMSDHir,Methylmalonate semialdehyde dehydrogenase  acylating,False,0.0
+0.0,0.0,MN2t3pp,Manganese (Mn+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,MN6PP,Mannose 6-phosphate phosphatase,False,0.0
+0.0,0.0,MNLpts,Mannitol transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,MNLptspp,Mannitol transport via PEP:Pyr PTS (periplasm),False,0.0
+0.0,0.0,MNLtex,Mannitol transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MNabc,Manganese transport via ABC system,False,0.0
+0.00029671923017433264,0.0002670473071568979,MNt2,Manganese transport in via proton symport,False,-2.9671923017434722e-05
+0.0,0.0,MNtex,Manganese (Mn+2) transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MOBDabc,Molybdate transport via ABC system,False,0.0
+0.0,0.0,MOBDabc_rev,T06232b,False,0.0
+0.0,0.0,MOBDabcpp,Molybdate transport via ABC system (periplasm),False,0.0
+0.0,0.0,MOBDtex,Molybdate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MOHMT,3-methyl-2-oxobutanoate hydroxymethyltransferase,False,0.0
+0.0,0.0,MPTG,Murein polymerizing transglycosylase,False,0.0
+0.0,0.0,MPTG2,Murein polymerizing transglycosylase 2 (three linked units),False,0.0
+0.0,0.0,MSO3abc,Methanesulfonate transport via ABC system,False,0.0
+0.0,0.0,MSO3abcpp,Methanesulfonate transport via ABC system (periplasm),False,0.0
+0.0,0.0,MSO3tex,Methanesulfonate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,MSULR,Metanesulfonate reductase  NADPH2,False,0.0
+0.0,0.0,MTAM_1,,False,0.0
+0.0,0.0,MTAN,Methylthioadenosine nucleosidase,False,0.0
+9.575743607652122e-05,0.0,MTHFC,Methenyltetrahydrofolate cyclohydrolase,False,-9.575743607652122e-05
+0.0,8.618169246886864e-05,MTHFC_1,Methenyltetrahydrofolate cyclohydrolase,False,8.618169246886864e-05
+0.0,0.0,MTHFD,Methylenetetrahydrofolate dehydrogenase (NADP),False,0.0
+9.575743607652123e-05,8.618169246886866e-05,MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD,False,-9.575743607652574e-06
+0.0,0.0,MTHFR3,5 10 methylenetetrahydrofolatereductase  NADPH,False,0.0
+0.0,0.0,MTHTHFSs,"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran synthesis (spontaneous)",False,0.0
+0.0,0.0,MTRI,5-methylthioribose-1-phosphate isomerase,False,0.0
+0.0,0.0,MTRK,5-methylthioribose kinase,False,0.0
+0.0,0.0,MYCTR,MYCTR,False,0.0
+0.0,0.0,MYCTR2,MYCTR2,False,0.0
+0.0,0.0,NABTNO,N4 AcetylaminobutanalNAD oxidoreductase,False,0.0
+-10.0,-10.0,NACt,Nicotinic acid transport,False,0.0
+0.0,0.0,NADDP,NAD diphosphatase,False,0.0
+-0.0009781858268285292,-0.0008803672441570746,NADDPp_1,"NAD diphosphatase, peroxisomal",False,9.781858267145455e-05
+0.0,0.0,NADH10,NADH dehydrogenase (menaquinone-8 & 0 protons),False,0.0
+0.0,0.0,NADH4,NADH dehydrogenase  Menaquinone 7  no proton,False,0.0
+0.0,0.0,NADH5,NADH dehydrogenase (ubiquinone-8 ),False,0.0
+0.0,7.422896900352814e-21,NADH9,NADH dehydrogenase (demethylmenaquinone-8 & 0 protons),False,7.422896900352814e-21
+0.0,0.8713940914823117,NADHPO,NADH peroxidase,False,0.8713940914823117
+0.00019194427769598604,0.00017274984992431946,NADK,NAD kinase,False,-1.919442777166658e-05
+0.0,0.0,NADK1,NAD kinase  GTP,False,0.0
+0.0,0.0,NADK2,NAD kinase  dATP,False,0.0
+0.0,0.0,NADK3,NAD kinase  dGTP,False,0.0
+0.0,0.0,NADK4,NAD kinase  dCTP,False,0.0
+0.0,0.0,NADK5,NAD kinase  dTTP,False,0.0
+0.0,0.0,NADK_1,NAD kinase,False,0.0
+0.0,0.0,NADKd,NAD kinase dTTP,False,0.0
+0.0,0.0,NADN,NAD nucleosidase,False,0.0
+0.0,0.0,NADPHQR2,NADPH Quinone Reductase (Ubiquinone-8),False,0.0
+0.0,0.0,NADPHQR3,NADPH Quinone Reductase (Menaquinone-8),False,0.0
+0.0,0.0,NADS1,NAD synthase (nh3),False,0.0
+0.0,0.0,NADS2,Nicotinate-mononucleotide adenylyltransferase,False,0.0
+0.0,0.0,NADTRHD,NAD transhydrogenase,False,0.0
+-10.000000000000002,-10.000000000000002,NAPRT,NAPRTase (rev),False,0.0
+0.0,0.0,NAabc,,False,0.0
+0.0,0.0,NAabcO,Sodium transport out via ABC system,False,0.0
+0.0,0.0,NAt3_1,Sodium proton antiporter  HNA is 11,False,0.0
+0.10351035315437593,0.1788119397383453,NAt3_2,Sodium proton antiporter (H:NA is 2),False,0.07530158658396938
+0.0,0.0,NAt3pp,Sodium transport out via proton antiport (cytoplasm to periplasm),False,0.0
+0.0,0.00022260383346239045,NAtex,Sodium transport via diffusion (extracellular to periplasm),False,0.00022260383346239045
+0.0,0.0,NBAHH_ir,Nalpha-(beta-alanyl)-L-histidine hydrolase IR,False,0.0
+0.0,0.0,NDP3,Nucleoside diphosphatase  GDP,False,0.0
+0.0,0.0,NDP7,Nucleoside diphosphatase  UDP,False,0.0
+0.09236341466509153,0.08312707319858192,NDPK1,Nucleoside-diphosphate kinase (ATP:GDP),False,-0.009236341466509604
+0.21260040193376542,0.19134036174038718,NDPK2,Nucleoside-diphosphate kinase (ATP:UDP),False,-0.021260040193378238
+0.3220043461650487,0.28980391154854324,NDPK3,Nucleoside-diphosphate kinase (ATP:CDP),False,-0.03220043461650546
+0.011235825436673787,0.010112242893006355,NDPK4,Nucleoside-diphosphate kinase (ATP:dTDP),False,-0.001123582543667432
+0.011601249553719167,0.010441124598347194,NDPK5,Nucleoside-diphosphate kinase (ATP:dGDP),False,-0.0011601249553719727
+0.0,0.0,NDPK6,Nucleoside-diphosphate kinase (ATP:dUDP),False,0.0
+0.011601249553719167,0.010441124598347194,NDPK7,Nucleoside-diphosphate kinase (ATP:dCDP),False,-0.0011601249553719727
+0.0,0.0,NDPK8,Nucleoside-diphosphate kinase (ATP:dADP),False,0.0
+0.0,0.0,NDPK9,Nucleoside diphosphate kinase  ATPIDP,False,0.0
+0.0,0.0,NH3c,Ammomnium proton dissociation,False,0.0
+-10.0,-10.000000000000002,NH4t,Ammonia reversible transport,False,-1.7763568394002505e-15
+-1.913878579293638e-15,0.0,NH4tex,Ammonia transport via diffusion (extracellular to periplasm),False,1.913878579293638e-15
+-1.913878579293638e-15,0.0,NH4tpp,Ammonia reversible transport (periplasm),False,1.913878579293638e-15
+0.0,0.0,NH4tpp_1,Ammonia ireversible transport (periplasm),False,0.0
+0.0,0.0,NI2abcpp,Nickle (Ni+2) ABC transporter (periplasm),False,0.0
+0.0,0.0,NI2t3pp,Nickle (Ni+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,NI2t4pp,Nickel transport out via antiport (periplasm),False,0.0
+0.0,0.0,NI2tex,Nickel transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,NI2uabcpp,"Nickel transport via ABC system (uptake, periplasm)",False,0.0
+0.0,0.0,NIabc,Nickel transport via ABC system,False,0.0
+0.0,0.0,NMNAT,Nicotinamide-nucleotide adenylyltransferase,False,0.0
+9.999021814173169,9.999119632755841,NMNDA,Nicotinamide-nucleotide amidase,False,9.781858267210453e-05
+0.0,0.0,NMNHYD_1,Nicotinamide ribonucleotide phosphohydrolase,False,0.0
+0.0,0.0,NMNN,NMN nucleosidase,False,0.0
+9.999999999999998,9.999999999999998,NMNP,NMN permease,False,0.0
+0.0,0.0,NMO,Nitronate Monooxygenase,False,0.0
+0.0,0.0,NNAM,Nicotinamidase,False,0.0
+0.0,0.0,NNATr,Nicotinate-nucleotide adenylyltransferase,False,0.0
+0.000978185826834574,0.0008803672441618997,NNDPR,Nicotinate-nucleotide diphosphorylase (carboxylating),False,-9.781858267267427e-05
+0.0,0.0,NO2tex,Nitrite transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,NO3abc,,False,0.0
+0.0,0.0,NO3abcpp,Nitrate transport via ABC system (periplasm),False,0.0
+0.0,-8.429234093628927e-15,NO3t,"Nitrate transport, extracellular",False,-8.429234093628927e-15
+0.0,0.0,NO3tex,Nitrate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,NODOx,Nitric oxide dioxygenase,False,0.0
+0.0,4.214617046814463e-15,NODOy,Nitric oxide dioxygenase,False,4.214617046814463e-15
+0.0,0.0,NOR_syn_1,Ferredoxin-Nitrite Reductase,False,0.0
+0.0,0.0,NOS1_1,Nitric Oxide Synthase (intermediate forming),False,0.0
+0.0,4.214617046814463e-15,NOS3,N-omega-Hydroxyarginine NADPH oxygen oxidoreductase,False,4.214617046814463e-15
+11.733723854376553,9.369949381507167,NOX,NADH oxidase,False,-2.3637744728693857
+4.2940554294404144e-05,3.864649886496353e-05,NPHS,Naphthoate synthase,False,-4.294055429440616e-06
+0.0,0.0,NTD1,5'-nucleotidase (dUMP),False,0.0
+0.0,0.0,NTD10,5'-nucleotidase (XMP),False,0.0
+0.0,0.0,NTD12,5'-nucleotidase (dIMP),False,0.0
+0.0,0.0,NTD2,5'-nucleotidase (UMP),False,0.0
+0.0,0.0,NTD3,5'-nucleotidase (dCMP),False,0.0
+0.0,0.0,NTD4,5'-nucleotidase (CMP),False,0.0
+0.0,0.0,NTD5,5'-nucleotidase (dTMP),False,0.0
+0.0,0.0,NTD6,5'-nucleotidase (dAMP),False,0.0
+0.0,0.0,NTD7,5'-nucleotidase (AMP),False,0.0
+0.0,0.0,NTD8,5'-nucleotidase (dGMP),False,0.0
+0.0,0.0,NTD9,5'-nucleotidase (GMP),False,0.0
+0.0,0.0,NTP1,Nucleoside-triphosphatase (ATP),False,0.0
+0.0,0.0,NTP10,Nucleoside-triphosphatase (ITP),False,0.0
+0.0,0.0,NTP3,Nucleoside-triphosphatase (GTP),False,0.0
+0.0,0.0,NTP5,Nucleoside-triphosphatase (CTP),False,0.0
+0.0,0.0,NTPP1,Nucleoside triphosphate pyrophosphorylase (dgtp),False,0.0
+0.0,0.0,NTPP10,Nucleoside triphosphate pyrophosphorylase (ditp),False,0.0
+0.0,0.0,NTPP10_1,Nucleoside triphosphate pyrophosphorylase (ditp),False,0.0
+0.0,0.0,NTPP11,Nucleoside triphosphate pyrophosphorylase (xtp),False,0.0
+0.0,0.0,NTPP11_1,Nucleoside triphosphate pyrophosphorylase (xtp),False,0.0
+0.0,0.0,NTPP1_1,Nucleoside triphosphate pyrophosphorylase (dgtp),False,0.0
+0.0,0.0,NTPP2,Nucleoside triphosphate pyrophosphorylase (gtp),False,0.0
+0.0,0.0,NTPP2_1,Nucleoside triphosphate pyrophosphorylase (gtp),False,0.0
+0.0,0.0,NTPP3,Nucleoside triphosphate pyrophosphorylase (dctp),False,0.0
+0.0,0.0,NTPP4,Nucleoside triphosphate pyrophosphorylase (ctp),False,0.0
+0.0,0.0,NTPP5,Nucleoside triphosphate pyrophosphorylase (datp),False,0.0
+0.0,0.0,NTPP6,Nucleoside triphosphate pyrophosphorylase (atp),False,0.0
+0.0,0.0,NTPP7,Nucleoside triphosphate pyrophosphorylase (dttp),False,0.0
+0.0,0.0,NTPP8,Nucleoside triphosphate pyrophosphorylase (utp),False,0.0
+0.0,0.0,NTPP8_1,Nucleoside triphosphate pyrophosphorylase (utp),False,0.0
+0.0,0.0,NTPP9,Nucleoside triphosphate pyrophosphorylase (itp),False,0.0
+0.0,0.0,NTPP9_1,Nucleoside triphosphate pyrophosphorylase (itp),False,0.0
+20.0,20.0,O2tex,Oxygen transport via diffusion (extracellular to periplasm),False,0.0
+20.000000000000007,20.000000000000007,O2tpp,O2 transport via diffusion (periplasm),False,0.0
+0.00012366879636749802,0.0,OAADCS,Oxaloacetate decarboxylase sodium pump,False,-0.00012366879636749802
+0.0,0.0,OBDHc,"2-Oxobutanoate dehydrogenase, cytosolic",False,0.0
+0.0,-8.429234093628925e-15,OCBT,Ornithine carbamoyltransferase,False,-8.429234093628925e-15
+0.0,0.0,OCBT_1,Ornithine carbamoyltransferase,False,0.0
+0.0,0.0,OCOAT1,3-oxoacid CoA-transferase (Succinyl-CoA: acetoacetate),False,0.0
+0.0,0.0,OCOAT2r,3-oxoacid CoA-transferase (Succinyl-CoA: 3-methylbutanoate),False,0.0
+0.0,0.0,OCTAtex,Octanoate transport via diffusion (extracellular to periplasm),False,0.0
+4.2940554294404144e-05,3.864649886496353e-05,OCTDPS,Octaprenyl pyrophosphate synthase,False,-4.294055429440616e-06
+0.0,0.0,OHPBAT,O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase,False,0.0
+0.004637579863795647,0.004173821877416061,OIVD1r,2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate),False,-0.00046375798637958605
+0.0,0.0,OIVD2,2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate),False,0.0
+0.008759873076058444,0.007883885768452559,OIVD3,2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxopentanoate),False,-0.0008759873076058852
+0.0,0.0,OMCDC,2-Oxo-4-methyl-3-carboxypentanoate decarboxylation,False,0.0
+0.0,8.429234093628927e-15,OMPDC,Orotidine-5'-phosphate decarboxylase,False,8.429234093628927e-15
+0.0,8.429234093628925e-15,ORNTA,Ornithine transaminase,False,8.429234093628925e-15
+0.0,0.0,ORNTAC_1,Ornithine transacetylase,False,0.0
+0.0,0.0,ORNTA_1,Ornithine transaminase,False,0.0
+0.0,-8.429234093628927e-15,ORPT,Orotate phosphoribosyltransferase,False,-8.429234093628927e-15
+0.0,0.0,OXADC,Oxalate decarboxylase,False,0.0
+-1.175797486531955,-0.1525151722054663,OXAtpp,OxalateH antiporter  periplasm,False,1.0232823143264886
+0.0,0.0,OXCOAHDH,"Oxepin-CoA hydrolase/ 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase (NADP+)",False,0.0
+0.0,-1.8249280092221376e-15,OXDHCOAT,"3-oxo-5,6-dehydrosuberyl-CoA thiolase",False,-1.8249280092221376e-15
+-1.1757974865319551,-0.15251517220546626,OXFOtex,Oxalate:Formate antiporter (extracellular to periplasm),False,1.0232823143264889
+0.0,0.0,OXGDC,2 oxoglutarate decarboxylase,False,0.0
+0.0,0.0,OXPTNDH,Glutarate-semialdehyde:NAD+ oxidoreductase,False,0.0
+0.0,0.0,P52O,,False,0.0
+0.0,8.429234093628927e-15,P5CD,1-pyrroline-5-carboxylate dehydrogenase,False,8.429234093628927e-15
+0.0,0.0,P5CR,Pyrroline-5-carboxylate reductase,False,0.0
+0.0,0.0,P5CRx,Pyrroline-5-carboxylate reductase(nadh),False,0.0
+0.0,0.0,PA160abcpp,"Phosphatidate transport via ABC system (n-C16:0, periplasm)",False,0.0
+0.0,0.0,PA161abcpp,"Phosphatidate transport via ABC system (n-C16:1, periplasm)",False,0.0
+-1.5049923161657845,-3.4793084683793394,PACALDt,Phenylacetaldehyde transport  extracellular,False,-1.9743161522135548
+0.0,-2.0895866309889755e-15,PACCOAE,"Ring 1,2-phenylacetyl-CoA epoxidase (NADPH)",False,-2.0895866309889755e-15
+1.5049923161657845,3.4793084683793394,PACCOAL,Phenylacetate-CoA ligase,False,1.9743161522135548
+0.0,0.0,PANO,,False,0.0
+0.0,0.0,PANTS,Pantothenate synthase,False,0.0
+0.0,0.0,PAP,Phosphatidate phosphatase,False,0.0
+0.004294055429440414,0.0038646498864963524,PAPPT3,"Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)",False,-0.000429405542944062
+0.0,0.0,PAPSR,Phosphoadenylyl-sulfate reductase (thioredoxin),False,0.0
+0.008588110858880829,0.007729299772992706,PAP_BS,Phosphatidic acid phosphatase,False,-0.0008588110858881231
+0.0,0.0,PBUTT,Phosphate butyryltransferase,False,0.0
+0.0,0.0,PC,Pyruvate carboxylase,False,0.0
+0.0,0.0,PDE1,"3',5'-cyclic-nucleotide phosphodiesterase",False,0.0
+0.0,0.0,PDE4,"3',5'-cyclic-nucleotide phosphodiesterase",False,0.0
+0.0,1.8986406353887784,PDH,Pyruvate dehydrogenase,False,1.8986406353887784
+0.0,0.0,PDHbr,Pyruvate dehydrogenase (dihydrolipoamide) reversible,False,0.0
+0.0,0.0,PDHcr,Pyruvate dehydrogenase (dihydrolipoamide dehydrogenase) reversible,False,0.0
+0.0,0.0,PE160abcpp,"Phosphatidylethanolamine transport via ABC system (n-C16:0, periplasm)",False,0.0
+0.0,0.0,PE161abcpp,"Phosphatidylethanolamine transport via ABC system (n-C16:1, periplasm)",False,0.0
+0.0,0.0,PE180abcpp,"Phosphatidylethanolamine transport via ABC system (n-C18:0, periplasm)",False,0.0
+0.0,0.0,PE181abcpp,"Phosphatidylethanolamine transport via ABC system (n-C18:1, periplasm)",False,0.0
+0.9023033065595635,0.8954063092369497,PEPA,MNXR86162,False,-0.006896997322613729
+0.0,0.0,PERD,Erythronate 4-phosphate (4per) dehydrogenase,False,0.0
+0.0,0.0,PFK,Phosphofructokinase,False,0.0
+0.0,0.0,PFK_2,Phosphofructokinase,False,0.0
+0.0,0.0,PFK_4,Phosphofructokinase (s7p),False,0.0
+0.0,0.0,PG160abcpp,"Phosphatidylglycerol transport via ABC system (n-C16:0, periplasm)",False,0.0
+0.0,0.0,PG161abcpp,"Phosphatidylglycerol transport via ABC system (n-C16:1, periplasm)",False,0.0
+0.0,0.0,PG180abcpp,"Phosphatidylglycerol transport via ABC system (n-C18:0, periplasm)",False,0.0
+0.0,0.0,PG181abcpp,"Phosphatidylglycerol transport via ABC system (n-C18:1, periplasm)",False,0.0
+-0.06269320926983003,-0.05642388834284673,PGAMT,Phosphoglucosamine mutase,False,0.0062693209269833045
+0.0,0.0,PGCD,Phosphoglycerate dehydrogenase,False,0.0
+-8.195393386880873,-8.2091873815261,PGI,Glucose-6-phosphate isomerase,False,-0.013793994645226348
+0.0,0.0,PGI1c,"Glucose-6-phosphateisomerase,glycosome",False,0.0
+0.0,0.0,PGK,Phosphoglycerate kinase,False,0.0
+0.0,0.0,PGL,6-phosphogluconolactonase,False,0.0
+0.0,0.0,PGLYCP,Phosphoglycolate phosphatase,False,0.0
+0.0,0.0,PGLYCP_1,Phosphoglycolate phosphatase,False,0.0
+-10.000000000000002,-10.000000000000002,PGM,Phosphoglycerate mutase,False,0.0
+-10.0,-10.0,PGMT,Phosphoglucomutase,False,0.0
+0.0,0.0,PGMT_2,,False,0.0
+0.0,0.0,PGMT_B,B phosphoglucomutase,False,0.0
+0.0,0.0,PGP181abcpp,"Phosphatidylglycerophosphate transport via ABC system (n-C18:1, periplasm)",False,0.0
+0.0,0.0,PGPP181pp,"Phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:1)",False,0.0
+0.0,0.0,PGSA181,Phosphatidylglycerol synthase (n-C18:1),False,0.0
+1.5049923161657848,3.479308468379342,PHACOAOR,Phenylacetyl-CoA oxygenase/reductase,False,1.9743161522135573
+4.732619403118476e-16,0.0,PHEMEt,Heme transport,False,-4.732619403118476e-16
+0.0,0.0,PHETA1,Phenylalanine transaminase,False,0.0
+0.0,0.0,PHEabc,,False,0.0
+0.07955381791352784,0.07159843612217466,PHEt2r,L phenylalanine reversible transport via proton symport,False,-0.007955381791353175
+0.0,0.0,PHHL,,False,0.0
+0.0,0.0,PHHL2,,False,0.0
+0.0,0.0,PIabc,Phosphate transport via ABC system,False,0.0
+0.0,0.0,PIt2r,Phosphate reversible transport via symport,False,0.0
+0.0,0.0,PIt2rpp,Phosphate reversible transport via symport (periplasm),False,0.0
+0.0,0.0,PIt7,Phosphate transport in/out via three Na+ symporter,False,0.0
+-9.58876561141673,-9.62988905027504,PItex,Phosphate transport via diffusion (extracellular to periplasm),False,-0.04112343885831038
+0.0,0.0,PLCD,PLCD,False,0.0
+0.0,0.0,PLIPA1E160pp,"Phospholipase A1 (phosphatidylethanolamine, n-C16:0) (periplasm)",False,0.0
+0.0,0.0,PLIPA1E161pp,"Phospholipase A1 (phosphatidylethanolamine, n-C16:1) (periplasm)",False,0.0
+0.0,0.0,PLIPA1E180pp,"Phospholipase A1 (phosphatidylethanolamine, n-C18:0) (periplasm)",False,0.0
+0.0,0.0,PLIPA1E181pp,"Phospholipase A1 (phosphatidylethanolamine, n-C18:1) (periplasm)",False,0.0
+0.0,0.0,PLIPA1G160pp,"Phospholipase A1 (phosphatidylglycerol, n-C16:0) (periplasm)",False,0.0
+0.0,0.0,PLIPA1G161pp,"Phospholipase A1 (phosphatidylglycerol, n-C16:1) (periplasm)",False,0.0
+0.0,0.0,PLIPA1G180pp,"Phospholipase A1 (phosphatidylglycerol, n-C18:0) (periplasm)",False,0.0
+0.0,0.0,PLIPA1G181pp,"Phospholipase A1 (phosphatidylglycerol, n-C18:1) (periplasm)",False,0.0
+0.0,0.0,PLIPA2A160pp,"Phospholipase A2 (phosphatidate, n-C16:0) (periplasm)",False,0.0
+0.0,0.0,PLIPA2A161pp,"Phospholipase A2 (phosphatidate, n-C16:1) (periplasm)",False,0.0
+0.0,0.0,PLIPA2E180pp,"Phospholipase A2 (phosphatidylethanolamine, n-C18:0) (periplasm)",False,0.0
+9.575743607652125e-05,8.618169246886866e-05,PLPS_1,Pyridoxal-5-phosphate synthase,False,-9.575743607652588e-06
+0.0,0.0,PMANM,Phosphomannomutase,False,0.0
+0.0,0.0,PMDPHT,Pyrimidine phosphatase,False,0.0
+-1.186946370504751e-30,0.0,PMPK,Phosphomethylpyrimidine kinase,False,1.186946370504751e-30
+0.0,0.0,PNP,Purine nucleoside phosphorylase,False,0.0
+0.00024733759273499014,0.0,PNTK,Pantothenate kinase,False,-0.00024733759273499014
+0.0,0.00022260383346239042,PNTK_1,Pantothenate kinase,False,0.00022260383346239042
+0.00024733759273499014,0.00022260383346239042,PNTOt4pp,Pantothenate sodium symporter (periplasm),False,-2.4733759272599717e-05
+0.0002473375927349901,0.00022260383346239042,PNTOtex,Pantothenate transport via diffusion (extracellular to periplasm),False,-2.4733759272599663e-05
+0.0,0.0,POR_syn,Pyruvate-ferredoxin oxidoreductase,False,0.0
+0.0,0.0,PPA,Inorganic diphosphatase,False,0.0
+2.9832576601798793,5.537943142078681,PPAKr,Propionate kinase,False,2.5546854818988014
+0.0,0.0,PPAt2pp,H+/Propionate symporter (periplasm),False,0.0
+0.0,0.0,PPAt4pp,Na+/Propionate symporter (periplasm),False,0.0
+0.0,0.0,PPAtex,Propionate transport via diffusion,False,0.0
+0.0,0.0,PPBNGS,Porphobilinogen synthase,False,0.0
+0.0,0.0,PPC,Phosphoenolpyruvate carboxylase,False,0.0
+0.0002473375927349902,0.00022260383346239045,PPCDC,Phosphopantothenoylcysteine decarboxylase,False,-2.4733759272599744e-05
+0.0,0.0,PPCK,Phosphoenolpyruvate carboxykinase,False,0.0
+0.0,0.0,PPCOAC,Propionyl-CoA carboxylase,False,0.0
+0.0,0.0,PPDD,Propanediol dehydratase,False,0.0
+0.2536129253403482,0.228251632806302,PPM,Phosphopentomutase,False,-0.025361292534046176
+0.0,0.0,PPM2,Phosphopentomutase 2 (deoxyribose),False,0.0
+0.0002473375927349901,0.00022260383346239045,PPNCL,Phosphopantothenate-cysteine ligase,False,-2.4733759272599636e-05
+0.0,0.0,PPND,Prephenate dehydrogenase,False,0.0
+0.0,0.0,PPNDH,Prephenate dehydratase,False,0.0
+0.0,0.0,PPOR,"Phenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)",False,0.0
+0.0,0.0,PPPGO,Protoporphyrinogen oxidase (aerobic),False,0.0
+0.0,0.0,PPRDNDH,Piperideine dehydrogenase,False,0.0
+0.004294055429440414,0.003864649886496352,PPTGS_BS,Peptidoglycan subunit synthesis,False,-0.00042940554294406243
+0.0,0.0,PRAGSr,Phosphoribosylglycinamide synthase,False,0.0
+0.0,0.0,PRAIS_1,Phosphoribosylaminoimidazole synthetase,False,0.0
+0.0,0.0,PRAIi,Phosphoribosylanthranilate isomerase (irreversible),False,0.0
+0.0,0.0,PRAMPC_1,Phosphoribosyl AMP cyclohydrolase,False,0.0
+0.0,0.0,PRASCSi,Phosphoribosylaminoimidazolesuccinocarboxamide synthase,False,0.0
+0.0,0.0,PRATPP,Phosphoribosyl-ATP pyrophosphatase,False,0.0
+0.0,0.0,PRFGS,Phosphoribosylformylglycinamidine synthase,False,0.0
+0.0,0.0,PRFGS_1,Phosphoribosylformylglycinamidine synthase,False,0.0
+0.0,0.0,PRMICI,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase,False,0.0
+0.0,0.0,PRO1x,Proline oxidase  L proline  NAD,False,0.0
+0.0,0.0,PROAKGOX1,Prolyl 4-hydroxylase,False,0.0
+0.0,0.0,PROGLYabcpp,L-Prolinylglycine (Pro-Gly) transport via ABC system (periplasm),False,0.0
+0.0,0.0,PROGLYtex,L-Prolinylglycine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,PROHISGLUtr,Tripeptide Opp3 transport,False,0.0
+0.0,0.0,PROabc,L-proline transport via ABC system,False,0.0
+0.09492224229549508,0.0,PROt2r,L proline reversible transport via proton symport,False,-0.09492224229549508
+0.0,0.0,PROt2rpp,L-proline reversible transport via proton symport (periplasm),False,0.0
+0.0,0.08543001806594511,PROt4,Na+/Proline-L symporter,False,0.08543001806594511
+0.0,0.0,PROt4pp,Na+/Proline-L symporter (periplasm),False,0.0
+0.0,0.0,PROtex,L-proline transport via diffusion (extracellular to periplasm),False,0.0
+-9.745408888832818,-9.77086799994953,PRPPS,Phosphoribosylpyrophosphate synthetase,False,-0.025459111116711952
+0.0,0.0,PSCVT,3-phosphoshikimate 1-carboxyvinyltransferase,False,0.0
+0.0,0.0,PSD161,Phosphatidylserine decarboxylase (n-C16:1),False,0.0
+0.0,0.0,PSD180,Phosphatidylserine decarboxylase (n-C18:0),False,0.0
+0.0,0.0,PSERT,Phosphoserine transaminase,False,0.0
+0.0,0.0,PSP_L,Phosphoserine phosphatase (L-serine),False,0.0
+0.0,0.0,PSSA161,Phosphatidylserine syntase (n-C16:1),False,0.0
+0.0,0.0,PSSA180,Phosphatidylserine syntase (n-C18:0),False,0.0
+0.0,0.0,PSUDS,Pseudouridylate synthase,False,0.0
+2.9832576601798793,5.537943142078681,PTA2,Phosphate acetyltransferase,False,2.5546854818988014
+10.0,5.069322085416444,PTAr,Phosphotransacetylase,False,-4.930677914583556
+0.0,0.0,PTHPS,6-pyruvoyltetrahydropterin synthase,False,0.0
+0.0,0.0,PTHPS_1,6-pyruvoyltetrahydropterin synthase,False,0.0
+0.0,0.0,PTHRP,Phospho-threonine phosphatase,False,0.0
+0.0002473375927349902,0.00022260383346239045,PTPATi,Pantetheine-phosphate adenylyltransferase,False,-2.4733759272599744e-05
+0.0,0.0,PTRCAT1,Putrescine acetyltransferase,False,0.0
+0.0,0.0,PTRCTA,Putrescine Transaminase,False,0.0
+0.0,0.0,PTRCTA2,Putrescine Transaminase  pyruvate,False,0.0
+0.0,0.0,PTRCabc,Putrescine transport via ABC system,False,0.0
+0.0,0.0,PTRCabcpp,Putrescine transport via ABC system (periplasm),False,0.0
+0.08776920476112934,0.07899228428501616,PUNP1,Purine-nucleoside phosphorylase (Adenosine),False,-0.008776920476113184
+0.0,0.0,PUNP2,Purine-nucleoside phosphorylase (Deoxyadenosine),False,0.0
+0.10396466421881073,0.09356819779692914,PUNP3,Purine-nucleoside phosphorylase (Guanosine),False,-0.010396466421881592
+0.0,0.0,PUNP4,Purine-nucleoside phosphorylase (Deoxyguanosine),False,0.0
+0.0,0.0,PUNP5,Purine-nucleoside phosphorylase (Inosine),False,0.0
+0.0,0.0,PUNP6,Purine-nucleoside phosphorylase (Deoxyinosine),False,0.0
+0.0,0.0,PUNP7,Purine-nucleoside phosphorylase (Xanthosine),False,0.0
+0.0,0.0,PYDXK_1,Pyridoxal kinase,False,0.0
+0.0,0.0,PYDXPP,Pyridoxal 5-phosphate phosphatase,False,0.0
+19.844984598997208,19.860486139097485,PYK,Pyruvate kinase,False,0.015501540100277822
+0.0,0.0,PYNP1,Pyrimidine-nucleoside phosphorylase (cytosine),False,0.0
+0.0,0.0,PYNP1_1,Pyrimidine-nucleoside phosphorylase (cytosine),False,0.0
+0.06187905636040814,0.05569115072435675,PYNP2r,Pyrimidine-nucleoside phosphorylase (uracil),False,-0.006187905636051393
+0.0,0.0,PYNP2r_1,Pyrimidine-nucleoside phosphorylase (uracil),False,0.0
+0.0,0.0,PYRt2rpp,Pyruvate reversible transport via proton symport (periplasm),False,0.0
+0.0,0.0,PYRt4pp,Pyruvate transport via sodium symport,False,0.0
+0.0,0.0,PYRtex,Pyruvate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,-1.7904974417319306e-15,QMO2,Quinol monooxygenase (Ubiquinol-8),False,-1.7904974417319306e-15
+0.000978185826834574,0.0008803672441618996,QULNS,Quinolinate synthase,False,-9.781858267267438e-05
+0.0,0.0,R5PP,Ribose 5-phosphate phosphatase,False,0.0
+9.575743607652125e-05,8.618169246886866e-05,RBFK,Riboflavin kinase,False,-9.575743607652588e-06
+0.0,0.0,RBFSa,Riboflavin synthase,False,0.0
+0.0,0.0,RBFSa_1,Riboflavin synthase,False,0.0
+0.0,0.0,RBFSb,Riboflavin synthase,False,0.0
+0.0,0.0,RBK,Ribokinase,False,0.0
+0.0,0.0,RECOAH2,3 hydroxyacyl Coa dehydratase   3R  3 hydroxyhexanoyl CoA,False,0.0
+0.0,0.0,RECOAH3,3 hydroxyacyl Coa dehydratase   3R  3 hydroxyoctanoyl CoA,False,0.0
+0.0,-2.089586630988975e-15,REPHACCOAI,"Ring 1,2-epoxyphenylacetyl-CoA isomerase (oxepin-CoA forming)",False,-2.089586630988975e-15
+0.0,0.0,RHA40tex,R 3 Hydroxy acid transport diffusion C40  extracellular to periplasm,False,0.0
+0.0,0.0,RHACOAR80,3R  3 Hydroxyacyl CoANADP oxidoreductase,False,0.0
+0.0,0.0,RHCCE,S-ribosylhomocysteine cleavage enzyme,False,0.0
+0.0001915148721530425,0.00017236338493773731,RIBFLVt2,Riboflavin transport in via proton symport,False,-1.9151487215305176e-05
+0.0,0.0,RIBabc,D-ribose transport via ABC system,False,0.0
+0.0,0.0,RIBabc1,D ribose transport out via ABC system,False,0.0
+0.0,0.0,RIBabcpp,D-ribose transport via ABC system (periplasm),False,0.0
+0.0,0.0,RIBtex,Ribose transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,RNDR1,Ribonucleoside-diphosphate reductase (ADP),False,0.0
+0.011601249553719167,0.010441124598347184,RNDR2,Ribonucleoside-diphosphate reductase (GDP),False,-0.0011601249553719831
+0.011601249553719167,0.010441124598347193,RNDR3,Ribonucleoside-diphosphate reductase (CDP),False,-0.0011601249553719745
+0.0,0.0,RNDR4,Ribonucleoside-diphosphate reductase (UDP),False,0.0
+0.0,0.0,RNMK,Ribosylnicotinamide kinase,False,0.0
+0.011235825436673787,0.010112242893006355,RNTR1,Ribonucleoside triphosphate reductase  ATP,False,-0.001123582543667432
+0.0,0.0,RNTR2,Ribonucleoside triphosphate reductase  GTP,False,0.0
+0.0,0.0,RNTR3,Ribonucleoside triphosphate reductase  CTP,False,0.0
+0.0,0.0,RNTR4,Ribonucleoside triphosphate reductase  UTP,False,0.0
+6.665950704491392,6.666022300708909,RPE,Ribulose 5-phosphate 3-epimerase,False,7.159621751728906e-05
+6.666046461927469,6.666108482401378,RPI,Ribose-5-phosphate isomerase,False,6.202047390857501e-05
+0.0,0.0,RU5PS,Ribulose-5-P Synthetase,False,0.0
+0.0,0.0,S6PG,Salicin 6 phosphate glucohydrolase,False,0.0
+0.0,0.0,SADT,Sulfate adenylyltransferase,False,0.0
+0.0,0.0,SALCHS2FEexs,Salmochelin s2 Fe III sequestration,False,0.0
+0.0,0.0,SALCHS4FEexs,Salmochelin S4 Fe III binding spontaneous,False,0.0
+0.0,0.0,SALCpts,Salicin transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,SCYSSL,S-sulfo-L-cysteine sulfite lyase,False,0.0
+5.584486686821735,5.07318673530294,SDPDS,Succinyl-diaminopimelate desuccinylase,False,-0.5112999515187946
+-5.584486686821735,-5.07318673530294,SDPTA,Succinyldiaminopimelate transaminase,False,0.5112999515187946
+0.0,0.0,SERAT,Serine O-acetyltransferase,False,0.0
+0.0,0.0,SERD_L,L-serine deaminase,False,0.0
+0.0,0.0,SERGLUGLNtr,Tripeptide transport,False,0.0
+0.0,0.0,SERabc,L-serine transport via ABC system,False,0.0
+0.13242609301068392,3.072313983727639e-13,SERt2r,L serine reversible transport via proton symport,False,-0.1324260930103767
+0.0,0.0,SHCHD2_1,Sirohydrochlorin dehydrogenase  NAD,False,0.0
+0.0,0.0,SHCHF_2,Sirohydrochlorin ferrochetalase,False,0.0
+0.0,0.0,SHGO,S-2-hydroxyglutarate oxidase,False,0.0
+0.0,0.0,SHK3Dr,Shikimate dehydrogenase,False,0.0
+0.0,0.0,SHKK,Shikimate kinase,False,0.0
+0.0,0.0,SHSL1,O-succinylhomoserine lyase (L-cysteine),False,0.0
+0.0,0.0,SHSL2,O succinylhomoserine lyase  H2S,False,0.0
+0.0,0.0,SHSL2r,O-succinylhomoserine lyase (H2S),False,0.0
+0.0,0.0,SHSL3,O succinylhomoserine lyase  methanethiol,False,0.0
+0.0,0.0,SHSL4r,O succinylhomoserine lyase  elimination   reversible,False,0.0
+0.0,0.0,SLCYSS,O-acetyl-L-serine sulfhydrylase,False,0.0
+0.0,0.0,SMIA1,Staphyloferrin A Mediated Iron Acquisition,False,0.0
+0.0,0.0,SMIA1Eabc,Siderophore Mediated Iron Acquisition: Staphyloferrin A export,False,0.0
+0.0,0.0,SMIA2abc,Siderophore Mediated Iron Acquisition: Staphyloferrin B transport via ABC,False,0.0
+0.0,0.0,SMIB1,Staphyloferrin B Mediated Iron Acquisition,False,0.0
+0.0,0.0,SO3abcpp,Sulfite transport via ABC system (periplasm),False,0.0
+0.0,0.0,SO3tex,Sulfite transport via diffusion (extracellular to periplasm),False,0.0
+0.0018627612452912518,0.0016764851207621174,SO4t2,Sulfate transport in via proton symport,False,-0.00018627612452913438
+0.0,0.0,SO4tex,Sulfate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,SPMDabc,Spermidine transport via ABC system,False,0.0
+0.0,0.0,SPMDt3i,Spermidine transport in via proton antiport,False,0.0
+0.0,0.0,SPMS,Spermidine synthase,False,0.0
+0.0,-1.7904974417319306e-15,SPODM,Superoxide dismutase,False,-1.7904974417319306e-15
+0.0,0.0,SPP,Sucrose-phosphate phosphatase,False,0.0
+0.0,0.0,SSALx,Succinate-semialdehyde dehydrogenase (NAD),False,0.0
+0.0,0.0,SSALy,Succinate-semialdehyde dehydrogenase (NADP),False,0.0
+-10.0,-10.0,SSCOARy,Succinyl-coA reductase (NADPH),False,0.0
+0.0,0.0,STFRNAt,,False,0.0
+0.0,0.0,SUCBZL,O-succinylbenzoate-CoA ligase,False,0.0
+0.0,0.0,SUCBZS,O-succinylbenzoate-CoA synthase,False,0.0
+4.2940554294404144e-05,3.8646498864963535e-05,SUCBZT1,Succinyl:benzoate CoA transferase,False,-4.294055429440609e-06
+0.0,0.0,SUCCt2_2pp,Succinate transport via proton symport (2 H) (periplasm),False,0.0
+0.0,-3.8482811042227336,SUCD1,Succinate dehydrogenase,False,-3.8482811042227336
+5.584529627376028,8.92150648602454,SUCD2,Succinate dehydrogenase dehydrogenase (menaquinone 8 as acceptor),False,3.3369768586485122
+0.0,0.0,SUCD4,Succinate dehyrdogenase,False,0.0
+0.0,5.073186735302944,SUCD5_BS,Succinate dehydrogenase,False,5.073186735302944
+-10.0,-10.0,SUCOAS,Succinyl-CoA synthetase (ADP-forming),False,0.0
+0.0,0.0,SUCR,Sucrose hydrolyzing enzyme,False,0.0
+0.0,0.0,SUCRt2,Sucrose transport in via proton symport,False,0.0
+0.0,0.0,SUCpts,Sucrose transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,SULFACabcpp,Sulfoacetate transport via ABC system (periplasm),False,0.0
+0.0,0.0,SULFACtex,Sulfoaceate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,SULR,Sulfite reductase (NADPH2),False,0.0
+0.0,0.0,SULabc,Sulfate transport via ABC system,False,0.0
+0.0,0.0,SULabcpp,Sulfate transport via ABC system (periplasm),False,0.0
+0.0,0.0,St,Sulfur diffusion,False,0.0
+0.0,0.0,TAGURr,Tagaturonate reductase,False,0.0
+0.0,0.0,TAGabc,,False,0.0
+3.332975352245695,3.333011150354454,TALA,Transaldolase,False,3.579810875908862e-05
+10.000000000000002,10.000000000000002,TARTDC,Tartrate decarboxylase,False,0.0
+10.0,10.0,TARTRt7,Tartrate/succinate antiporter,False,0.0
+0.0,0.0,TARTRt7pp,Tartrate/succinate antiporter (periplasm),False,0.0
+0.0,0.0,TARTRtpp,Tartrate facilitated transport periplasm,False,0.0
+0.0,0.0,TAURabc,Taurine transport via ABC system,False,0.0
+0.0,0.0,TAURabcpp,Taurine transport via ABC system (periplasm),False,0.0
+0.0,0.0,TAURtex,Taurine transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,TDP,Thiamin pyrophosphatase,False,0.0
+0.0004294055429440414,0.00038646498864963513,TECA1S45,Glycerol teichoic acid  n45   unlinked  unsubstituted,False,-4.2940554294406265e-05
+0.0004294055429440414,0.00038646498864963513,TECA2S45,Glycerol teichoic acid  n45   unlinked  D ala substituted,False,-4.2940554294406265e-05
+0.00042940554294404145,0.0003864649886496352,TECA3S45,Glycerol teichoic acid  n45   unlinked  glucose substituted,False,-4.2940554294406265e-05
+0.0,0.0,TGBPA,Tagatose-bisphosphate aldolase,False,0.0
+5.584486686821735,5.073186735302939,THDPS,Tetrahydrodipicolinate succinylase,False,-0.5112999515187955
+12.910499526735343,8.651950829474517,THIORDXi,Hydrogen peroxide reductase (thioredoxin),False,-4.258548697260826
+0.011235825436673787,0.010112242893006355,THMDt2,Thymidine transport in via proton symport,False,-0.001123582543667432
+-1.186946370504751e-30,0.0,THMP,Thiamin phosphatase,False,1.186946370504751e-30
+9.575743607652125e-05,8.618169246886866e-05,THMabc,Thiamine transport via ABC system,False,-9.575743607652588e-06
+-5.580192631392295,-5.069322085416445,THPAT,"L-2,3,4,5-tetrahydrodipicolinate N2-acetyltransferase",False,0.51087054597585
+0.0,0.0,THRA,Threonine aldolase,False,0.0
+0.0,0.0,THRA2,L-allo-Threonine Aldolase,False,0.0
+1.4386761246779534,0.6274729139554819,THRD,L-threonine dehydrogenase,False,-0.8112032107224715
+0.0,0.0,THRD_L,L-threonine deaminase,False,0.0
+0.0,0.0,THRS,Threonine synthase,False,0.0
+0.0,0.0,THRS_2,Threonine synthase,False,0.0
+0.0,0.0,THRabc,L-threonine transport via ABC system,False,0.0
+0.0,0.0,THRabcpp,L-threonine transport via ABC system (periplasm),False,0.0
+0.0,0.0,THRt2pp,L-threonine efflux transport via proton antiport (periplasm),False,0.0
+1.5476107286507983,0.7255140575310418,THRt2r,L threonine reversible transport via proton symport,False,-0.8220966711197565
+0.0,0.0,THZPSN,Thiazole phosphate synthesis,False,0.0
+0.0,0.0,THZPSN_1,Thiazole phosphate synthesis,False,0.0
+3.332975352245695,3.333011150354454,TKT1,Transketolase,False,3.579810875908862e-05
+3.332975352245695,3.333011150354454,TKT2,Transketolase,False,3.579810875908862e-05
+0.011235825436673789,0.010112242893006355,TMDK1,Thymidine kinase (ATP:thymidine),False,-0.0011235825436674337
+9.575743607652125e-05,8.618169246886866e-05,TMDPK_1,Thiamine diphosphokinase,False,-9.575743607652588e-06
+0.0,0.0,TMDPP,Thymidine phosphorylase,False,0.0
+0.0,0.0,TMDS,Thymidylate synthase,False,0.0
+0.0,0.0,TMN,Thiaminase,False,0.0
+-1.1869463705047512e-30,0.0,TMPPP,Thiamine-phosphate diphosphorylase,False,1.1869463705047512e-30
+0.0,0.0,TNTHAC1,2 4 6 dinitrotoluene meisenheimer dihydrideTNT derived hydroxylamines condensation,False,0.0
+0.0,0.0,TNTHAC2,2 4 6 dinitrotoluene meisenheimer dihydrideTNT derived hydroxylamines condensation,False,0.0
+0.0,0.0,TNTR1,TNT nitroreductase 4 Hydroxylamino 2 6 dinitrotoluene,False,0.0
+0.0,0.0,TNTR1x,TNT nitroreductase 4 Hydroxylamino 2 6 dinitrotoluene,False,0.0
+0.0,0.0,TNTR2,TNT nitroreductase 2 Hydroxylamino 4 6 dinitrotoluene,False,0.0
+0.0,0.0,TNTR2x,TNT nitroreductase 2 Hydroxylamino 4 6 dinitrotoluene,False,0.0
+0.0,0.0,TNTR3,TNT nitroreductase Meisenheimer monohydride complex forming,False,0.0
+0.0,0.0,TNTR4,TNT nitroreductase Meisenheimer dihydride complex forming,False,0.0
+0.0,0.0,TNTep,2 4 6 trinitrotoluene extrusion pump,False,0.0
+0.0,0.0,TNTtex,Trinitrotoluene transport via diffusion  extracellular to periplasm  irreversible,False,0.0
+0.0,0.0,TNTtpp,Trinitrotoluene transport via diffusion  periplasm to cytosol  irreversible,False,0.0
+-1.8030933879857833,-1.789450715853873,TPI,Triose-phosphate isomerase,False,0.013642672131910283
+13.010984288434136,8.742387115003432,TRDR,Thioredoxin reductase (NADPH),False,-4.268597173430704
+0.0,0.0,TRE6PH,Trehalose-6-phosphate hydrolase,False,0.0
+0.0,0.0,TREpts,Trehalose transport via PEP:Pyr PTS,False,0.0
+0.0,0.0,TRPAS1,Tryptophanase  L cysteine,False,0.0
+0.0,0.0,TRPS1,Tryptophan synthase (indoleglycerol phosphate),False,0.0
+0.0,0.0,TRPS2,Tryptophan synthase (indole),False,0.0
+0.0,0.0,TRPS3,Tryptophan synthase (indoleglycerol phosphate),False,0.0
+0.0,0.0,TRPabc,,False,0.0
+0.024408699277568148,0.021967829349811212,TRPt2r,L tryptophan reversible transport via proton symport,False,-0.0024408699277569355
+0.0,0.0,TRSARr,Tartronate semialdehyde reductase,False,0.0
+0.0,0.0,TSULP,Thiosulfate permease,False,0.0
+0.0,0.0,TSULabc,Thiosulfate transport via ABC system,False,0.0
+0.0,0.0,TSULabcpp,Thiosulfate transport via ABC system (periplasm),False,0.0
+0.0,0.0,TSULtex,Thiosulfate transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0029371339137422812,TTDCAtexi,Tetradecanoate transport via facilitated irreversible diffusion (extracellular to periplasm),False,0.0029371339137422812
+0.003263482126374715,0.0,TTDCEAtexi,Tetradecenoate transport via facilitated irreversible diffusion (extracellular to periplasm),False,-0.003263482126374715
+0.0,0.0,TYRTA,Tyrosine transaminase,False,0.0
+0.0,0.0,TYRabc,,False,0.0
+0.05921330674981153,0.053291976074830084,TYRt2r,L tyrosine reversible transport via proton symport,False,-0.005921330674981448
+0.004294055429440414,0.0038646498864963515,UAAGDS,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase",False,-0.00042940554294406286
+0.0012882166288321244,0.0011593949659489055,UAG2E,UDP-N-acetylglucosamine 2-epimerase,False,-0.0001288216628832189
+0.0,0.0,UAG2EMA,UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis),False,0.0
+0.004294055429440413,0.0038646498864963524,UAGCVT,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,False,-0.00042940554294406026
+0.06269320926983005,0.05642388834284674,UAGDP,UDP-N-acetylglucosamine diphosphorylase,False,-0.0062693209269833045
+0.0,0.0,UAGPT2,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,False,0.0
+0.0,0.0,UAGPT2_1,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,False,0.0
+0.0042940554294404135,0.0038646498864963524,UAGPT3,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,False,-0.00042940554294406113
+0.004294055429440414,0.003864649886496352,UAMAGS,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase,False,-0.00042940554294406243
+0.0042940554294404135,0.0038646498864963515,UAMAS,UDP-N-acetylmuramoyl-L-alanine synthetase,False,-0.000429405542944062
+0.004294055429440414,0.003864649886496353,UAPGR,UDP-N-acetylenolpyruvoylglucosamine reductase,False,-0.00042940554294406156
+0.004294055429440414,0.0038646498864963524,UDCPDP,Undecaprenyl-diphosphatase,False,-0.000429405542944062
+0.0,0.0,UDCPDPex,Undecaprenyl-diphosphatase (periplasm),False,0.0
+9.911971863696474,9.920774677326827,UDPG4E,UDPglucose 4-epimerase,False,0.008802813630353512
+0.0,0.0,UGLYCH,Ureidoglycolate hydrolase,False,0.0
+0.004294055429440415,0.0038646498864963524,UGMDDS,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase",False,-0.00042940554294406286
+0.008588110858880829,0.007729299772992705,UGT_BS,UDP glucosyltransferase  diglucosyl,False,-0.000858811085888124
+0.0,4.368181649697378e-19,UM3PL,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase,False,4.368181649697378e-19
+0.06746132841868069,0.06071519557681045,UMPK,UMP kinase,False,-0.006746132841870235
+0.0,0.0,UNK5,2 keto 4 methylthiobutyrate transamination,False,0.0
+0.0,0.0,UPP3MT_2,Uroporphyrinogen methyltransferase,False,0.0
+0.0,0.0,UPP3S,Uroporphyrinogen-III synthase,False,0.0
+0.0,0.0,UPPDC1,Uroporphyrinogen decarboxylase (uroporphyrinogen III),False,0.0
+0.06187905636040815,0.055691150724356764,UPPRT,Uracil phosphoribosyltransferase,False,-0.006187905636051386
+0.0,0.0,URATEt_1,Urate permease,False,0.0
+0.0,0.0,URAt2,Uracil transport in via proton symport,False,0.0
+0.0,0.0,URCN,Urocanase,False,0.0
+0.0,0.0,UREA,Urease,False,0.0
+0.0,0.0,UREASE,Urea carboxylase,False,0.0
+0.0,0.0,UREA_1,Urease,False,0.0
+0.0,0.0,URIC,Uricase,False,0.0
+0.0,0.0,URIDK2r,Uridylate kinase (dUMP),False,0.0
+0.0,0.0,URIH,Uridine hydrolase,False,0.0
+0.0,0.0,URIK1,Uridine kinase  ATPUridine,False,0.0
+0.0,0.0,URIK2,Uridine kinase (GTP:Uridine),False,0.0
+0.0,0.0,URIK3,Uridine kinase (ITP:Uridine),False,0.0
+0.06187905636040815,0.05569115072435676,URIt2,Uridine transport in via proton symport,False,-0.006187905636051393
+0.0,0.0,URIt2pp,Uridine transport in via proton symport (periplasm),False,0.0
+-0.6256561535301695,-0.16902998056510293,VALDHr,Valine dehydrogenase,False,0.4566261729650665
+0.0,-1.430736709545005,VALTA,Valine transaminase,False,-1.430736709545005
+0.0,0.0,VALabc,L-valine transport via ABC system,False,0.0
+0.0,0.0,VALabcpp,L-valine transport via ABC system (periplasm),False,0.0
+0.0,0.0,VALt2r,L valine reversible transport via proton symport,False,0.0
+0.0,0.0,VALt2rpp,L-valine reversible transport via proton symport (periplasm),False,0.0
+0.2457201097077042,1.2338419291422102,VALt3pp,L-valine transport out via proton antiport (periplasm),False,0.988121819434506
+-0.2457201097077042,-1.2338419291422102,VALtex,L-valine transport via diffusion (extracellular to periplasm),False,-0.988121819434506
+0.0,0.0,VECOAH,3-hydroxyacyl-CoA dehydratase (3-hydroxypentanoyl-CoA),False,0.0
+0.0,0.0,VNDH_2,4-hydroxybenzaldehyde dehydrogenase,False,0.0
+-0.19822793545917883,-0.20238746344094075,VPAMTr,Valine-pyruvate aminotransferase,False,-0.004159527981761918
+0.0,0.0,XANt2,Xanthine transport in via proton symport,False,0.0
+0.0,0.0,XPPT,Xanthine phosphoribosyltransferase,False,0.0
+0.0,0.0,XTSNH,Xanthosine hydrolase,False,0.0
+0.0,0.0,XYLI1,Xylose isomerase,False,0.0
+0.0,0.0,XYLI2,Xylose isomerase,False,0.0
+0.0,0.0,XYLK,Xylulokinase,False,0.0
+0.0,0.0,XYLabc,D-xylose transport via ABC system,False,0.0
+0.0,0.0,XYLabcpp,D-xylose transport via ABC system (periplasm),False,0.0
+0.0,0.0,XYLt2,D-xylose transport in via proton symport,False,0.0
+0.0,0.0,XYLtex,D-xylose transport via diffusion (extracellular to periplasm),False,0.0
+0.0,0.0,YUMPS,YUMP synthetase,False,0.0
+0.0,0.0,ZN2abcpp,"Zinc (Zn+2) ABC transporter, efflux (periplasm)",False,0.0
+0.0,0.0,ZN2t3pp,Zinc (Zn+2) transport out via proton antiport (periplasm),False,0.0
+0.0,0.0,ZN2t4,Zinc transport out via antiport,False,0.0
+0.0,0.0,ZN2t4pp,Zinc transport out via antiport (periplasm),False,0.0
+0.0,0.0,ZN2t5,Zinc  Zn2  transport out via proton antiport  cytosolexternal,False,0.0
+0.0,0.0,ZN2t6,Zinc  Zn2  transport out via proton antiport  periplasmexternal,False,0.0
+0.0,0.0,ZNabc,Zinc transport via ABC system,False,0.0
+0.0,0.0,ZNabcpp,Zinc (Zn+2) transport via ABC system (periplasm),False,0.0
+0.0,0.0,Zn2tex,Zinc (Zn+2) transport via diffusion (extracellular to periplasm),False,0.0
+0.0002872723082295637,0.0002585450774066317,r0963,Facilitated diffusion,False,-2.8727230822931987e-05
+0.0,0.0,r2136,Major Facilitator(MFS) TCDB:2.A.1.14.6,False,0.0
+-0.00014642729014391811,-0.0001317845611295256,r2465_1,Cation Diffusion Facilitator (Cdf) Tcdb:2.A.4.2.3,False,1.4642729014392513e-05
+0.0,0.0,sink_hemeO_c,R_sink_hemeO_c,False,0.0
+0.0,0.0,sink_lipopb_c,R_sink_lipopb_c,False,0.0
+0.0,0.0,sink_sheme_c,R_sink_sheme_c,False,0.0
+-0.0877262642068351,-0.0789536377861512,EX_23camp_e,R_EX_23camp_e,True,0.008772626420683896
+0.0,0.0,EX_23ccmp_e,R_EX_23ccmp_e,True,0.0
+-9.501039347209895,-9.550935412488888,EX_23cgmp_e,R_EX_23cgmp_e,True,-0.04989606527899326
+0.0,0.0,EX_23cump_e,R_EX_23cump_e,True,0.0
+0.0,0.0,EX_23dhbzs3_e,R_EX_23dhbzs3_e,True,0.0
+0.0,0.0,EX_2ameph_e,R_EX_2ameph_e,True,0.0
+0.0,0.0,EX_2ddglcn_e,R_EX_2ddglcn_e,True,0.0
+0.0,0.0,EX_2hxmp_e,R_EX_2hxmp_e,True,0.0
+0.0,0.0,EX_2m35mdntha_e,R_EX_2m35mdntha_e,True,0.0
+0.0,0.0,EX_2pglyc_e,R_EX_2pglyc_e,True,0.0
+0.0,0.0,EX_35dnta_e,R_EX_35dnta_e,True,0.0
+0.0,0.0,EX_3amp_e,R_EX_3amp_e,True,0.0
+0.0,0.0,EX_3cmp_e,R_EX_3cmp_e,True,0.0
+9.39707468299108,9.457367214691958,EX_3gmp_e,R_EX_3gmp_e,True,0.06029253170087756
+0.0,0.0,EX_3mb_e,R_EX_3mb_e,True,0.0
+0.0,0.0,EX_3ump_e,R_EX_3ump_e,True,0.0
+-10.000000000000002,-10.000000000000002,EX_4abut_e,R_EX_4abut_e,True,0.0
+2.9381032041269523e-30,0.0,EX_4ahmmp_e,R_EX_4ahmmp_e,True,-2.9381032041269523e-30
+-7.54348727735514e-30,0.0,EX_4hba_e,R_EX_4hba_e,True,7.54348727735514e-30
+0.0,0.0,EX_4hpro_DC_e,R_EX_4hpro_DC_e,True,0.0
+0.0,0.0,EX_4hpro_LT_e,R_EX_4hpro_LT_e,True,0.0
+0.0,0.0,EX_LalaLglu_e,R_EX_LalaLglu_e,True,0.0
+0.0,0.0,EX_abg4_e,R_EX_abg4_e,True,0.0
+0.0,0.0,EX_abt__L_e,R_EX_abt__L_e,True,0.0
+0.0,0.0,EX_ac_e,R_EX_ac_e,True,0.0
+0.0,0.0,EX_acac_e,R_EX_acac_e,True,0.0
+0.0,0.0,EX_acald_e,R_EX_acald_e,True,0.0
+0.0,0.0,EX_acgam_e,R_EX_acgam_e,True,0.0
+0.0,0.0,EX_acmana_e,R_EX_acmana_e,True,0.0
+0.0,0.0,EX_acon_C_e,R_EX_acon_C_e,True,0.0
+0.0,0.0,EX_actn__R_e,R_EX_actn__R_e,True,0.0
+0.0,0.0,EX_ad_e,R_EX_ad_e,True,0.0
+0.0,0.0,EX_agm_e,R_EX_agm_e,True,0.0
+0.0,0.0,EX_ala_B_e,R_EX_ala_B_e,True,0.0
+0.0,0.0,EX_ala_L_asp__L_e,R_EX_ala_L_asp__L_e,True,0.0
+0.0,0.0,EX_ala_L_glu__L_e,R_EX_ala_L_glu__L_e,True,0.0
+0.0,0.0,EX_ala_L_thr__L_e,R_EX_ala_L_thr__L_e,True,0.0
+0.0,0.0,EX_ala__D_e,R_EX_ala__D_e,True,0.0
+10.0,10.0,EX_ala__L_e,R_EX_ala__L_e,True,0.0
+3.593832859243107e-15,0.0,EX_ala_gln_e,R_EX_ala_gln_e,True,-3.593832859243107e-15
+0.0,0.0,EX_ala_his_e,R_EX_ala_his_e,True,0.0
+0.0,0.0,EX_ala_leu_e,R_EX_ala_leu_e,True,0.0
+0.0,0.0,EX_alaala_e,R_EX_alaala_e,True,0.0
+0.0,0.0,EX_alagly_e,R_EX_alagly_e,True,0.0
+0.0,0.0,EX_alahis_e,R_EX_alahis_e,True,0.0
+0.0,0.0,EX_alaleu_e,R_EX_alaleu_e,True,0.0
+0.0,0.0,EX_alathr_e,R_EX_alathr_e,True,0.0
+0.0,0.0,EX_alatrp_e,R_EX_alatrp_e,True,0.0
+0.0,0.0,EX_arab__L_e,R_EX_arab__L_e,True,0.0
+0.0,0.0,EX_arbt_e,R_EX_arbt_e,True,0.0
+-0.1270147243585039,-0.11431325192266133,EX_arg__L_e,R_EX_arg__L_e,True,0.012701472435842562
+-0.10351035315437591,-0.09315931783893781,EX_asn__L_e,R_EX_asn__L_e,True,0.0103510353154381
+0.0,0.0,EX_asp__L_e,R_EX_asp__L_e,True,0.0
+0.0,0.0,EX_balaala_e,R_EX_balaala_e,True,0.0
+0.0,0.0,EX_balabala_e,R_EX_balabala_e,True,0.0
+0.0,0.0,EX_balagly_e,R_EX_balagly_e,True,0.0
+0.0,0.0,EX_balaleu_e,R_EX_balaleu_e,True,0.0
+0.0,0.0,EX_balamd_e,R_EX_balamd_e,True,0.0
+0.0,0.0,EX_bhb_e,R_EX_bhb_e,True,0.0
+0.0,0.0,EX_btn_e,R_EX_btn_e,True,0.0
+0.0,0.0,EX_but_e,R_EX_but_e,True,0.0
+0.0,0.0,EX_butso3_e,R_EX_butso3_e,True,0.0
+-4.2940554294404144e-05,-3.8646498864963535e-05,EX_bz_e,R_EX_bz_e,True,4.294055429440609e-06
+-0.0022350558510237355,-0.002011550265921351,EX_ca2_e,R_EX_ca2_e,True,0.00022350558510238466
+0.0,0.0,EX_carn_e,R_EX_carn_e,True,0.0
+0.0,0.0,EX_cellb_e,R_EX_cellb_e,True,0.0
+0.0,0.0,EX_cgly_e,R_EX_cgly_e,True,0.0
+0.0,0.0,EX_chol_e,R_EX_chol_e,True,0.0
+-0.0022350558510237355,-0.002011550265921351,EX_cit_e,R_EX_cit_e,True,0.00022350558510238466
+-0.0022350558510237364,-0.0020115502659213513,EX_cl_e,R_EX_cl_e,True,0.0002235055851023851
+0.0,0.0,EX_cmcbtt_e,R_EX_cmcbtt_e,True,0.0
+20.0,20.0,EX_co2_e,R_EX_co2_e,True,0.0
+0.0,0.0,EX_co_e,R_EX_co_e,True,0.0
+-4.2940554294404144e-05,-3.864649886496352e-05,EX_cobalt2_e,R_EX_cobalt2_e,True,4.294055429440622e-06
+0.0,0.0,EX_cpgn_e,R_EX_cpgn_e,True,0.0
+0.0,0.0,EX_cpgn_un_e,R_EX_cpgn_un_e,True,0.0
+-0.0003044485299473254,-0.0002740036769525913,EX_cu2_e,R_EX_cu2_e,True,3.0444852994734113e-05
+0.0,0.0,EX_cys__L_e,R_EX_cys__L_e,True,0.0
+-0.06893032478109218,-0.06203729230298262,EX_cytd_e,R_EX_cytd_e,True,0.006893032478109559
+0.0,0.0,EX_d23hb_e,R_EX_d23hb_e,True,0.0
+0.0,0.0,EX_dca_e,R_EX_dca_e,True,0.0
+0.0,0.0,EX_dcyt_e,R_EX_dcyt_e,True,0.0
+0.0,0.0,EX_ddca_e,R_EX_ddca_e,True,0.0
+0.0,0.0,EX_drib_e,R_EX_drib_e,True,0.0
+0.0,0.0,EX_enter_e,R_EX_enter_e,True,0.0
+0.0,0.0,EX_ethso3_e,R_EX_ethso3_e,True,0.0
+0.0,0.0,EX_etoh_e,R_EX_etoh_e,True,0.0
+0.0,0.0,EX_fald_e,R_EX_fald_e,True,0.0
+0.0,0.0,EX_fcmcbtt_e,R_EX_fcmcbtt_e,True,0.0
+-0.0028834582208692385,-0.0025951123987823,EX_fe2_e,R_EX_fe2_e,True,0.00028834582208693864
+-0.0033527984793070755,-0.0030175186313763512,EX_fe3_e,R_EX_fe3_e,True,0.0003352798479307243
+0.0,0.0,EX_fe3dcit_e,R_EX_fe3dcit_e,True,0.0
+0.0,0.0,EX_fe3dhbzs3_e,R_EX_fe3dhbzs3_e,True,0.0
+0.0,0.0,EX_fe3mcbtt_e,R_EX_fe3mcbtt_e,True,0.0
+0.0,0.0,EX_fe3pyovd_kt_e,R_EX_fe3pyovd_kt_e,True,0.0
+0.0,0.0,EX_feenter_e,R_EX_feenter_e,True,0.0
+0.0,0.0,EX_feoxam_e,R_EX_feoxam_e,True,0.0
+0.0,0.0,EX_feoxam_un_e,R_EX_feoxam_un_e,True,0.0
+-0.0002872723082295637,-0.00025854507740663167,EX_fol_e,R_EX_fol_e,True,2.872723082293204e-05
+0.0,0.0,EX_for_e,R_EX_for_e,True,0.0
+0.0,0.0,EX_fru_e,R_EX_fru_e,True,0.0
+0.0,0.0,EX_fum_e,R_EX_fum_e,True,0.0
+0.0,0.0,EX_gal_bD_e,R_EX_gal_bD_e,True,0.0
+9.911971863696474,9.920774677326827,EX_gal_e,R_EX_gal_e,True,0.008802813630353512
+0.0,0.0,EX_galt_e,R_EX_galt_e,True,0.0
+0.0,0.0,EX_galur_e,R_EX_galur_e,True,0.0
+-0.06269320926983003,-0.056423888342846736,EX_gam_e,R_EX_gam_e,True,0.0062693209269832975
+0.0,0.0,EX_glc__D_e,R_EX_glc__D_e,True,0.0
+0.0,0.0,EX_glc__aD_e,R_EX_glc__aD_e,True,0.0
+0.0,0.0,EX_glcn__D_e,R_EX_glcn__D_e,True,0.0
+0.0,0.0,EX_glcn_e,R_EX_glcn_e,True,0.0
+0.0,0.0,EX_glcr_e,R_EX_glcr_e,True,0.0
+0.0,0.0,EX_glcur_e,R_EX_glcur_e,True,0.0
+0.0,0.0,EX_gln__L_e,R_EX_gln__L_e,True,0.0
+1.4363556140347256e-12,-1.7992129123679776,EX_glu__L_e,R_EX_glu__L_e,True,-1.799212912369414
+0.0,0.0,EX_gly_asn__L_e,R_EX_gly_asn__L_e,True,0.0
+0.0,0.0,EX_gly_asp__L_e,R_EX_gly_asp__L_e,True,0.0
+0.0,0.0,EX_gly_cys_e,R_EX_gly_cys_e,True,0.0
+0.0,0.0,EX_gly_e,R_EX_gly_e,True,0.0
+0.0,0.0,EX_gly_gln_e,R_EX_gly_gln_e,True,0.0
+0.0,0.0,EX_gly_glu__L_e,R_EX_gly_glu__L_e,True,0.0
+0.0,0.0,EX_gly_leu_e,R_EX_gly_leu_e,True,0.0
+0.0,0.0,EX_gly_met_e,R_EX_gly_met_e,True,0.0
+0.0,0.0,EX_gly_phe_e,R_EX_gly_phe_e,True,0.0
+0.0,0.0,EX_gly_pro__L_e,R_EX_gly_pro__L_e,True,0.0
+0.0,0.0,EX_gly_tyr_e,R_EX_gly_tyr_e,True,0.0
+-1.427093593668033,2.669050521144167,EX_glyald_e,R_EX_glyald_e,True,4.0961441148121995
+0.0,0.0,EX_glyb_e,R_EX_glyb_e,True,0.0
+1.427093593668033,-2.669050521144165,EX_glyc_e,R_EX_glyc_e,True,-4.096144114812198
+0.0,0.0,EX_glygln_e,R_EX_glygln_e,True,0.0
+0.0,0.0,EX_glyglu_e,R_EX_glyglu_e,True,0.0
+0.0,0.0,EX_glygly_e,R_EX_glygly_e,True,0.0
+0.0,0.0,EX_glyglygln_e,R_EX_glyglygln_e,True,0.0
+0.0,0.0,EX_glymet_e,R_EX_glymet_e,True,0.0
+0.0,0.0,EX_glyphe_e,R_EX_glyphe_e,True,0.0
+0.0,0.0,EX_glyser_e,R_EX_glyser_e,True,0.0
+4.510213151185502,5.0,EX_gthox_e,R_EX_gthox_e,True,0.4897868488144983
+-9.020426302371003,-10.0,EX_gthrd_e,R_EX_gthrd_e,True,-0.9795736976289966
+0.0,0.0,EX_gua_e,R_EX_gua_e,True,0.0
+1.5049923161657845,3.4793084683793394,EX_h2_e,R_EX_h2_e,True,1.9743161522135548
+-4.510213151185502,-5.0,EX_h2o2_e,R_EX_h2o2_e,True,-0.4897868488144983
+-10.0,-10.0,EX_h2o_e,R_EX_h2o_e,True,0.0
+-0.039572297215550306,-0.035615067493995976,EX_h2s_e,R_EX_h2s_e,True,0.00395722972155433
+10.446086318320372,0.0,EX_h_e,R_EX_h_e,True,-10.446086318320372
+0.0,0.0,EX_hexs_e,R_EX_hexs_e,True,0.0
+-0.0406810223274326,-0.036612920094689146,EX_his__L_e,R_EX_his__L_e,True,0.0040681022327434535
+0.0,0.0,EX_hisgly_e,R_EX_hisgly_e,True,0.0
+0.0,0.0,EX_hishis_e,R_EX_hishis_e,True,0.0
+0.0,0.0,EX_hqn_e,R_EX_hqn_e,True,0.0
+0.0,0.0,EX_hxa_e,R_EX_hxa_e,True,0.0
+0.0,0.0,EX_hxan_e,R_EX_hxan_e,True,0.0
+0.0,0.0,EX_icit_e,R_EX_icit_e,True,0.0
+0.0,0.0,EX_id3acald_e,R_EX_id3acald_e,True,0.0
+-0.13351463606204783,-0.12016317245584243,EX_ile__L_e,R_EX_ile__L_e,True,0.0133514636062054
+0.0,0.0,EX_ind3ac_e,R_EX_ind3ac_e,True,0.0
+0.0,0.0,EX_inost_e,R_EX_inost_e,True,0.0
+0.0,0.0,EX_isetac_e,R_EX_isetac_e,True,0.0
+0.0,0.0,EX_istfrnA_e,R_EX_istfrnA_e,True,0.0
+0.0,0.0,EX_istfrnB_e,R_EX_istfrnB_e,True,0.0
+-0.08381695614387628,-0.07543526052948818,EX_k_e,R_EX_k_e,True,0.008381695614388104
+-0.19809808853193664,-0.1782882796787249,EX_leu__L_e,R_EX_leu__L_e,True,0.019809808853211736
+0.0,0.0,EX_leuleu_e,R_EX_leuleu_e,True,0.0
+0.0,0.0,EX_lipoate_e,R_EX_lipoate_e,True,0.0
+-0.1473552355222202,-0.13261971196999747,EX_lys__L_e,R_EX_lys__L_e,True,0.01473552355222274
+0.0,0.0,EX_lysglugly_e,R_EX_lysglugly_e,True,0.0
+0.0,0.0,EX_madg_e,R_EX_madg_e,True,0.0
+0.0,0.0,EX_mal__D_e,R_EX_mal__D_e,True,0.0
+0.0,0.0,EX_mal__L_e,R_EX_mal__L_e,True,0.0
+-0.9023033065595635,-0.8954063092369497,EX_malt_e,R_EX_malt_e,True,0.006896997322613729
+0.0,0.0,EX_malttr_e,R_EX_malttr_e,True,0.0
+0.0,0.0,EX_maltttr_e,R_EX_maltttr_e,True,0.0
+0.0,0.0,EX_man_e,R_EX_man_e,True,0.0
+0.0,0.0,EX_manglyc_e,R_EX_manglyc_e,True,0.0
+0.0,0.0,EX_mbdg_e,R_EX_mbdg_e,True,0.0
+0.0,0.0,EX_mcbtt_e,R_EX_mcbtt_e,True,0.0
+0.0,0.0,EX_melib_e,R_EX_melib_e,True,0.0
+0.0,0.0,EX_meoh_e,R_EX_meoh_e,True,0.0
+0.0,0.0,EX_met_L_ala__L_e,R_EX_met_L_ala__L_e,True,0.0
+0.0,0.0,EX_met__D_e,R_EX_met__D_e,True,0.0
+0.0,0.0,EX_met__L_e,R_EX_met__L_e,True,0.0
+-0.06604643715468005,0.0,EX_metox__R_e,R_EX_metox__R_e,True,0.06604643715468005
+0.0,0.0,EX_metox_e,R_EX_metox_e,True,0.0
+0.0,0.0,EX_metsox_R__L_e,R_EX_metsox_R__L_e,True,0.0
+0.0,-0.059441793439211736,EX_metsox_S__L_e,R_EX_metsox_S__L_e,True,-0.059441793439211736
+-0.0037250930850395592,-0.003352583776535585,EX_mg2_e,R_EX_mg2_e,True,0.00037250930850397414
+-4.294055429424595e-05,-3.864649886496352e-05,EX_mmet_e,R_EX_mmet_e,True,4.2940554292824305e-06
+-0.00029671923017433264,-0.0002670473071568979,EX_mn2_e,R_EX_mn2_e,True,2.9671923017434722e-05
+0.0,0.0,EX_mnl_e,R_EX_mnl_e,True,0.0
+0.0,0.0,EX_mobd_e,R_EX_mobd_e,True,0.0
+0.0,0.0,EX_mso3_e,R_EX_mso3_e,True,0.0
+0.0,0.0,EX_mththf_e,R_EX_mththf_e,True,0.0
+10.000000000000002,10.000000000000002,EX_nac_e,R_EX_nac_e,True,0.0
+10.0,10.0,EX_nh4_e,R_EX_nh4_e,True,0.0
+-10.0,-10.0,EX_nmn_e,R_EX_nmn_e,True,0.0
+0.0,0.0,EX_no2_e,R_EX_no2_e,True,0.0
+0.0,2.0199986925783456e-15,EX_no3_e,R_EX_no3_e,True,2.0199986925783456e-15
+-20.0,-20.0,EX_o2_e,R_EX_o2_e,True,0.0
+0.0,0.0,EX_octa_e,R_EX_octa_e,True,0.0
+1.1757974865319551,0.15251517220546626,EX_oxa_e,R_EX_oxa_e,True,-1.0232823143264889
+-1.5049923161657845,-3.4793084683793394,EX_pacald_e,R_EX_pacald_e,True,-1.9743161522135548
+-0.07955381791352784,-0.07159843612217467,EX_phe__L_e,R_EX_phe__L_e,True,0.007955381791353161
+-4.732619403118476e-16,0.0,EX_pheme_e,R_EX_pheme_e,True,4.732619403118476e-16
+9.588765611416731,9.629889050275041,EX_pi_e,R_EX_pi_e,True,0.04112343885831038
+-0.0002473375927349901,-0.0002226038334623904,EX_pnto__R_e,R_EX_pnto__R_e,True,2.473375927259969e-05
+0.0,0.0,EX_ppa_e,R_EX_ppa_e,True,0.0
+-0.09492224229549508,-0.08543001806594511,EX_pro__L_e,R_EX_pro__L_e,True,0.00949222422954997
+0.0,0.0,EX_progly_e,R_EX_progly_e,True,0.0
+0.0,0.0,EX_prohisglu_e,R_EX_prohisglu_e,True,0.0
+0.0,0.0,EX_ptrc_e,R_EX_ptrc_e,True,0.0
+0.0,0.0,EX_pyovd_kt_e,R_EX_pyovd_kt_e,True,0.0
+0.0,0.0,EX_pyr_e,R_EX_pyr_e,True,0.0
+0.0,0.0,EX_rib__D_e,R_EX_rib__D_e,True,0.0
+-0.0001915148721530425,-0.00017236338493773731,EX_ribflv_e,R_EX_ribflv_e,True,1.9151487215305176e-05
+0.0,0.0,EX_s_e,R_EX_s_e,True,0.0
+0.0,0.0,EX_salchs2_e,R_EX_salchs2_e,True,0.0
+0.0,0.0,EX_salchs2fe_e,R_EX_salchs2fe_e,True,0.0
+0.0,0.0,EX_salchs4_e,R_EX_salchs4_e,True,0.0
+0.0,0.0,EX_salchs4fe_e,R_EX_salchs4fe_e,True,0.0
+0.0,0.0,EX_salcn_e,R_EX_salcn_e,True,0.0
+0.0,0.0,EX_ser__D_e,R_EX_ser__D_e,True,0.0
+-0.13242609301068392,-3.072313983727639e-13,EX_ser__L_e,R_EX_ser__L_e,True,0.1324260930103767
+0.0,0.0,EX_serglugly_e,R_EX_serglugly_e,True,0.0
+0.0,0.0,EX_so3_e,R_EX_so3_e,True,0.0
+-0.0018627612452912518,-0.0016764851207621174,EX_so4_e,R_EX_so4_e,True,0.00018627612452913438
+0.0,0.0,EX_spmd_e,R_EX_spmd_e,True,0.0
+0.0,0.0,EX_stfrnA_e,R_EX_stfrnA_e,True,0.0
+0.0,0.0,EX_stfrnB_e,R_EX_stfrnB_e,True,0.0
+10.000000000000002,10.000000000000002,EX_succ_e,R_EX_succ_e,True,0.0
+0.0,0.0,EX_sucr_e,R_EX_sucr_e,True,0.0
+0.0,0.0,EX_sulfac_e,R_EX_sulfac_e,True,0.0
+0.0,0.0,EX_tagur_e,R_EX_tagur_e,True,0.0
+-10.0,-10.0,EX_tartr__L_e,R_EX_tartr__L_e,True,0.0
+0.0,0.0,EX_taur_e,R_EX_taur_e,True,0.0
+-9.575743607652126e-05,-8.618169246886866e-05,EX_thm_e,R_EX_thm_e,True,9.575743607652602e-06
+-1.5476107286507985,-0.7255140575310419,EX_thr__L_e,R_EX_thr__L_e,True,0.8220966711197566
+-0.011235825436673787,-0.010112242893006355,EX_thymd_e,R_EX_thymd_e,True,0.001123582543667432
+0.0,0.0,EX_tnt_e,R_EX_tnt_e,True,0.0
+0.0,0.0,EX_tre_e,R_EX_tre_e,True,0.0
+-0.024408699277568145,-0.021967829349811212,EX_trp__L_e,R_EX_trp__L_e,True,0.002440869927756932
+0.0,0.0,EX_tsul_e,R_EX_tsul_e,True,0.0
+0.0,-0.0029371339137422817,EX_ttdca_e,R_EX_ttdca_e,True,-0.0029371339137422817
+-0.003263482126374715,0.0,EX_ttdcea_e,R_EX_ttdcea_e,True,0.003263482126374715
+-0.05921330674981153,-0.053291976074830084,EX_tyr__L_e,R_EX_tyr__L_e,True,0.005921330674981448
+0.0,0.0,EX_udcpdp_e,R_EX_udcpdp_e,True,0.0
+0.0,0.0,EX_udcpp_e,R_EX_udcpp_e,True,0.0
+0.0,0.0,EX_ura_e,R_EX_ura_e,True,0.0
+0.0,0.0,EX_urate_e,R_EX_urate_e,True,0.0
+-0.061879056360408156,-0.05569115072435676,EX_uri_e,R_EX_uri_e,True,0.0061879056360513995
+0.2457201097077042,1.2338419291422102,EX_val__L_e,R_EX_val__L_e,True,0.988121819434506
+0.0,0.0,EX_xan_e,R_EX_xan_e,True,0.0
+0.0,0.0,EX_xyl__D_e,R_EX_xyl__D_e,True,0.0
+-0.00014642729014391814,-0.00013178456112952563,EX_zn2_e,R_EX_zn2_e,True,1.4642729014392513e-05
+0.42940554294404143,0.3864649886496352,Growth,Biomass reaction,False,-0.04294055429440624
+8.39,8.39,ATPM,R_ATPM,False,0.0
+0.0,4.678907691915214,AACOAR_syn,Acetoacetyl-CoA reductase (R-specific),False,4.678907691915214
+0.0,4.678907691915213,PHBS_syn_1,PHB synthetase,False,4.678907691915213
+0.0,4.678907691915214,SK_phb_c,Demand reaction for PHB accumulation,False,4.678907691915214

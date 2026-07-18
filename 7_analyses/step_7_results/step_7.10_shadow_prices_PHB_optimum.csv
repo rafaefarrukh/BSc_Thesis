@@ -1,0 +1,253 @@
+metabolite_id,metabolite_name,shadow_price
+23cgmp_e,"2',3'-Cyclic GMP",-0.23207171314741007
+o2_e,O2 O2,-0.20717131474103617
+tartr__L_e,L-tartrate,-0.1314741035856573
+h2o_e,H2O H2O,-0.09163346613545827
+gthrd_e,Reduced glutathione,-0.09163346613545825
+h_e,H+,-0.023904382470119234
+arab__L_e,L-Arabinose,-0.01195219123506027
+acac_e,Acetoacetate,-0.011952191235059832
+glyald_e,D-Glyceraldehyde,-0.011952191235059731
+glcr_e,D-Glucarate,-7.238869830956855e-17
+3mb_e,3-Methylbutanoic acid,-8.408728399183682e-18
+35dnta_e,N N bis 3 5 dinitrotolyl  amine,-0.0
+2hxmp_e,2  Hydroxymethyl phenol C7H8O2,0.0
+2m35mdntha_e,N  2 methyl 3 5 dinitrophenyl  4 methyl 3 5 dinitroaniline,-0.0
+23dhbzs3_e,2-3-dihydroxybenzoylserine trimer,0.0
+2ameph_e,2-Aminoethylphosphonate,0.0
+3ump_e,3  UMP C9H11N2O9P,0.0
+4abut_e,4-Aminobutanoate,0.0
+4hba_e,4-Hydroxy-benzyl alcohol,0.0
+4ahmmp_e,4-Amino-5-hydroxymethyl-2-methylpyrimidine,-0.0
+4hpro_LT_e,Trans 4 Hydroxy L proline C5H9NO3,0.0
+LalaLglu_e,L-alanine-L-glutamate,-0.0
+abg4_e,4-aminobenzoate-glutamate,0.0
+4hpro_DC_e,Cis 4 Hydroxy D proline,0.0
+acmana_e,N-Acetyl-D-mannosamine,0.0
+ac_e,Acetate,-0.0
+acald_e,Acetaldehyde,-0.0
+2pglyc_e,2-Phosphoglycolate,0.0
+3amp_e,3  AMP C10H12N5O7P,-0.0
+3cmp_e,3  CMP C9H12N3O8P,0.0
+2ddglcn_e,2-Dehydro-3-deoxy-D-gluconate,0.0
+23ccmp_e,"2',3'-Cyclic CMP",0.0
+alatrp_e,L alaninyltryptophan,0.0
+agm_e,Agmatine,-0.0
+ala_L_asp__L_e,Ala L asp L C7H11N2O5,-0.0
+ala_B_e,Beta-Alanine,0.0
+ala_L_thr__L_e,Ala-L-Thr-L,0.0
+ala__D_e,D-Alanine,0.0
+ala__L_e,L-Alanine,-0.0
+ala_L_glu__L_e,Ala L glu L C8H13N2O5,-0.0
+ala_his_e,Ala-His,0.0
+ala_leu_e,Ala-Leu,0.0
+alaala_e,D-Alanyl-D-alanine,0.0
+alagly_e,L-alanylglycine,0.0
+alahis_e,L alaninylhistidine,0.0
+alaleu_e,L alaninylleucine,0.0
+alathr_e,L alaninylthreonine,0.0
+ala_gln_e,Ala-Gln,-0.0
+balaleu_e,Beta alanylL leucine,0.0
+arbt_e,Arbutin C12H16O7,0.0
+arg__L_e,L-Arginine,0.0
+asn__L_e,L-Asparagine,0.0
+asp__L_e,L-Aspartate,0.0
+balaala_e,Beta alanylL alanine,0.0
+balabala_e,Beta alanyl beta alanine,0.0
+balagly_e,Beta alanylL glycine,0.0
+but_e,Butyrate (n-C4:0),0.0
+balamd_e,Beta Alaninamide,0.0
+bhb_e,(R)-3-Hydroxybutanoate,0.0
+acgam_e,N-Acetyl-D-glucosamine,0.0
+actn__R_e, R  Acetoin C4H8O2,-0.0
+acon_C_e,Cis-Aconitate,-0.0
+3gmp_e,Guanosine 3  phosphate C10H12N5O8P,-0.0
+23camp_e,"2',3'-Cyclic AMP",0.0
+feenter_e,Fe-enterobactin,0.0
+ca2_e,Calcium,0.0
+carn_e,L-Carnosine,0.0
+cellb_e,Cellobiose,0.0
+cit_e,Citrate,0.0
+cl_e,Chloride,0.0
+cgly_e,Cys Gly C5H10N2O3S,0.0
+chol_e,Choline C5H14NO,0.0
+co_e,Carbon monoxide,0.0
+cobalt2_e,Co2+,0.0
+cpgn_e,Coprogen,0.0
+cpgn_un_e,Coprogen unloaded (no Fe(III)),0.0
+cu2_e,Copper,0.0
+cys__L_e,L-Cysteine,0.0
+cmcbtt_e,"Carboxymycobactin T (R=8 carbon, final carbon is carboxyl group)",0.0
+co2_e,CO2 CO2,-0.0
+dca_e,Decanoate (n-C10:0),0.0
+dcyt_e,Deoxycytidine,-0.0
+ddca_e,Dodecanoate (n-C12:0),0.0
+drib_e,Deoxyribose C5H10O4,0.0
+enter_e,Enterochelin,0.0
+ethso3_e,Ethanesulfonate,0.0
+etoh_e,Ethanol,0.0
+fald_e,Formaldehyde,0.0
+fcmcbtt_e,"Iron(III) chelated carboxymycobactin T (R=8 carbon, final carbon is carboxyl group)",0.0
+fe2_e,Fe2+ mitochondria,0.0
+fe3_e,Iron (Fe3+),0.0
+fe3dcit_e,Fe(III)dicitrate,0.0
+fe3dhbzs3_e,2-3-dihydroxybenzoylserine trimer-Fe-III,0.0
+fe3mcbtt_e,Iron III  chelated mycobactin T,0.0
+cytd_e,Cytidine,0.0
+d23hb_e,"2,3-dihydroxybenzoate",0.0
+glcn_e,D-Gluconate,0.0
+fe3pyovd_kt_e,Ferrypyoverdine  P putida KT2440 specific,0.0
+fol_e,Folate,0.0
+feoxam_e,Generic ferrioxamine-Fe-III,0.0
+fru_e,D-Fructose,0.0
+fum_e,Fumarate,0.0
+gal_bD_e,Beta D-Galactose,0.0
+feoxam_un_e,Ferroxamine minus Fe(3),0.0
+gal_e,D-Galactose,-0.0
+galt_e,Galactitol,0.0
+gam_e,D-Glucosamine,0.0
+galur_e,D-Galacturonate,0.0
+glc__D_e,D-Glucose,0.0
+glc__aD_e,Alpha D-glucose,0.0
+glcn__D_e,D Gluconate C6H11O7,0.0
+for_e,Formate,0.0
+gly_gln_e,Gly-Gln,-0.0
+glcur_e,D-Glucuronate,0.0
+glu__L_e,L-Glutamate,-0.0
+gln__L_e,L-Glutamine,0.0
+gly_asp__L_e,Gly asp L C6H9N2O5,0.0
+gly_cys_e,Gly-Cys,0.0
+gly_e,Glycine,0.0
+gly_asn__L_e,Gly asn L C6H11N3O4,0.0
+gly_phe_e,Gly-Phe,0.0
+gly_glu__L_e,Gly glu L C7H11N2O5,0.0
+gly_met_e,Gly-Met,0.0
+btn_e,Biotin,0.0
+bz_e,Benzoate,0.0
+butso3_e,Butanesulfonate,0.0
+ad_e,Acetamide,0.0
+23cump_e,"2',3'-Cyclic UMP",0.0
+ttdca_e,Tetradecanoate (n-C14:0),0.0
+glyb_e,Glycine betaine,0.0
+gly_pro__L_e,Gly pro L C7H12N2O3,0.0
+gly_tyr_e,Gly-Tyr,0.0
+gly_leu_e,Gly-Leu,0.0
+glygln_e,L glycinylglutamine,-0.0
+glyglygln_e,Glycine-glycine-glutamine tripeptide,-0.0
+glyc_e,Glycerol,-0.0
+glyser_e,L glycinylserine,0.0
+glyphe_e,Glycylphenylalanine,0.0
+glymet_e,L Glycinylmethionine,0.0
+gthox_e,Oxidized glutathione,-0.0
+h2_e,Hydrogen,-0.0
+gua_e,Guanine,0.0
+glyglu_e,L glycinylglutamate,0.0
+glygly_e,Glycylglycine C4H8N2O3,0.0
+ile__L_e,L-Isoleucine,0.0
+his__L_e,L-Histidine,0.0
+hisgly_e,L histidinylglycine,0.0
+hishis_e,L histidinylhistidine,0.0
+hqn_e,Hydroquinone,0.0
+hxa_e,Hexanoate (n-C6:0),-0.0
+hxan_e,Hypoxanthine,0.0
+icit_e,Isocitrate,-0.0
+istfrnB_e,Iron bound extracellular staphyloferrin B,0.0
+ind3ac_e,Indole 3 acetate C10H8NO2,0.0
+inost_e,Myo-Inositol,0.0
+isetac_e,Isethionic acid,0.0
+k_e,Potassium,0.0
+istfrnA_e,Iron bound extracellular staphyloferrin A,-0.0
+h2o2_e,Hydrogen peroxide,0.0
+hexs_e,Hexanesulfonate C6H13O3S,0.0
+meoh_e,Methanol,0.0
+met_L_ala__L_e,Met L ala L C8H16N2O3S,0.0
+lipoate_e,Lipoate,0.0
+lys__L_e,L-Lysine,-0.0
+lysglugly_e,Lysine-glutamine-glycine tripeptide,0.0
+madg_e,Alpha Methyl D glucoside C7H14O6,0.0
+mal__D_e,D-Malate,0.0
+mal__L_e,L-Malate,-0.0
+malt_e,Maltose C12H22O11,0.0
+malttr_e,Maltotriose C18H32O16,0.0
+maltttr_e,Maltotetraose,0.0
+man_e,D-Mannose,0.0
+manglyc_e,2(alpha-D-Mannosyl)-D-glycerate,0.0
+mbdg_e,Beta Methylglucoside C7H14O6,0.0
+mcbtt_e,Mycobactin T,0.0
+melib_e,Melibiose C12H22O11,0.0
+mg2_e,Magnesium,0.0
+mmet_e,S-Methyl-L-methionine,0.0
+met__D_e,D-Methionine,0.0
+met__L_e,L-Methionine,-0.0
+metox__R_e,L methionine R oxide C5H11NO3S,0.0
+metox_e,L Methionine S oxide C5H11NO3S,-0.0
+metsox_R__L_e,L-methionine-R-sulfoxide,-0.0
+metsox_S__L_e,L-Methionine Sulfoxide,-0.0
+mobd_e,Molybdate,0.0
+mso3_e,Methanesulfonate,0.0
+mn2_e,Manganese,0.0
+mnl_e,D-Mannitol,0.0
+mththf_e,"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran",0.0
+nac_e,Nicotinate,-0.0
+leuleu_e,Leucylleucine,0.0
+leu__L_e,L-Leucine,0.0
+val__L_e,L-Valine,-0.0
+ttdcea_e,Tetradecenoate (n-C14:1),-0.0
+no3_e,Nitrate,-0.0
+nmn_e,NMN C11H14N2O8P,-0.0
+oxa_e,Oxalate,-0.0
+octa_e,Octanoate (n-C8:0),0.0
+pacald_e,Phenylacetaldehyde,0.0
+no2_e,Nitrite,0.0
+ppa_e,Propionate (n-C3:0),0.0
+pheme_e,Protoheme C34H30FeN4O4,0.0
+pi_e,Phosphate,-0.0
+pnto__R_e,(R)-Pantothenate,0.0
+progly_e,L-Prolinylglycine,0.0
+pro__L_e,L-Proline,0.0
+prohisglu_e,Proline-histidine-glutamine tripeptide,0.0
+phe__L_e,L-Phenylalanine,-0.0
+ser__L_e,L-Serine,0.0
+pyovd_kt_e,Pyoverdine  P putida specific,0.0
+rib__D_e,D-Ribose,0.0
+ribflv_e,Riboflavin C17H20N4O6,0.0
+salchs2_e,Salmochelin-S2,0.0
+s_e,Sulfur,0.0
+salchs2fe_e,Salmochelin-S2-Fe-III,0.0
+salchs4_e,Salmochelin-S4,0.0
+so3_e,Sulfite,-0.0
+salchs4fe_e,Salmochelin-S4-Fe-III,0.0
+salcn_e,Salicin C13H18O7,0.0
+ser__D_e,D-Serine,0.0
+so4_e,Sulfate,0.0
+serglugly_e,Serine-glutamine-glycine tripeptide,0.0
+spmd_e,Spermidine,0.0
+ptrc_e,Putrescine,0.0
+xyl__D_e,D-Xylose,0.0
+xan_e,Xanthine,-0.0
+stfrnB_e,Staphyloferrin B,0.0
+stfrnA_e,Staphyloferrin A,0.0
+succ_e,Succinate,-0.0
+sucr_e,Sucrose C12H22O11,-0.0
+sulfac_e,Sulfoacetate,0.0
+tagur_e,D-Tagaturonate,0.0
+taur_e,Taurine C2H7NO3S,0.0
+thm_e,Thiamin,0.0
+thr__L_e,L-Threonine,0.0
+thymd_e,Thymidine C10H14N2O5,0.0
+tnt_e,2 4 6 Trinitrotoluene,0.0
+tre_e,Trehalose,0.0
+trp__L_e,L-Tryptophan,0.0
+tsul_e,Thiosulfate,0.0
+udcpp_e,Undecaprenyl phosphate,0.0
+zn2_e,Zinc,0.0
+tyr__L_e,L-Tyrosine,0.0
+udcpdp_e,Undecaprenyl diphosphate,0.0
+urate_e,Urate C5H4N4O3,0.0
+ura_e,Uracil,-0.0
+uri_e,Uridine,0.0
+abt__L_e,L Arabinitol C5H12O5,1.0084892011712093e-17
+id3acald_e,Indole 3 acetaldehyde C10H9NO,2.368145708287659e-17
+h2s_e,Hydrogen sulfide,3.2407136968840764e-17
+pyr_e,Pyruvate,1.1556840938648193e-16
+nh4_e,Ammonium,0.31872509960159345

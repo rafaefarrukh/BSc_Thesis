@@ -1,0 +1,319 @@
+reaction_id,reaction_name,imbalance,distance_from_PHB
+Growth,Biomass reaction,"{'charge': 0.40572400000003306, 'C': -38.83041899999989, 'H': -60.16409599999967, 'N': -10.768223000000091, 'O': -18.219038000000197, 'S': -0.25062599999999996, 'P': -1.4040929999999974, 'Ca': -0.005205, 'Cl': -0.005205, 'Co': -0.0001, 'Cu': -0.000709, 'Fe': -0.014523, 'K': -0.195193, 'Mg': -0.008675, 'Mn': -0.000691, 'Zn': -0.000341}",1
+ACACT5r_1,Acetyl CoA C acyltransferase  decanoyl CoA,{'H': 4.0},1
+ACACT6r_1,Acetyl CoA C acyltransferase  dodecanoyl CoA,{'H': 4.0},1
+SUCBZL,O-succinylbenzoate-CoA ligase,{'H': -5.0},1
+NPHS,Naphthoate synthase,{'H': 5.0},1
+MMSDHir,Methylmalonate semialdehyde dehydrogenase  acylating,{'H': 1.0},1
+MACCOAT,2-Methylacetyl-CoA thiolase,{'H': 4.0},1
+HIBHr,3 hydroxyisobutyryl CoA hydrolase,{'H': 3.0},1
+KAS1,B-ketoacyl synthetase (Iso-C14:0),{'H': -1.0},1
+KAS11,B-ketoacyl synthetase (Iso-C17:0),{'H': -1.0},1
+KAS12,B-ketoacyl synthetase (Anteiso-C17:0),{'H': -1.0},1
+KAS3,B-ketoacyl synthetase (Iso-C15:0),{'H': -1.0},1
+KAS4,B-ketoacyl synthetase (Anteiso-C15:0),{'H': -1.0},1
+KAS6,B-ketoacyl synthetase (Iso-C16:0),{'H': -1.0},1
+G1PACT,Glucosamine-1-phosphate N-acetyltransferase,{'H': -2.0},1
+G3POA_BS,Glycerol 3 phosphate O acyltransferase,{'H': 1.48},1
+FACOAL140_ISO,Fatty acid  CoA ligase  Iso C140,{'H': -3.0},1
+FACOAL141t2pp,Fatty-acid-CoA ligase (tetradecenoate transport via vectoral Co-A coupling),{'H': -4.0},1
+FACOAL150_ISO,Fatty acid  CoA ligase  Iso C150,{'H': -3.0},1
+FACOAL150_anteiso,Fatty acid  CoA ligase  anteiso C150,{'H': -3.0},1
+FACOAL160_ISO,Fatty acid  CoA ligase  Iso C160,{'H': -3.0},1
+FACOAL170_ISO,Fatty acid  CoA ligase  Iso C170,{'H': -3.0},1
+FACOAL170_anteiso,Fatty acid  CoA ligase  anteiso C170,{'H': -3.0},1
+FACOAL180_2,Fatty acid  CoA ligase  octadecanoate,{'H': -4.0},1
+ACPS1,Acyl-carrier protein synthase,{'H': -1.0},1
+ACPS1_1,"CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase, cytosol",{'H': -1.0},1
+DHPACCOAHIT,"1,2-Dihydroxy-1,2-dihydrophenylacetyl-CoA Hydratase/Isomerase/Ketothiolase complex",{'H': 4.0},1
+BSCT,Benzoylsuccinyl-CoA thiolase,{'H': 5.0},1
+AGPATr_BS,1 acylglycerol 3 phosphate O acyltransferase,{'H': 3.4799999999999858},1
+AACLAM,Acetyl adenylate CoA ligase AMP-forming,{'H': 2.0},1
+LIPO4S24_BS,Lipoteichoic acid synthesis  n24   linked  unsubstituted,{'H': -2400.0},2
+PFK_2,Phosphofructokinase,{'H': -2.0},2
+PFK,Phosphofructokinase,{'H': -4.0},2
+PAP_BS,Phosphatidic acid phosphatase,{'H': 2.0},2
+PAPPT3,"Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)",{'H': -3.0},2
+PAP,Phosphatidate phosphatase,{'H': 2.0},2
+OXCOAHDH,"Oxepin-CoA hydrolase/ 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase (NADP+)",{'H': -1.0},2
+LPLIPAL2G181,"Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:1)",{'H': -1.0},2
+LPLIPAL1A161pp,"Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:1) (periplasm)",{'H': 2.0},2
+PFK_4,Phosphofructokinase (s7p),{'H': -4.0},2
+LIPO3S24_BS,Lipoteichoic acid synthesis  n24   unliked  D alanine substituted,{'H': -2400.0},2
+LIPO2S24_BS,Lipoteichoic acid synthesis  n24   linked  N acetylglucosamine substituted,{'H': -2400.0},2
+LIPO1S24_BS,Lipoteichoic acid synthesis  n24   linked  glucose substituted,{'H': -2400.0},2
+LIPATPT_2,Lipoate-ATP adenylate transferase,{'H': -1.0},2
+LIPAMPL,Lipoyl-adenylate protein ligase,{'H': 2.0},2
+MLTGY4pp,Murein lytic transglycosylase (murein4px4p4p) (periplasm),{'H': -4.0},2
+MLTGY3pp,Murein lytic transglycosylase (murein3p3p) (periplasm),{'H': -4.0},2
+MLTGY2pp,Murein lytic transglycosylase (murein4p3p) (periplasm),{'H': -2.0},2
+MGCH,Methylglutaconyl-CoA hydratase,{'H': 5.0},2
+PRASCSi,Phosphoribosylaminoimidazolesuccinocarboxamide synthase,{'H': 3.0},2
+PRAMPC_1,Phosphoribosyl AMP cyclohydrolase,{'H': 4.0},2
+PPTGS_BS,Peptidoglycan subunit synthesis,{'H': -1.0},2
+PPNDH,Prephenate dehydratase,{'H': 2.0},2
+PPND,Prephenate dehydrogenase,{'H': 2.0},2
+PPM2,Phosphopentomutase 2 (deoxyribose),{'H': 2.0},2
+PPM,Phosphopentomutase,{'H': -2.0},2
+PLPS_1,Pyridoxal-5-phosphate synthase,{'H': 2.0},2
+MLDEP1pp,"Murein L,D-endopeptidase (murein3px3p) (periplasm)",{'H': 4.0},2
+MEPCT,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,{'H': 2.0},2
+MDDEP3pp,"Murein D,D-endopeptidase (murein5px4p) (periplasm)",{'H': 4.0},2
+MDDEP1pp,"Murein D,D-endopeptidase (murein4px4p) (periplasm)",{'H': 4.0},2
+MDDCP2pp,"Murein D,D-carboxypeptidase (murein5px4px4p) (periplasm)",{'H': 6.0},2
+MCTP2App,Murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm),{'H': -6.0},2
+MCTP1App,Murein crosslinking transpeptidase 1A:(A2pm->D-ala) (periplasm),{'H': -4.0},2
+PGPP181pp,"Phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:1)",{'H': 3.0},2
+PGI1c,"Glucose-6-phosphateisomerase,glycosome",{'H': 2.0},2
+GTPDPK_1,ATP:GTP 3'-diphosphotransferase,{'H': -7.0},2
+MANGLYCptspp,2-O-alpha-mannosyl-D-glycerate transport via PEP:Pyr PTS (periplasm),{'H': -3.0},2
+MAN6PI,Mannose-6-phosphate isomerase,{'H': 2.0},2
+HACD9,3 hydroxyacyl CoA dehydrogenase  2 Methylacetoacetyl CoA,{'H': -4.0},2
+HACD8i,3-hydroxyacyl-CoA dehydrogenase (3-oxooctadecanoyl-CoA),{'H': 4.0},2
+HACD8,"3-hydroxyacyl-CoA dehydrogenase (3-oxooctadecanoyl-CoA), peroxisomal",{'H': -4.0},2
+HACD3,3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA),{'H': -4.0},2
+HACD1_1,3 hydroxyacyl CoA dehydrogenase  acetoacetyl CoA,{'H': -4.0},2
+GUI2,Glucuronate isomerase (D-galacturonate),{'H': -1.0},2
+MANPGH,2-O-alpha-mannosyl-6-phosphate-D-glycerate hydrolase,{'H': 1.0},2
+GTPDPK,GTP diphosphokinase,{'H': -7.0},2
+GPDDA4,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),{'H': 1.0},2
+GLYTYRabc,Gly-Try ABC transporters,{'H': 1.0},2
+GLYTYRAP,Gly-Try aminopeptidase,{'H': -1.0},2
+GLYPHEtr,Gly-Phe ABC transporters,{'H': 1.0},2
+GLYPHEAP,Gly-Phe aminopeptidase,{'H': -1.0},2
+GLYLEUtr,Gly-Leu ABC transporters,{'H': 1.0},2
+GLYLEUAP,Gly-Leu aminopeptidase,{'H': -1.0},2
+HEX4,Hexokinase (D-mannose:ATP),{'H': -2.0},2
+MLDCP3App,"Murein L,D-carboxypeptidase (murein5px3p) (periplasm)",{'H': -4.0},2
+MLDCP1App,"Murein L,D-carboxypeptidase (murein5px4p) (periplasm)",{'H': 4.0},2
+MHPGLUT2,5-methyltetrahydropteroyltriglutamate methyltransferase,{'H': 4.0},2
+MHPGLUT,5 methyltetrahydropteroyltriglutamate homocysteine S methyltransferase,{'H': 4.0},2
+KARA2,Ketol-acid reductoisomerase (2-Acetolactate),{'H': 1.0},2
+ILEDHr,Isoleucine dehydrogenase,{'H': -1.0},2
+ICHORT,Isochorismatase,{'H': -1.0},2
+HKM1PP,2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate phophatase,{'H': 1.0},2
+PRATPP,Phosphoribosyl-ATP pyrophosphatase,{'H': 2.0},2
+HEMEOS_1,Heme O synthase,{'H': -2.0},2
+HDECH,,{'H': -2.0},2
+HCYSMT2,Homocysteine Methyltransferase,{'H': -1.0},2
+HACOADr,3 hydroxyacyl CoA dehydrogenase,{'H': -1.0},2
+MCTC_1,,{'H': -5.0},2
+MCCC,Methylcrotonoyl-CoA carboxylase,{'H': -5.0},2
+MCBTFUexs,Mycobactin Fe loading reaction  spontaneous,{'H': 3.0},2
+MANpts,D-mannose transport via PEP:Pyr PTS,{'H': -2.0},2
+ACOAM,Acetate CoA ligase AMP-forming,{'H': -2.0},2
+RPI,Ribose-5-phosphate isomerase,{'H': 2.0},2
+RHACOAR80,3R  3 Hydroxyacyl CoANADP oxidoreductase,{'H': -4.0},2
+REPHACCOAI,"Ring 1,2-epoxyphenylacetyl-CoA isomerase (oxepin-CoA forming)",{'H': -4.0},2
+ACPPAT181,Acyl-(acyl carrier protein):phosphate acyltransferase (C18:1),{'H': -2.0},2
+ACPPAT180,Acyl-(acyl carrier protein):phosphate acyltransferase (C18:0),{'H': -3.0},2
+ACPPAT161,Acyl-(acyl carrier protein):phosphate acyltransferase (C16:1),{'H': -3.0},2
+ACPPAT160,Acyl-(acyl carrier protein):phosphate acyltransferase (C16:0),{'H': -2.0},2
+ACP1_FMN,Acid phosphatase (FMN),{'H': 2.0},2
+RU5PS,Ribulose-5-P Synthetase,{'H': -2.0},2
+ACOAD6,Acyl-CoA dehydrogenase (tetradecanoyl-CoA),{'H': -4.0},2
+ACOAD4_1,Acyl CoA dehydrogenase  decanoyl CoA,{'H': 4.0},2
+ACOAD3,Acyl-CoA dehydrogenase (octanoyl-CoA),{'H': -4.0},2
+ACMANApts,N-acetyl-D-mannosamine transport via PTS,{'H': -2.0},2
+ACM6PH,N-acetylmuramate 6-phosphate hydrolase,{'H': 3.0},2
+PTHPS,6-pyruvoyltetrahydropterin synthase,{'H': -4.0},2
+PSUDS,Pseudouridylate synthase,{'H': 2.0},2
+PSSA180,Phosphatidylserine syntase (n-C18:0),{'H': -1.0},2
+UAPGR,UDP-N-acetylenolpyruvoylglucosamine reductase,{'H': -3.0},2
+ACLS_d,2-alpha-Hydroxyethylthiamine diphosphate lipoamide,{'H': 2.0},2
+ACLS_a,Acetolactate synthase,{'H': -2.0},2
+ACHBS,2-aceto-2-hydroxybutanoate synthase,{'H': -1.0},2
+TPI,Triose-phosphate isomerase,{'H': -2.0},2
+TRPS1,Tryptophan synthase (indoleglycerol phosphate),{'H': -2.0},2
+TRPS3,Tryptophan synthase (indoleglycerol phosphate),{'H': -2.0},2
+UAGDP,UDP-N-acetylglucosamine diphosphorylase,{'H': 2.0},2
+UAMAS,UDP-N-acetylmuramoyl-L-alanine synthetase,{'H': 3.0},2
+PSSA161,Phosphatidylserine syntase (n-C16:1),{'H': -1.0},2
+UDCPDP,Undecaprenyl-diphosphatase,{'H': 2.0},2
+UDCPDPex,Undecaprenyl-diphosphatase (periplasm),{'H': 2.0},2
+UM3PL,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase,{'H': 3.0},2
+UPP3MT_2,Uroporphyrinogen methyltransferase,{'H': -8.0},2
+YUMPS,YUMP synthetase,{'H': 2.0},2
+2AACLPGT161,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -1.0},2
+2AACLPGT160,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -2.0},2
+SALCHS2FEexs,Salmochelin s2 Fe III sequestration,{'H': 3.0},2
+PUNP2,Purine-nucleoside phosphorylase (Deoxyadenosine),{'H': -2.0},2
+RECOAH2,3 hydroxyacyl Coa dehydratase   3R  3 hydroxyhexanoyl CoA,{'H': 4.0},2
+RBK,Ribokinase,{'H': -2.0},2
+RBFSa_1,Riboflavin synthase,{'H': 2.0},2
+RBFSa,Riboflavin synthase,{'H': 2.0},2
+RBFK,Riboflavin kinase,{'H': -2.0},2
+R5PP,Ribose 5-phosphate phosphatase,{'H': 2.0},2
+PUNP6,Purine-nucleoside phosphorylase (Deoxyinosine),{'H': -2.0},2
+PUNP4,Purine-nucleoside phosphorylase (Deoxyguanosine),{'H': -2.0},2
+PGSA181,Phosphatidylglycerol synthase (n-C18:1),{'H': -3.0},2
+PTHPS_1,6-pyruvoyltetrahydropterin synthase,{'H': -4.0},2
+NOS3,N-omega-Hydroxyarginine NADPH oxygen oxidoreductase,{'H': -4.0},2
+NMO,Nitronate Monooxygenase,{'H': -4.0},2
+NMNN,NMN nucleosidase,{'H': -2.0},2
+MPTG2,Murein polymerizing transglycosylase 2 (three linked units),{'H': 1.0},2
+MPTG,Murein polymerizing transglycosylase,{'H': 2.0},2
+MN6PP,Mannose 6-phosphate phosphatase,{'H': 2.0},2
+PRPPS,Phosphoribosylpyrophosphate synthetase,{'H': 2.0},2
+SHGO,S-2-hydroxyglutarate oxidase,{'H': 2.0},2
+PSD180,Phosphatidylserine decarboxylase (n-C18:0),{'H': 1.0},2
+PSD161,Phosphatidylserine decarboxylase (n-C16:1),{'H': 1.0},2
+SPP,Sucrose-phosphate phosphatase,{'H': 2.0},2
+SPMS,Spermidine synthase,{'H': -2.0},2
+SMIB1,Staphyloferrin B Mediated Iron Acquisition,{'H': 2.0},2
+SMIA2abc,Siderophore Mediated Iron Acquisition: Staphyloferrin B transport via ABC,{'H': -2.0},2
+SMIA1,Staphyloferrin A Mediated Iron Acquisition,{'H': 2.0},2
+SLCYSS,O-acetyl-L-serine sulfhydrylase,{'H': 1.0},2
+GLYCYSabc,Gly-Cys ABC transporters,{'H': 1.0},2
+SHCHF_2,Sirohydrochlorin ferrochetalase,{'H': 8.0},2
+SCYSSL,S-sulfo-L-cysteine sulfite lyase,{'H': 1.0},2
+SALCHS4FEexs,Salmochelin S4 Fe III binding spontaneous,{'H': 3.0},2
+PLIPA1G161pp,"Phospholipase A1 (phosphatidylglycerol, n-C16:1) (periplasm)",{'H': -1.0},2
+PLIPA1G160pp,"Phospholipase A1 (phosphatidylglycerol, n-C16:0) (periplasm)",{'H': 1.0},2
+PLCD,PLCD,{'H': 1.0},2
+PHHL2,,{'H': 2.0},2
+PHACOAOR,Phenylacetyl-CoA oxygenase/reductase,{'H': -4.0},2
+AMPEP10,Aminopeptidase,{'H': 1.0},2
+AMPEP8,Aminopeptidase,{'H': 1.0},2
+AMPEP5,Aminopeptidase,{'H': 1.0},2
+AMPEP18,Aminopeptidase,{'H': 1.0},2
+DASYN181,CDP-diacylglycerol synthetase (n-C18:1),{'H': 2.0},2
+DASYN180,CDP-diacylglycerol synthetase (n-C18:0),{'H': 2.0},2
+DASYN161,CDP-diacylglycerol synthetase (n-C16:1),{'H': 2.0},2
+AMPEP14,Aminopeptidase,{'H': 1.0},2
+AMPEP11,Aminopeptidase,{'H': -1.0},2
+AMPTASEGGLU,Aminopeptidase  Gly Glu,{'H': 1.0},2
+AMANK_1,N-acetyl-D-mannosamine kinase,{'H': -2.0},2
+AMANK,N-acetyl-D-mannosamine kinase,{'H': -2.0},2
+AMANAPEr,N-acetylmannosamine 6-phosphate epimerase,{'H': 2.0},2
+AIRCr,Phosphoribosylaminoimidazole carboxylase,{'H': -1.0},2
+AIRC1,Phosphoribosylaminoimidazole carboxylase  ATP dependent,{'H': -1.0},2
+AHSERL4,Cysteine synthase  Thiosulfate,{'H': 2.0},2
+AHMMPS_1,4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase,{'H': 2.0},2
+AH6PI,Arabino-3-hexulose-6-P Isomerase,{'H': 2.0},2
+ATPPRT,ATP phosphoribosyltransferase,{'H': -6.0},2
+SUCBZS,O-succinylbenzoate-CoA synthase,{'H': 2.0},2
+CHORM,Chorismate mutase,{'H': -2.0},2
+CELBpts,Cellobiose transport via PEPPyr PTS,{'H': -2.0},2
+CDGUNPD,"3,5-cyclic-nucleotide phosphodiesterase",{'H': 2.0},2
+BTS3r,Biotin synthase,{'H': 1.0},2
+DXPRIi,1-deoxy-D-xylulose reductoisomerase,{'H': -2.0},2
+DURIPP_1,Deoxyuridine phosphorylase,{'H': -2.0},2
+DURIPP,Deoxyuridine phosphorylase,{'H': -2.0},2
+AGPAT181,1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1),{'H': -3.0},2
+ARGSS,Argininosuccinate synthase,{'H': -1.0},2
+ARGSL,Argininosuccinate lyase,{'H': 1.0},2
+APTA1i,Acetyl L L diaminopimelate aminotransferase,{'H': -1.0},2
+APG3PAT181,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C18:1),{'H': 1.0},2
+APG3PAT180,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C18:0),{'H': 1.0},2
+APG3PAT161,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C16:1),{'H': -1.0},2
+APG3PAT160,Acyl-phosphate:glycerol-3-phosphate acyltransferase (C16:0),{'H': 1.0},2
+ANHMK,"1,6-anhydrous-N-Acetylmuramate kinase",{'H': -3.0},2
+TKT2,Transketolase,{'H': -2.0},2
+TNTR2x,TNT nitroreductase 2 Hydroxylamino 4 6 dinitrotoluene,{'H': -1.0},2
+AMPEP15,Aminopeptidase,{'H': 1.0},2
+TNTR2,TNT nitroreductase 2 Hydroxylamino 4 6 dinitrotoluene,{'H': -1.0},2
+TNTR1x,TNT nitroreductase 4 Hydroxylamino 2 6 dinitrotoluene,{'H': -1.0},2
+TNTR1,TNT nitroreductase 4 Hydroxylamino 2 6 dinitrotoluene,{'H': -1.0},2
+TNTHAC2,2 4 6 dinitrotoluene meisenheimer dihydrideTNT derived hydroxylamines condensation,{'H': 1.0},2
+TNTHAC1,2 4 6 dinitrotoluene meisenheimer dihydrideTNT derived hydroxylamines condensation,{'H': 1.0},2
+TMDPP,Thymidine phosphorylase,{'H': -2.0},2
+2AACLPGT180,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -2.0},2
+TGBPA,Tagatose-bisphosphate aldolase,{'H': 2.0},2
+TECA3S45,Glycerol teichoic acid  n45   unlinked  glucose substituted,{'H': -45.0},2
+TECA2S45,Glycerol teichoic acid  n45   unlinked  D ala substituted,{'H': -45.0},2
+TECA1S45,Glycerol teichoic acid  n45   unlinked  unsubstituted,{'H': -45.0},2
+TALA,Transaldolase,{'H': 2.0},2
+TAGURr,Tagaturonate reductase,{'H': -1.0},2
+SUCpts,Sucrose transport via PEP:Pyr PTS,{'H': -2.0},2
+SUCD2,Succinate dehydrogenase dehydrogenase (menaquinone 8 as acceptor),{'H': 2.0},2
+AACPS3,Acyl-[acyl-carrier-protein] synthetase  (n-C16:0),{'H': 1.0},2
+AGPAT180,1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0),{'H': -4.0},2
+AGPAT161,1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1),{'H': -2.0},2
+BGLA1,6-phospho-beta-glucosidase,{'H': 2.0},2
+BALAMDAH,Beta Alaninamide amidohydrolase,{'H': -1.0},2
+AACPS9,Acyl-[acyl-carrier-protein] synthetase  (n-C8:0),{'H': 2.0},2
+AACPS6,Acyl-[acyl-carrier-protein] synthetase  (n-C18:0),{'H': 2.0},2
+AACPS5,Acyl-[acyl-carrier-protein] synthetase  (n-C18:1),{'H': 1.0},2
+AACPS4,Acyl-[acyl-carrier-protein] synthetase  (n-C16:1),{'H': 2.0},2
+CMCBTFexs,Carboxymycobactin Fe loading reaction  spontaneous,{'H': 3.0},2
+A6PAG2,,{'H': -2.0},2
+A6PAG,,{'H': -2.0},2
+2S6HCCi,2 succinyl 6 hydroxy 2 4 cyclohexadiene 1 carboxylate synthase,{'H': -2.0},2
+2AACLPPEAT181,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -1.0},2
+2AACLPPEAT180,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -2.0},2
+2AACLPPEAT161,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -2.0},2
+2AACLPPEAT160,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -1.0},2
+2AACLPGT181,2 acyl acyl carrier protein glycerophospho glycerol acyltransferase  n C160,{'H': -1.0},2
+FEENTERexs,Enterobactin Fe(III) binding (spontaneous),{'H': 2.0},2
+G3PAT181,Glycerol-3-phosphate acyltransferase (C18:1),{'H': -1.0},2
+G3PAT180,Glycerol-3-phosphate acyltransferase (C18:0),{'H': -2.0},2
+G3PAT161,Glycerol-3-phosphate acyltransferase (C16:1),{'H': -4.0},2
+G3PAT160,Glycerol-3-phosphate acyltransferase (C16:0),{'H': -1.0},2
+FRUK,Fructose-1-phosphate kinase,{'H': -4.0},2
+FRDO,FRDO,{'H': 1.0},2
+FFSD,Beta-fructofuranosidase,{'H': 2.0},2
+FEOXAMexs,Ferroxamine Fe3-loading reaction (spontaneous),{'H': 3.0},2
+DXPS,1-deoxy-D-xylulose 5-phosphate synthase,{'H': 2.0},2
+FE3PYOVDL2,Ferripyoverdine complex formation  P putida KT2440 specific,{'H': 3.0},2
+FE3DCITexs,Dicitrate Fe(III) binding (spontaneous),{'H': -3.0},2
+FBP,Fructose-bisphosphatase,{'H': 4.0},2
+FBA3,"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase",{'H': 4.0},2
+FBA,Fructose-bisphosphate aldolase,{'H': 2.0},2
+AEPPYRTA,2 aminoethylphosphonate pyruvate transaminase,{'H': -2.0},2
+ADSS,Adenylosuccinate synthase,{'H': -4.0},2
+ADSL1r,Adenylsuccinate lyase,{'H': 4.0},2
+GCCb_1,Glycine cleavage complex,{'H': -1.0},2
+GLYCYSAP,Gly-Cys aminopeptidase,{'H': -1.0},2
+GLUTRS,Glutamyl-tRNA synthetase,{'H': -3.0},2
+GLUTRR,Glutamyl-tRNA reductase,{'H': 3.0},2
+GLUTARH,Glutarate hydroxylase,{'H': -2.0},2
+GLUKA_1,Glucokinase/hexokinase (glc-A),{'H': -2.0},2
+GLTPD,Galactitol-1-phosphate dehydrogenase,{'H': -2.0},2
+GLCADpts,,{'H': -2.0},2
+GDPTPDP,Guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase,{'H': 7.0},2
+ADPRDP_1,ADPribose diphosphatase,{'H': -2.0},2
+GCCb,Glycine cleavage complex,{'H': -1.0},2
+GCCa_1,Glycine-cleavage complex,{'H': 1.0},2
+GCCa,Glycine-cleavage complex,{'H': 1.0},2
+GARFT,Phosphoribosylglycinamide formyltransferase,{'H': -2.0},2
+GAPDi_nadp,Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating),{'H': -2.0},2
+GAPD,Glyceraldehyde-3-phosphate dehydrogenase,{'H': 2.0},2
+GALpts,Galactose transport via PTS,{'H': -2.0},2
+ECOAH1_1,3 hydroxyacyl CoA dehydratase  3 hydroxybutanoyl CoA,{'H': 4.0},2
+AGM4PCP,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide L,D-carboxypeptidase",{'H': -2.0},2
+CPGNexs,Coprogen Fe-loading reaction (spontaneaous),{'H': 1.0},2
+DHBSZ3FEexs,23dhbsz3 Fe III sequestration,{'H': 3.0},2
+DHBD,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",{'H': 1.0},2
+DHAD3,Dihydroxy acid dehydratase  2 3 dihydroxy 3 methylpentanoate,{'H': -1.0},2
+DHACOAH,"2,3-dehydroadipyl-CoA hydratase",{'H': 5.0},2
+DGUNC,Diguanylate cyclase,{'H': -2.0},2
+DB4PS,"3,4-Dihydroxy-2-butanone-4-phosphate synthase",{'H': -1.0},2
+AGPAT160,1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0),{'H': -1.0},2
+DHNCOAS,"1,4-dihydroxy-2-napthoyl-CoA synthase",{'H': 5.0},2
+AGM3PH,"N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide beta -1,4-N-acetylglucosaminidase",{'H': 2.0},2
+AGM3PApp,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase (periplasm),{'H': 2.0},2
+DAGK_BS,Diacylglycerol kinase,{'H': -2.0},2
+DAGK,Diacylglycerol kinase,{'H': -2.0},2
+DACL,,{'H': 3.0},2
+D5KGPA,2-Deoxy-5-keto-D-gluconate 6-phosphate aldolase,{'H': 3.0},2
+D5KGK,2-Deoxy-5-Keto-D-gluconate kinase,{'H': -3.0},2
+CYSK2_I,O-Phospho-L-Serine-dependent S-Suflocysteine Synthase,{'H': 1.0},2
+EDA,2-dehydro-3-deoxy-phosphogluconate aldolase,{'H': -2.0},2
+ADPRDP,ADPribose diphosphatase,{'H': -2.0},2
+ADPDA,N6 acetyl LL 2 6 diaminoheptanedioate amidohydrolase,{'H': 1.0},2
+ADMDC,Adenosylmethionine decarboxylase,{'H': 2.0},2
+ADK2,Adenylate kinase (Inorganic triphosphate),{'H': 4.0},2
+ACSERHS,O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide),{'H': 2.0},2
+ACPpds,[acyl-carrier-protein] phosphodiesterase,{'H': 1.0},2
+FA80ACPHi,Fatty-acyl-ACP hydrolase,{'H': -2.0},2
+DKMD2K,1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  2 keto 4 methylthiobutyrate,{'H': 2.0},2
+ECOAH8,3-hydroxyacyl-CoA dehydratase (3-hydroxyoctadecanoyl-CoA),{'H': 4.0},2
+ECOAH6,3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA),{'H': -4.0},2
+ECOAH5_1,3 hydroxyacyl CoA dehydratase  3 hydroxydodecanoyl CoA,{'H': -4.0},2
+ECOAH2c,Enoyl CoA hydratase  bacterial,{'H': -3.0},2
+DRPA,Deoxyribose-phosphate aldolase,{'H': -2.0},2
+DNTPPA,Dihydroneopterin triphosphate pyrophosphatase,{'H': -2.0},2
+DNMPPA,Dihydroneopterin monophosphate dephosphorylase,{'H': 2.0},2
+DM1PE,2 3 diketo 5 methylthiopentyl 1 phosphate enolase,{'H': -3.0},2
+CDPPT160,CDPPT160,{'H': -1.0},3

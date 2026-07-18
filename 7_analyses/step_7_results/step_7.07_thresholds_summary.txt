@@ -1,0 +1,6 @@
+STEP 7.07 — 1D Robustness: limitation / saturation thresholds
+======================================================================
+Glucose: growth becomes nonzero at uptake >= 0.000 mmol/gDW/h; reaches ~99% of max growth (0.4137 /h) at uptake >= 0.000 mmol/gDW/h.
+Oxygen: growth becomes nonzero at uptake >= 0.000 mmol/gDW/h; reaches ~99% of max growth (0.4137 /h) at uptake >= 14.655 mmol/gDW/h.
+Nitrogen (NH4): growth becomes nonzero at uptake >= 0.000 mmol/gDW/h; reaches ~99% of max growth (0.4137 /h) at uptake >= 0.000 mmol/gDW/h.
+Maltose: growth becomes nonzero at uptake >= 0.000 mmol/gDW/h; reaches ~99% of max growth (0.4294 /h) at uptake >= 0.690 mmol/gDW/h.

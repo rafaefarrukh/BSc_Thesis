@@ -1,0 +1,36 @@
+Loading model from: ../models/model_7.xml
+Loaded model 'model1': 1963 reactions, 1257 metabolites, 1159 genes
+Biomass reaction: Growth | bounds=(0.0, 1000.0)
+PHB reaction:     PHBS_syn_1 | bounds=(0.0, 10.0)
+======================================================================
+STEP 7.25 — LOOPLESS RE-VERIFICATION
+======================================================================
+
+[growth_optimum] standard objective value = 0.445370
+  loopless growth flux (Growth) = 0.445370
+  reactions with non-trivial loopless correction: 0
+
+[PHB_optimum] standard objective value = 10.000000
+  loopless PHB flux (PHBS_syn_1) = 10.000000
+  reactions with non-trivial loopless correction: 0
+
+Top 15 reactions most affected by loopless correction (vs. step_7.3 pFBA):
+             loopless_flux  step_7.3_flux  delta_vs_step_7.3
+reaction_id                                                 
+ACS                   20.0       5.057745          14.942255
+PYK                   20.0       8.429574          11.570426
+Htex                  20.0       9.534809          10.465191
+PBUTT                 10.0       0.000000          10.000000
+BUTKr                -10.0       0.000000         -10.000000
+BUTCT                 10.0       0.000000          10.000000
+EX_etoh_e            -10.0       0.000000         -10.000000
+ETOHtex               10.0       0.000000          10.000000
+ALCD2x                10.0       0.000000          10.000000
+ETOHtrpp              10.0       0.000000          10.000000
+EX_acald_e            10.0       0.000000          10.000000
+ACALDt               -10.0       0.000000         -10.000000
+GLUDy                  0.0      10.000000         -10.000000
+EX_glyald_e           10.0       0.000000          10.000000
+ALCD19y              -10.0       0.000000         -10.000000
+
+Summary written to: ./step_7.25_summary.txt

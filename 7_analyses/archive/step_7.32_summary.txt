@@ -1,0 +1,18 @@
+STEP 7.32 — Bottleneck identification summary
+============================================================
+Growth rate by substrate (aerobic, single substrate open):
+  Glucose      0.3722 /h
+  Fructose     0.3722 /h
+  Glycerol     0.3722 /h
+  Sucrose      0.3722 /h
+  Maltose      0.4454 /h
+  Mannose      0.3722 /h
+  Mannitol     0.3722 /h
+  Arabinose    0.3722 /h
+  Melibiose    0.3722 /h
+  Acetate      0.3722 /h
+  Succinate    0.3722 /h
+  Pyruvate     0.3722 /h
+
+Reactions saturated in every non-maltose substrate but not in maltose: 0
+No common bottleneck reaction found via this method -- consider widening the saturation tolerance or checking FVA ranges instead of a single pFBA solution.
