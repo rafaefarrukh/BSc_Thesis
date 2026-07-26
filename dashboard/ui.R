@@ -3,6 +3,11 @@
 ###################################################################################################
 
 ui <- page_navbar(
+
+  theme = bs_theme(
+    version = 5,
+    bootswatch = "flatly"
+    ),
   
   title = "BSc Thesis",
   navbar_options = navbar_options(underline = TRUE),
