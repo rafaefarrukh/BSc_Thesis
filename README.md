@@ -12,6 +12,8 @@
 
 The entire pipeline is orchestrated by a single master script, **`0_Pipeline.sh`**. Running this one script executes every step below **in order**, from environment setup through final analyses: it builds the mamba environment, then calls each step's script sequentially (`1_genome/step_1.sh` → `5_carveme/step_5.1.R` → `5_carveme/step_5.2.sh` → the `6_curation/` scripts → the `7_analyses/` scripts), `cd`-ing into each stage's folder as needed. Every Python step is piped through `tee` to save a `.log` file alongside its output, and `echo "==="` separators are printed between analysis steps so progress is easy to follow in the terminal. Steps 2, 3, and 4 (BAKTA, BLAST/domain validation, and KBase) are performed online/manually and are not called by the script — they sit between the automated steps.
 
+The results are organized in a shiny dashboard which can be accessed [here](https://rafaefarrukh.shinyapps.io/bsc_thesis/).
+
 ---
 
 ## Step 0: Environment Setup
