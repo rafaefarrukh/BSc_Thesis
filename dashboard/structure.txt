@@ -1,0 +1,32 @@
+Dashboard Structure
+
+Main Structure
+- global.R  libraries, import data and other files
+- ui.R      skelaton structure of dashboard
+- server.R  place all render functions
+
+Page Structure
+- ui/x_ui_page.R
+- server/x_server_page.R
+
+Dashboard Structure
+- 0: Overview                              Overall overview of study, ARS23, and dashboard
+- 1: Genome Annotation                     Bakta annotated genome table
+- 2: phaC                                  3D protein structure predicted by ColabFold
+- 3: GEM                                   Biochemical network
+- 4: FBA                                   Base FBA, pFBA, and production envelope
+- 5: PHB Flexibility                       Feasible flux range for all reactions relavent to PHB synthesis
+- 6: Sensitivity and Perturbations
+  - 6.A: Environmental Screening           Medium and Aeration X Carbon Screening
+  - 6.B: Robustness                        1D and 2D Robustness
+  - 6.C: PhPP                              Phenotypic Phase Plane
+  - 6.D: dFBA                              Dynamic FBA (result warning)
+- 7: System Diagnostics
+  - 7.A: Diagnostics                       Shadow Prices and Reduced Costs
+  - 7.B: Bottlenecks                       Bottlenecks in PHB synthesis
+  - 7.C: Multi-FVA                         FVA at 100, 90, and 50%
+  - 7.D: Strain Design                     Reaction Knockouts
+- 8: Cost                                  Medium, Downstream, and Total Production Cost
+
+Launch Dashboard in "/GEM"
+runApp("dashboard")
