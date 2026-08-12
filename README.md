@@ -42,7 +42,7 @@ pip install cameo straindesign
 
 ## Step 1: Acquiring the Genome
 
-We know that the bacteria of interest is *Rosellomora marisflavi*, and by searching it on NCBI Genome we found 47 genomes. We selected the reference genome for the study as it should best represent the species.
+We know that the bacteria of interest is *Rosellomora marisflavi*, and by searching it on NCBI Genome we found 45 genomes. We selected the reference genome for the study as it should best represent the species.
 
 - **NCBI Genome:** https://www.ncbi.nlm.nih.gov/datasets/genome/?taxon=189381
 - **Rosellomora marisflavi UTDF19-31A (ASM2217078v1):** https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_022170785.1/
